@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<title>Haber Robotu</title>
+<style>
+body { font-family: Arial; margin: 40px; }
+h2 { margin-top: 40px; }
+.article { border-bottom: 1px solid #ccc; padding: 15px 0; }
+img { width: 300px; height: auto; }
+</style>
+</head>
+<body>
+<h1>Güncel Haberler</h1>
+<div id="haberler"></div>
+
+<script>
+async function loadNews() {
+    try {
+        const res = await fetch("news/latest.json");
+        const data = await res.json();
+
+        const container = document.getElementById("haberler");
+        container.innerHTML = "";
+
+        data.articles.forEach(a => {
+            container.innerHTML += `
+                <div class="article">
+                    <h2>${a.title}</h2>
+                    <img src="${a.image}">
+                    <p>${a.summary}</p>
+                    <a href="${a.url}" target="_blank">Haberi Oku</a>
+                </div>
+            `;
+        });
+
+    } catch (err) {
+        console.log("Haber yüklenemedi:", err);
+    }
+}
+
+loadNews();
+</script>
+</body>
+</html>
