@@ -1,9 +1,10 @@
 import os
 import json
 import re
-import urllib.parse
 from datetime import datetime
 import xml.etree.ElementTree as ET
+import urllib.parse
+from urllib.parse import urlparse
 
 import requests
 
@@ -47,16 +48,40 @@ def extract_image(item):
 
     return ""
 
+def is_foreign(url: str) -> bool:
+    """Sonu .tr ile bitmeyen domainleri 'yabancı' say."""
+    try:
+        d = urlparse(url).hostname or ""
+        d = d.replace("www.", "")
+        return not d.endswith(".tr")
+    except Exception:
+        return True
+
+TRANSLATION_CALLS = 0
+TRANSLATION_LIMIT = 60 # tek çalışmada maksimum çeviri isteği
+
 def translate_to_tr(text: str) -> str:
-    """MyMemory API ile EN -> TR çeviri (server-side)"""
+    """MyMemory API ile EN -> TR çeviri. Limit ve WARNING filtreli."""
+    global TRANSLATION_CALLS
     if not text:
         return text
+    if TRANSLATION_CALLS >= TRANSLATION_LIMIT:
+        return text
+
     try:
-        query = urllib.parse.quote(text[:450]) # çok uzun metinlerde kısalt
+        TRANSLATION_CALLS += 1
+        query = urllib.parse.quote(text[:450]) # çok uzun metinleri kısalt
         url = f"https://api.mymemory.translated.net/get?q={query}&langpair=en|tr"
         r = requests.get(url, timeout=10)
         data = r.json()
-        translated = data.get("responseData", {}).get("translatedText")
+        translated = (data.get("responseData", {}) or {}).get("translatedText") or ""
+
+        # Günlük limit dolduğunda gelen WARNING metnini tamamen yoksay
+        upper = translated.upper()
+        if "MYMEMORY WARNING" in upper or "YOU USED ALL AVAILABLE FREE TRANSLATIONS" in upper:
+            print("Çeviri limit uyarısı alındı, orijinal metin kullanılacak.")
+            return text
+
         return translated or text
     except Exception as e:
         print("Çeviri hatası:", e)
@@ -85,9 +110,12 @@ for src in RSS_SOURCES:
             summary = clean_html(desc)
             image = extract_image(item)
 
-            # İngilizce olabilecek başlık ve özetleri Türkçeye çevir
-            title_tr = translate_to_tr(title)
-            summary_tr = translate_to_tr(summary)
+            # Kaynağa göre çeviri kararı
+            if is_foreign(link):
+                title_tr = translate_to_tr(title)
+                summary_tr = translate_to_tr(summary)
+            else:
+                title_tr, summary_tr = title, summary
 
             articles.append({
                 "title": title_tr,
