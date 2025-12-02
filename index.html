@@ -39,47 +39,68 @@
   <div id="haberler"></div>
 
   <script>
+    // TARAYICI TARAFINDA ÜCRETSİZ TÜRKÇE ÇEVİRİ
+    async function translate(text) {
+      if (!text) return "";
+      try {
+        const r = await fetch("https://libretranslate.de/translate", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            q: text,
+            source: "auto",
+            target: "tr",
+            format: "text"
+          })
+        });
+        const data = await r.json();
+        return data.translatedText || text;
+      } catch (err) {
+        console.log("Çeviri hatası:", err);
+        return text;
+      }
+    }
+
+    // HABERLERİ YÜKLE
     async function loadNews() {
       const status = document.getElementById("status");
       const container = document.getElementById("haberler");
 
       try {
-        // Cache'i kırmak için zaman damgası ekliyoruz
         const res = await fetch("./news/latest.json?t=" + Date.now());
         if (!res.ok) {
-          status.textContent = "news/latest.json bulunamadı (HTTP " + res.status + ").";
+          status.textContent = "news/latest.json bulunamadı. (HTTP " + res.status + ")";
           return;
         }
 
         const data = await res.json();
         const articles = data.articles || [];
 
-        status.textContent = "Toplam " + articles.length + " haber yüklendi. (generated_at: " + (data.generated_at || "") + ")";
+        status.textContent = "Toplam " + articles.length + " haber bulundu.";
 
         container.innerHTML = "";
 
-        articles.forEach(function(a) {
+        for (const a of articles) {
           const div = document.createElement("div");
           div.className = "article";
 
+          // BAŞLIK VE ÖZET ÇEVİRİ
+          const trTitle = await translate(a.title);
+          const trSummary = await translate(a.summary);
+
           const imgHtml = a.image
-            ? '<img src="' + a.image + '" onerror="this.style.display=\'none\'">'
+            ? `<img src="${a.image}" onerror="this.style.display='none'">`
             : "";
 
           div.innerHTML = `
             <div class="meta">${a.url}</div>
             ${imgHtml}
-            <h2>${a.title || "Başlık yok"}</h2>
-            <p>${a.summary || ""}</p>
+            <h2>${trTitle}</h2>
+            <p>${trSummary}</p>
             <a href="${a.url}" target="_blank" rel="noopener noreferrer">Haberi Oku</a>
           `;
 
           container.appendChild(div);
-        });
-
-        if (articles.length === 0) {
-          // JSON boşsa buraya düşer
-          status.textContent = "JSON yüklendi ama 0 haber var.";
         }
 
       } catch (err) {
