@@ -103,7 +103,7 @@
       color: var(--muted);
     }
 
-    /* Reklam alanları */
+    /* Orta alan reklamları */
     .ad {
       margin: 16px 0 12px;
       padding: 10px;
@@ -120,6 +120,31 @@
       color: var(--accent);
       margin-bottom: 2px;
     }
+
+    /* Yan (sidebar) reklam alanları */
+    .side-ad {
+      position: fixed;
+      top: 80px;
+      width: 160px;
+      height: 600px;
+      border-radius: 14px;
+      border: 1px dashed rgba(148,163,184,0.55);
+      background: rgba(15,23,42,0.92);
+      color: var(--muted);
+      font-size: 11px;
+      padding: 8px;
+      display: none; /* default: gizli, geniş ekranlarda açacağız */
+      z-index: 15;
+      text-align: center;
+    }
+    .side-ad span {
+      display: block;
+      font-weight: 600;
+      color: var(--accent);
+      margin-bottom: 4px;
+    }
+    .side-ad-left { left: 12px; }
+    .side-ad-right { right: 12px; }
 
     /* Liste */
     .grid {
@@ -233,20 +258,39 @@
       text-align: center;
     }
 
+    /* Mobil ve orta ekran ayarları */
     @media (max-width: 768px) {
       header { flex-wrap: wrap; gap: 8px; }
       .title { font-size: 18px; }
       .subtitle { font-size: 12px; }
-      .card {
-        grid-template-columns: 1fr;
+      .card { grid-template-columns: 1fr; }
+      .thumb-wrap { height: 190px; }
+    }
+
+    /* Geniş ekranlarda yan reklamları göster ve içerik genişliğini daralt */
+    @media (min-width: 1400px) {
+      .shell {
+        max-width: 900px;
       }
-      .thumb-wrap {
-        height: 190px;
+      .side-ad {
+        display: block;
       }
     }
   </style>
 </head>
 <body>
+  <!-- SOL YAN REKLAM -->
+  <div class="side-ad side-ad-left">
+    <span>Sol Kenar Reklam Alanı</span>
+    Buraya 160x600 / 300x600 AdSense skyscraper kodunu ekleyebilirsin.
+  </div>
+
+  <!-- SAĞ YAN REKLAM -->
+  <div class="side-ad side-ad-right">
+    <span>Sağ Kenar Reklam Alanı</span>
+    Buraya ikinci skyscraper veya sabit sponsor logo yerleştirebilirsin.
+  </div>
+
   <div class="shell">
     <header>
       <div class="logo">HR</div>
@@ -320,7 +364,6 @@
       });
 
       list.forEach((a, index) => {
-        // Her 6 haberde bir feed içi reklam alanı
         if (index > 0 && index % 6 === 0) {
           const ad = document.createElement("div");
           ad.className = "ad";
@@ -381,7 +424,6 @@
       }
     }
 
-    // Filtre butonları
     document.addEventListener("click", function (e) {
       const btn = e.target.closest(".btn-filter");
       if (!btn) return;
