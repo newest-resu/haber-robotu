@@ -124,18 +124,19 @@
     /* Yan (sidebar) reklam alanları */
     .side-ad {
       position: fixed;
-      top: 80px;
-      width: 160px;
-      height: 600px;
+      top: 70px;
+      width: 260px; /* GENİŞLİK BÜYÜDÜ */
+      height: calc(100vh - 100px); /* EKRAN YÜKSEKLİĞİNE GÖRE AYARLANIR */
       border-radius: 14px;
       border: 1px dashed rgba(148,163,184,0.55);
       background: rgba(15,23,42,0.92);
       color: var(--muted);
       font-size: 11px;
-      padding: 8px;
+      padding: 10px;
       display: none; /* default: gizli, geniş ekranlarda açacağız */
       z-index: 15;
       text-align: center;
+      overflow: hidden; /* içeriği kutu içinde tut */
     }
     .side-ad span {
       display: block;
