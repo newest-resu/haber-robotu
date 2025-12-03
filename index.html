@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>Haber Robotu – Otomatik Güncel Haberler</title>
-    <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Açıklama & Open Graph -->
+  <meta name="description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada. Spor, teknoloji, ekonomi, sağlık ve daha fazlası.">
   <meta property="og:title" content="Haber Robotu – Otomatik Güncel Haberler">
   <meta property="og:description" content="Türkiye ve dünyadan en güncel haberler, her saat otomatik yenilenen akışla tek sayfada.">
   <meta property="og:url" content="https://newest-resu.github.io/">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Haber Robotu">
   <meta name="twitter:card" content="summary_large_image">
-
-  <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Google AdSense site doğrulama -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6477894031302669"
@@ -128,7 +129,6 @@
       color: var(--muted);
     }
 
-    /* Orta alan reklamları */
     .ad {
       margin: 16px 0 12px;
       padding: 10px;
@@ -146,7 +146,6 @@
       margin-bottom: 2px;
     }
 
-    /* Yan (sidebar) reklam alanları */
     .side-ad {
       position: fixed;
       top: 70px;
@@ -172,7 +171,6 @@
     .side-ad-left { left: 12px; }
     .side-ad-right { right: 12px; }
 
-    /* Liste */
     .grid {
       margin-top: 12px;
       display: flex;
@@ -291,7 +289,6 @@
       text-align: center;
     }
 
-    /* Mobil ve orta ekran ayarları */
     @media (max-width: 768px) {
       header { flex-direction: column; align-items: flex-start; }
       .title { font-size: 18px; }
@@ -300,7 +297,6 @@
       .thumb-wrap { height: 190px; }
     }
 
-    /* Geniş ekranlarda yan reklamları göster ve içerik genişliğini daralt */
     @media (min-width: 1400px) {
       .shell {
         max-width: 900px;
@@ -383,26 +379,27 @@
       Sponsorlu içerik veya ikinci AdSense birimi için ideal alan.
     </div>
 
+    <!-- PAYLAŞ BLOĞU -->
     <div style="margin-top:20px; text-align:center; font-size:13px; color:#9ca3af;">
-  Bu sayfayı paylaş:
-  <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F" 
-     target="_blank" 
-     style="color:#facc15; margin-left:8px; text-decoration:none;">
-     WhatsApp
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F" 
-     target="_blank" 
-     style="color:#facc15; margin-left:12px; text-decoration:none;">
-     X (Twitter)
-  </a>
-  <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler" 
-     target="_blank" 
-     style="color:#facc15; margin-left:12px; text-decoration:none;">
-     Telegram
-  </a>
-</div>
+      Bu sayfayı paylaş:
+      <a href="https://wa.me/?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler%20https%3A%2F%2Fnewest-resu.github.io%2F" 
+         target="_blank" 
+         style="color:#facc15; margin-left:8px; text-decoration:none;">
+         WhatsApp
+      </a>
+      <a href="https://twitter.com/intent/tweet?text=Haber%20Robotu%20-%20Otomatik%20g%C3%BCncel%20haberler&url=https%3A%2F%2Fnewest-resu.github.io%2F" 
+         target="_blank" 
+         style="color:#facc15; margin-left:12px; text-decoration:none;">
+         X (Twitter)
+      </a>
+      <a href="https://t.me/share/url?url=https%3A%2F%2Fnewest-resu.github.io%2F&text=Haber%20Robotu%20-%20Otomatik%20G%C3%BCncel%20Haberler" 
+         target="_blank" 
+         style="color:#facc15; margin-left:12px; text-decoration:none;">
+         Telegram
+      </a>
+    </div>
 
-  <footer>
+    <footer>
       İçerikler ilgili haber sitelerinden otomatik olarak derlenir. Başlık ve özetler bilgilendirme amaçlıdır,
       detaylar için her haberdeki “Haberi Oku” butonuna tıklayarak kaynağa gidebilirsiniz.
     </footer>
@@ -428,7 +425,6 @@
       yasam: "Yaşam"
     };
 
-    // Her kategori için daha temkinli anahtar kelime listeleri
     const CATEGORY_KEYWORDS = {
       spor: [
         " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
@@ -511,14 +507,12 @@
       };
     }
 
-   function classifyCategory(article) {
+    function classifyCategory(article) {
       const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
-      // 1) RSS kategorilerini öncelikli kullan
       const mapFromRss = (c) => {
-        // Dünya / politika / uluslararası
         if (
           c.includes("world") ||
           c.includes("us & canada") ||
@@ -535,7 +529,6 @@
           return "dunya";
         }
 
-        // Ekonomi / iş dünyası
         if (
           c.includes("business") ||
           c.includes("economy") ||
@@ -546,12 +539,10 @@
           return "ekonomi";
         }
 
-        // Spor
         if (c.includes("sport") || c.includes("sports")) {
           return "spor";
         }
 
-        // Teknoloji / bilim
         if (c.includes("technology") || c.includes("tech")) {
           return "teknoloji";
         }
@@ -559,12 +550,10 @@
           return "bilim";
         }
 
-        // Sağlık
         if (c.includes("health") || c.includes("medical") || c.includes("medicine")) {
           return "saglik";
         }
 
-        // Magazin / eğlence / kültür
         if (
           c.includes("entertainment") ||
           c.includes("arts") ||
@@ -574,7 +563,6 @@
           return "magazin";
         }
 
-        // Türkiye içi haberler (Türk kaynaklar için ek güvence)
         if (
           c.includes("turkiye") ||
           c.includes("türkiye") ||
@@ -590,21 +578,16 @@
 
       for (const rc of rssCats) {
         const mapped = mapFromRss(rc);
-        if (mapped) {
-          return mapped;
-        }
+        if (mapped) return mapped;
       }
 
-      // 2) RSS ile belirlenemediyse, kelime tabanlı puanlama
       let bestCat = null;
       let bestScore = 0;
 
       for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
         let score = 0;
         for (const k of keywords) {
-          if (text.includes(k)) {
-            score++;
-          }
+          if (text.includes(k)) score++;
         }
         if (score > bestScore) {
           bestScore = score;
@@ -612,17 +595,6 @@
         }
       }
 
-      // 3) Hâlâ güçlü eşleşme yoksa kaynağa göre Gündem / Dünya
-      if (!bestCat || bestScore === 0) {
-        return src.type === "intl" ? "dunya" : "gundem";
-      }
-
-      return bestCat;
-    }
-
-      }
-
-      // Güçlü eşleşme yoksa: kaynağa göre Gündem / Dünya
       if (!bestCat || bestScore === 0) {
         return src.type === "intl" ? "dunya" : "gundem";
       }
