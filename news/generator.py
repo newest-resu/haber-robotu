@@ -144,12 +144,17 @@ for src in RSS_SOURCES:
             else:
                 title_tr, summary_tr = title, summary
 
-            articles.append({
-                "title": title_tr,
-                "summary": summary_tr,
-                "image": image,
-                "url": link
-            })
+           # RSS category etiketlerini oku
+rss_categories = [c.text.lower() for c in item.findall("category") if c.text]
+
+articles.append({
+    "title": title_tr,
+    "summary": summary_tr,
+    "image": image,
+    "url": link,
+    "rss_categories": rss_categories
+})
+
             count_from_source += 1
 
         print(f"{src} -> {count_from_source} haber eklendi.")
