@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03 19.58",
+  "generated_at": "2025-12-03 20.47",
   "articles": [
     {
       "title": "Ukrayna'da yapılan son görüşmelerde Putin'in ruh hali hakkında neler ortaya çıktı?",
@@ -23,13 +23,6 @@
       "rss_categories": []
     },
     {
-      "title": "ICE, Minnesota operasyonunu planlarken Trump, Somalililerin ABD'de bulunmasını istemediğini söyledi",
-      "summary": "Başkan, ABD'nin \"ülkemize çöp sokmaya devam edersek yanlış yöne gideceğini\" söylüyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d2e/live/b7ea13b0-cffa-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Hong Kong ölümcül yangının ardından iskele ağının kaldırılmasını emretti",
       "summary": "Wang Fuk Mahkemesi konut kompleksinde geçen hafta çıkan ve en az 159 kişinin hayatını kaybettiği yangınla ilgili soruşturmalar devam ediyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f03b/live/4aba4300-d04f-11f0-93e9-173097fe0286.jpg",
@@ -41,6 +34,13 @@
       "summary": "Hamas ve Filistinli İslami Cihad'ın Gazze'nin kuzeyinde bulunduğunu söylediği kalıntılar, adli testler için Tel Aviv'e götürülecek.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bff1/live/66a2f9c0-d060-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "ICE, Minnesota operasyonunu planlarken Trump, Somalililerin ABD'de bulunmasını istemediğini söyledi",
+      "summary": "Başkan, ABD'nin \"ülkemize çöp sokmaya devam edersek yanlış yöne gideceğini\" söylüyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d2e/live/b7ea13b0-cffa-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/articles/c208x9v68w3o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -65,6 +65,13 @@
       "rss_categories": []
     },
     {
+      "title": "Trump, rüşvet davasında Demokrat kongre üyesini affettiğini söyledi",
+      "summary": "Trump, Teksas temsilcisi ve eşi için \"tam ve koşulsuz\" bir af çıkaracağını söyledi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c42/live/1aeb9550-d060-11f0-b76c-637a0d75f572.jpg",
+      "url": "https://www.bbc.com/news/articles/c62v9z7z1z2o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Çin fabrikasında \"çocuksu\" seks bebekleri üretimi durduruldu",
       "summary": "Konu, Shein'in çocuksu bir görünüme sahip seks bebeklerinin satışını küresel çapta yasakladığını duyurmasının ardından gündeme geldi.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e85/live/b1b0fa70-d042-11f0-a892-01d657345866.jpg",
@@ -76,13 +83,6 @@
       "summary": "Kaydı zorunlu hale getirme emri, birkaç siber uzmanın büyük tepkisine yol açmıştı.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
       "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Devam etmek için uzun süredir kayıp olan Malaysia Airlines MH370 uçuşunu arayın",
-      "summary": "239 kişinin bulunduğu Boeing 777, 2014 yılında en büyük havacılık gizemlerinden birinde kayboldu.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb93/live/e61b1f80-d000-11f0-bde8-19abff4892c2.jpg",
-      "url": "https://www.bbc.com/news/articles/cy7v077dm0po?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -107,7 +107,7 @@
       "rss_categories": []
     },
     {
-      "title": "Bebek maması sütünde süpermarket sadakat indirimlerine izin verilir",
+      "title": "Süpermarket sadakat puanları ile bebek sütü satın alınabilir",
       "summary": "Hükümet, emziremeyen veya emzirmemeyi seçen ebeveynlerin yılda 500 £ tasarruf edebileceğini iddia ediyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg",
       "url": "https://www.bbc.com/news/articles/clyx321ded1o?at_medium=RSS&at_campaign=rss",
@@ -130,15 +130,8 @@
     {
       "title": "Sokak markaları doktorlar \"sendikası\" aile hekimi online rezervasyonu için \"inleyen bakıcılar\"",
       "summary": "Hükümetin tüm NHS uygulamalarının ekim ayından itibaren web rezervasyonu sağlaması gerekiyordu ama sendika bu hamleye karşı çıkıyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377d/live/25673ba0-d057-11f0-a892-01d657345866.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/acaf6080-d06e-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/news/articles/c4g47gvy7wjo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Okul otobüsünün çatısı köprüden yırtılırken çocuklar yaralandı",
-      "summary": "Yaralılar arasında \"ciddi olmayan\" bir kafa travmasıyla hastaneye kaldırılan 8 yaşındaki bir çocuk var.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0887/live/9ca9c090-d05a-11f0-a144-735ebdbaffa7.jpg",
-      "url": "https://www.bbc.com/news/articles/cp34nyenqpko?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -146,6 +139,13 @@
       "summary": "İnsanlar partnerlerine güzellik ürünleri, kumar ve kripto para birimleri hakkında hiçbir şey söylemeden harcama yapıyordu.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8943/live/649c6740-d053-11f0-8949-71025704e055.jpg",
       "url": "https://www.bbc.com/news/articles/cewjdkj8z2go?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Okul otobüsünün çatısı köprüden yırtılırken çocuklar yaralandı",
+      "summary": "Yaralılar arasında \"kafasında kötü bir kesik\" ile hastaneye kaldırılan 8 yaşındaki bir çocuk da var.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0887/live/9ca9c090-d05a-11f0-a144-735ebdbaffa7.jpg",
+      "url": "https://www.bbc.com/news/articles/cp34nyenqpko?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -310,6 +310,13 @@
       "rss_categories": []
     },
     {
+      "title": "Government racks up £100m bill responding to Covid inquiry",
+      "summary": "BBC analysis shows cost to taxpayer is 50% higher than thought, with inquiry's own costs at £192m.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/articles/cj9yepzl1rjo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Warning over cosmetic face fillers as scans reveal new details of risks",
       "summary": "Placed incorrectly, cosmetic dermal fillers can damage nearby ateries, leading to to skin loss and even blindness, experts warn.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c5/live/5824e410-cf63-11f0-902b-b378fe598ba1.jpg",
@@ -317,10 +324,10 @@
       "rss_categories": []
     },
     {
-      "title": "Government racks up £100m bill responding to Covid inquiry",
-      "summary": "BBC analysis shows cost to taxpayer is 50% higher than thought, with inquiry's own costs at £192m.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d46/live/23b918b0-cfa2-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/articles/cj9yepzl1rjo?at_medium=RSS&at_campaign=rss",
+      "title": "Mother wants change so child 'didn't die for nothing'",
+      "summary": "Sam Tucker says \"opportunities were missed\" when her daughter Holly, 6, was diagnosed with a tumour.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847a/live/48f77090-cc6e-11f0-8c51-edb570175476.jpg",
+      "url": "https://www.bbc.com/news/articles/c39p1x93mzjo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -331,24 +338,10 @@
       "rss_categories": []
     },
     {
-      "title": "WHO warning over shortage of obesity jabs",
-      "summary": "Too few people who could benefit from so-called \"skinny jabs\" are able to access them, says WHO.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2559/live/b07a1cb0-cec4-11f0-a892-01d657345866.jpg",
-      "url": "https://www.bbc.com/news/articles/cze8n0753zzo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "US and UK agree zero tariffs deal on pharmaceuticals",
       "summary": "The deal follows threats of tariffs as high as 100% on branded drug imports.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7a1/live/f33b4ce0-cece-11f0-8741-59a8e037abac.jpg",
       "url": "https://www.bbc.com/news/articles/cn0k520v4xro?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Ambulance demand spikes as flu season worsens",
-      "summary": "The service says calls increased by 20% in the past week, fuelled by illnesses such as the flu.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b74d/live/6945f9a0-cec8-11f0-81f3-a1b2f542a1e8.jpg",
-      "url": "https://www.bbc.com/news/articles/ckgk5vr7j1yo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -551,6 +544,34 @@
       ]
     },
     {
+      "title": "Cumhurbaşkanı Erdoğan'dan Dünya Engelliler Günü mesajı",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 3 Aralık Dünya Engelliler Günü'nün, tüm dünyadaki engellilerin sorunlarıyla ilgili farkındalığın artmasına, engellilerin hayatını kolaylaştıracak yeni adımların atılmasına vesile olmasını diledi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogandan-dunya-engelliler-gunu-mesaji-2367622",
+      "rss_categories": []
+    },
+    {
+      "title": "Hababam Sınıfı’nın biricik “Hafize Ana”sıydı… Adile Naşit filmi bu Cuma beyaz perdede",
+      "summary": "Yeşilçam’ın en sevilen simalarından, kahkahasıyla içimizi ısıtan Adile Naşit’in hayatı beyazperdeye taşınıyor. Merakla beklenen \"Adile Naşit\" filmi için geri sayım bitti, film bu Cuma beyaz perdede izleyiciyle buluşacak.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/hababam-sinifinin-biricik-hafize-anasiydi-adile-nasit-filmi-bu-cuma-beyaz-perdede-2367621",
+      "rss_categories": []
+    },
+    {
+      "title": "Dışişleri Bakanı Hakan Fidan: \"Barış görüşmeleri için Türkiye'den daha uygun bir yer yok\"",
+      "summary": "Dışişleri Bakanı Hakan Fidan, 'Rusya-Ukrayna barış görüşmeleri için Türkiye'den daha uygun bir yer yok.' dedi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/disisleri-bakani-hakan-fidan-baris-gorusmeleri-icin-turkiyeden-daha-uygun-bir-yer-yok-2367618",
+      "rss_categories": []
+    },
+    {
+      "title": "AK Parti'den 'Engelsiz Türkiye Yüzyılı' programı",
+      "summary": "AK Parti Sosyal Politikalar Başkanlığınca, Cumhurbaşkanı Recep Tayyip Erdoğan'ın katılımıyla \"Engelsiz Türkiye Yüzyılı\" programı gerçekleştirilecek.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/ak-partiden-engelsiz-turkiye-yuzyili-programi-2367617",
+      "rss_categories": []
+    },
+    {
       "title": "Kira artışı en fazla ne olacak?",
       "summary": "Kasım ayı enflasyon verilerinin açıklanmasıyla aralık ayı kira artış oranı da netleşti. Aralık ayı kira artış oranı yüzde 35,91 oldu. Ayrıntıları, CNN TÜRK Muhabiri Ümit Uzun, Ekonomist Muhammet Bayram ile konuştu.",
       "image": "",
@@ -607,20 +628,6 @@
       "rss_categories": []
     },
     {
-      "title": "(FROTO) TEMETTÜ FORD OTOSAN 2025: FROTO Ford Otosan Ne Zaman Temettü Verecek, Ne Kadar? İşte KAP'a Bildirilen Temettü Ödeme Tarihi!",
-      "summary": "FROTO Ford Otosan temettü tarihi ise her yıl olduğu gibi otomotiv ve finans piyasalarının gündeminde. Şirketin kâr payı dağıtım süreci, genel kurul kararları ve yedek akçelerden yapılan aktarımlar doğrultusunda belirleniyor. Ford Otosan, Türkiye’nin ihracat liderlerinden biri olarak hem üretim gücü hem de yatırımcılarına sunduğu düzenli nakit akışıyla dikkat çekiyor. Temettü verimi, hisse fiyatı ve piyasa beklentileri, yatırımcıların stratejilerini doğrudan etkileyen faktörler arasında yer alıyor. Bu nedenle, açıklanacak resmi tarihler ve ödeme süreci, sektördeki tüm paydaşlar tarafından yakından izleniyor. Peki, Ford Otosan temettü tarihi ne? FROTO Ford Otosan ne kadar temettü verecek?",
-      "image": "",
-      "url": "https://www.cnnturk.com/finans-haberler/ford-otosan-temettu-2025-froto-ford-otosan-ne-zaman-temettu-verecek-ne-kadar-iste-kapa-bildirilen-temettu-odeme-tarihi-2366596",
-      "rss_categories": []
-    },
-    {
-      "title": "13 yıllık arayış gözyaşları ile son buldu: Nadir çiçeği bulunca önünde hıçkıra hıçkıra ağladı",
-      "summary": "13 yıl boyunca her yerde onu aradı, karşısında görünce ise gözyaşlarını tutamadı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/dunya/13-yillik-arayis-gozyaslari-ile-son-buldu-nadir-cicegi-bulunca-onunde-hickira-hickira-agladi-2367597",
-      "rss_categories": []
-    },
-    {
       "title": "SPOTIFY WRAPPED 2025 NE ZAMAN AÇIKLANACAK? Spotify Wrapped - Spotify Yıllık Özetine Nasıl ve Nereden Bakılır?",
       "summary": "Spotify Wrapped listesi, müzikseverlerin yıl boyunca dinleme alışkanlıklarını keşfetmesini sağlayan en popüler özelliklerden biri olarak geri dönüyor. Kullanıcılar, en çok dinledikleri şarkılar, sanatçılar, albümler ve podcast’leri özel grafiklerle görebilecek. Spotify Wrapped, sadece kişisel istatistikleri değil, aynı zamanda yılın trendlerini de ortaya koyarak sosyal medyada büyük bir etkileşim yaratıyor. Bu özellik, her yıl olduğu gibi milyonlarca kullanıcı tarafından heyecanla bekleniyor. Peki,  Spotıfy Wrapped 2025 ne zaman açıklanacak? Spotify Wrapped - Spotify yıllık özetine nasıl ve nereden bakılır?",
       "image": "",
@@ -656,31 +663,10 @@
       "rss_categories": []
     },
     {
-      "title": "Adliye hırsızlığında yeni detaylar ortaya çıktı! Şüphelileri tanıyan esnaf konuştu: Paraya ihtiyacı olmayan çocuktu",
-      "summary": "Büyükçekmece Adliyesi'ndeki emanet bürosundan iddiaya göre, adliyede görevli memur Erdal T. tarafından 25 kilogram altın ve 50 kilogram gümüş çalındı. Yaşanan hırsızlık olayıyla ilgili yeni detaylar ortaya çıktı. Şüpheli Erdal T.’nin çalışma arkadaşlarından bazılarına olay sonrası \"Malları sattım. Allah çarşınıza pazar versin\" şeklinde mesaj gönderdiği iddia edildi. Şüpheliler Erdal T. ve Kemal D.'yi tanıyan esnaf Erkut Sunmak, \"Özünde on numara çocuktur o dönem para istese 1 milyon 2 milyon gözüm kapalı senetsiz kefilsiz Erdal'a güvenirim.Gözaltında olan Kemal abiyi de tanıyorum ben burada 27 yıldır esnafım. Kemal abi dediğim adam daha da düzgündür. İşinde gücünde işini bilen bir adamdır\" dedi.",
+      "title": "13 yıllık arayış gözyaşları ile son buldu: Nadir çiçeği bulunca önünde hıçkıra hıçkıra ağladı",
+      "summary": "13 yıl boyunca her yerde onu aradı, karşısında görünce ise gözyaşlarını tutamadı.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/adliye-hirsizliginda-yeni-detaylar-ortaya-cikti-suphelileri-taniyan-esnaf-konustu-paraya-ihtiyaci-olmayan-cocuktu-2367566",
-      "rss_categories": []
-    },
-    {
-      "title": "3 Aralık 2025 Çarşamba gününün son dakika önemli gelişmeleri! (CNN TÜRK 16.30 bülteni)",
-      "summary": "3 Aralık 2025 Çarşamba gününde Türkiye'de ve dünyada öne çıkan haberler... Yaşanan önemli gelişmeler sizler için derlediğimiz haberimizde.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/3-aralik-2025-carsamba-gununun-son-dakika-onemli-gelismeleri-cnn-turk-16-30-bulteni-2367557",
-      "rss_categories": []
-    },
-    {
-      "title": "Kurusıkı silah ile ateş eden ortaokul öğrencileri gözaltına alındı",
-      "summary": "Esenyurt'ta ortaokulda okuyan iki öğrencinin okulun yanındaki boş arazide kurusıkı tabancayla ateş ettiği anlar cep telefonu kamerasıyla kaydedildi. Görüntülerin sosyal medyada yayılması üzerine çalışma başlatan polis, Mustafa T. ile Miran Ç.'yi gözaltına alarak Çocuk Şube Müdürlüğüne götürdü.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/kurusiki-silah-ile-ates-eden-ortaokul-ogrencileri-gozaltina-alindi-2367564",
-      "rss_categories": []
-    },
-    {
-      "title": "Özgür Özel'in 'A Takımı'nda kimler olacak? İşte kulislere yansıyan isimler",
-      "summary": "CHP'de gözler cumartesi gününe çevrildi. Kurultay sonrası CHP Genel Başkanı Özgür Özel, A Takımı'nı belirleyecek. Özel'in çekirdek kadrosunu koruyacağı ancak önemli görevlerde değişiklikler yapacağı belirtiliyor.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/turkiye/ozgur-ozelin-a-takiminda-kimler-olacak-iste-kulislere-yansiyan-isimler-2367551",
+      "url": "https://www.cnnturk.com/dunya/13-yillik-arayis-gozyaslari-ile-son-buldu-nadir-cicegi-bulunca-onunde-hickira-hickira-agladi-2367597",
       "rss_categories": []
     },
     {
