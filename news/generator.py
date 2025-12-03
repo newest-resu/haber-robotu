@@ -1,12 +1,13 @@
 import os
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 import xml.etree.ElementTree as ET
 import urllib.parse
 from urllib.parse import urlparse
 
 import requests
+from zoneinfo import ZoneInfo
 
 # news klasörünü garanti altına al
 os.makedirs("news", exist_ok=True)
@@ -159,16 +160,27 @@ for src in RSS_SOURCES:
 print("TOPLAM HABER:", len(articles))
 
 output = {
-    import os
-import json
-import re
-from datetime import datetime, timedelta
-import xml.etree.ElementTree as ET
-import urllib.parse
-from urllib.parse import urlparse
+    print("TOPLAM HABER:", len(articles))
 
-import requests
-from zoneinfo import ZoneInfo
+# Türkiye yerel saatine göre, sade tarih-saat formatı
+try:
+    now_tr = datetime.now(ZoneInfo("Europe/Istanbul"))
+except Exception:
+    # Her ihtimale karşı fallback (UTC + 3)
+    now_tr = datetime.utcnow() + timedelta(hours=3)
+
+generated_str = now_tr.strftime("%Y-%m-%d %H.%M")
+
+output = {
+    "generated_at": generated_str,
+    "articles": articles
+}
+
+with open("news/latest.json", "w", encoding="utf-8") as f:
+    json.dump(output, f, ensure_ascii=False, indent=2)
+
+print("news/latest.json yazıldı.")
+
 }
 
 with open("news/latest.json", "w", encoding="utf-8") as f:
