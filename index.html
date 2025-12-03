@@ -414,68 +414,21 @@
     let CURRENT_CATEGORY_FILTER = "all";
 
     const CATEGORY_LABELS = {
-      spor: [
-        " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
-        "transfer", "hakem", "derbi", "futbol", "basketbol",
-        "voleybol", "tenis"
-      ],
-      teknoloji: [
-        "teknoloji", "uygulama", "yazılım", "yazilim", "telefon",
-        "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ",
-        "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar",
-        "laptop", "apple", "samsung", "google", "microsoft",
-        "uzay", "roket", "uydu"
-      ],
-      saglik: [
-        "sağlık", "saglik", "hastane", "doktor", "virüs", "virus",
-        "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı",
-        "asi ", "covid", "koronavirüs", "koronavirus", "grip",
-        "diyet", "obezite"
-      ],
-      ekonomi: [
-        "ekonomi", "ekonomik", "dolar", "euro", "altın", "altin",
-        "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat",
-        "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce",
-        "vergi", "asgari ücret", "memur maaşı"
-      ],
-      magazin: [
-        "magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu",
-        "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk",
-        "ask ", "görüntülendi", "konser", "klip", "festival"
-      ],
-      bilim: [
-        "bilim", "araştırma", "arastirma", "deney", "bilim insanı",
-        "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya",
-        "biyoloji", "genetik", "astronomi", "nasa", "teleskop"
-      ],
-      savunma: [
-        "savunma", "savunma sanayii", "ordu", "asker", "tatbikat",
-        "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri",
-        "deniz kuvvetleri", "operasyon", "terör", "teror",
-        "saldırı", "saldiri", "nato", "güvenlik güçleri"
-      ],
-      oyun: [
-        "oyun", "video oyunu", "bilgisayar oyunu", "playstation",
-        "ps4", "ps5", "xbox", "nintendo", "switch", "steam",
-        "epic games", "battle.net", "mobil oyun", "battle royale",
-        "e-spor", "espor", "gamer", "gaming", "call of duty",
-        "pubg", "fortnite", "valorant", "cs2", "counter strike",
-        "league of legends", "dota", "gta", "fifa", "efootball"
-      ],
-      otomobil: [
-        "otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan",
-        "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai",
-        "trafik kazası", "trafik", "sürücü", "surucu", "otoyol",
-        "togg", "araç muayene", "lastik"
-      ],
-      yasam: [
-        "yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk",
-        "evlilik", "ilişki", "iliski", "alışveriş", "alisveris",
-        "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon",
-        "hobi", "ev hayatı", "gunluk hayat"
-      ]
+      gundem: "Gündem",
+      dunya: "Dünya",
+      spor: "Spor",
+      teknoloji: "Teknoloji",
+      saglik: "Sağlık",
+      ekonomi: "Ekonomi",
+      magazin: "Magazin",
+      bilim: "Bilim",
+      savunma: "Savunma / Askeri",
+      oyun: "Oyun / Dijital",
+      otomobil: "Otomobil",
+      yasam: "Yaşam"
     };
 
+    // Her kategori için daha temkinli anahtar kelime listeleri
     const CATEGORY_KEYWORDS = {
       spor: [
         " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
@@ -539,8 +492,6 @@
       ]
     };
 
-    };
-
     function getDomain(url) {
       try {
         const u = new URL(url);
@@ -560,7 +511,7 @@
       };
     }
 
-    function classifyCategory(article) {    function classifyCategory(article) {
+    function classifyCategory(article) {
       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
@@ -587,54 +538,6 @@
       }
 
       return bestCat;
-    }
-
-      // Spor
-      if (has(["spor","maç","mac ","futbol","basketbol","voleybol","lig ","şampiyona","gol ","transfer","hakem","tenis","nba","fifa","uefa","olimpiyat"])) {
-        return "spor";
-      }
-      // Teknoloji
-      if (has(["teknoloji","uygulama","yazılım","telefon","akıllı","android","ios","yapay zeka","ai ","robot","çip","işlemci","apple","samsung","google","microsoft","uzay","roket","uydu"])) {
-        return "teknoloji";
-      }
-      // Sağlık
-      if (has(["sağlık","hastane","doktor","virüs","enfeksiyon","kanser","tedavi","ilaç","aşı","koronavirüs","covid","grip","diyet","obezite"])) {
-        return "saglik";
-      }
-      // Ekonomi
-      if (has(["ekonomi","dolar","euro","altın","borsa","faiz","enflasyon","piyasa","kriz","ihracat","ithalat","yatırım","gelir","vergi","asgari ücret","memur maaşı"])) {
-        return "ekonomi";
-      }
-      // Magazin
-      if (has(["magazin","ünlü","şarkıcı","oyuncu","dizi","film","evlilik","boşanma","aşk","görüntülendi","ünlü isim","defile","manken","klip"])) {
-        return "magazin";
-      }
-      // Bilim
-      if (has(["bilim","araştırma","deney","bilim insanı","laboratuvar","keşif","evren","fizik","kimya","biyoloji","genetik","astronomi"])) {
-        return "bilim";
-      }
-      // Savunma / Askeri
-      if (has(["savunma","ordu","asker","tatbikat","füze","tank","savaş uçağı","hava kuvvetleri","deniz kuvvetleri","operasyon","saldırı","terör","nato","güvenlik güçleri"])) {
-        return "savunma";
-      }
-            // Oyun / Dijital
-      if (has([
-        "oyun","oyuncu","oyunculuk ","video oyunu","bilgisayar oyunu","playstation","ps4","ps5", "xbox","nintendo","switch","steam","epic games","battle.net","mobil oyun","android oyun","ios oyun", "battle royale","espor","e-spor", "gamer","gaming","call of duty","pubg","fortnite","valorant","cs2","counter strike","league of legends","lol ","dota","gta","fifa","efootball"
-      ])) {
-        return "oyun";
-      }
-      // Otomobil
-      if (has(["otomobil","araba","araç","otomotiv","tesla","bmw","mercedes","renault","hyundai","trafik kazası","sürücü","otoyol","togg"])) {
-        return "otomobil";
-      }
-      // Yaşam
-      if (has(["yaşam","hayat","aile","evlilik","çocuk","alışveriş","tatil","seyahat","gezi","yemek","tarif","kültür","sanat","festival","etkinlik"])) {
-        return "yasam";
-      }
-
-      // Hiçbiri değilse, kaynağa göre Gündem / Dünya
-      if (src.type === "intl") return "dunya";
-      return "gundem";
     }
 
     function renderArticles() {
