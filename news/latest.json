@@ -1,6 +1,13 @@
 {
-  "generated_at": "2025-12-03 21.58",
+  "generated_at": "2025-12-03 22.33",
   "articles": [
+    {
+      "title": "Ukrayna, ABD'nin Moskova'daki görüşmelerinin ardından Putin'e, dünyanın zamanını boşa harcamayı bıraktığını söyledi",
+      "summary": "Ukrayna Dışişleri Bakanı Andrii Sybiha, savaşı sona erdirmeye yönelik önemli görüşmelerin somut sonuçlar verememesinin ardından konuştu.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/d98db3f0-d07c-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
     {
       "title": "Ukrayna'da yapılan son görüşmelerde Putin'in ruh hali hakkında neler ortaya çıktı?",
       "summary": "Rusya Devlet Başkanı, ülkenin ekonomik sorunları büyürken bile Ukrayna'daki savaşını sürdürmeye kararlı görünüyor.",
@@ -79,13 +86,6 @@
       "rss_categories": []
     },
     {
-      "title": "Hindistan, devlet tarafından işletilen siber güvenlik uygulamasını akıllı telefonlara önceden yükleme emrini kaldırdı",
-      "summary": "Kaydı zorunlu hale getirme emri, birkaç siber uzmanın büyük tepkisine yol açmıştı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
-      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Kreş çalışanı çocuklara cinsel istismarda bulunduğunu itiraf etti",
       "summary": "Vincent Chan, Met Polisi'nin en \"üzücü ve karmaşık\" vakalardan biri olarak nitelendirdiği iki ila dört yaş arasındaki çocuklarla ilgili 26 cinsel suçu kabul etti.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b93e/live/b851e450-d049-11f0-9fb5-5f3a3703a365.jpg",
@@ -109,7 +109,7 @@
     {
       "title": "Spotify Wrapped, 2025 'in en çok çalınan sanatçılarını açıkladı ama sizinki kim?",
       "summary": "Uygulama, kullanıcılar en sık kimi oynadıklarını öğrendikçe yılın en iyi sanatçılarını ortaya koyuyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730c/live/7b420de0-d046-11f0-b603-bde662ca3d72.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ed/live/ba746370-d07b-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/news/articles/c0q5gwdq1n4o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
@@ -149,17 +149,17 @@
       "rss_categories": []
     },
     {
-      "title": "Irkçılık, tecavüz ve ölüm tehditleri: Futbolda sosyal medya istismarının yaşandığı bir hafta sonu",
-      "summary": "BBC'nin araştırmasına göre, bir hafta sonunda Premier Lig ve Kadınlar Süper Ligi'ndeki menajerler ve oyuncular hakkında 2 binden fazla son derece küfürlü sosyal medya gönderisi gönderildi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fc/live/5b3b6380-cfbe-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/sport/football/articles/c4g98zkx518o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Yeni evler \"enerjiye aç\" veri merkezleri nedeniyle ertelendi",
       "summary": "Londra Meclisi, yeni veri merkezlerinin büyümesinin 2022 'de bazı evlerin inşasını geçici olarak durdurduğunu tespit etti.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c51/live/70f5c1b0-d05f-11f0-9fb5-5f3a3703a365.jpg",
       "url": "https://www.bbc.com/news/articles/c0mpr1mvwj3o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Hindistan, devlet tarafından işletilen siber güvenlik uygulamasını akıllı telefonlara önceden yükleme emrini kaldırdı",
+      "summary": "Kaydı zorunlu hale getirme emri, birkaç siber uzmanın büyük tepkisine yol açmıştı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
+      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -544,6 +544,20 @@
       ]
     },
     {
+      "title": "Rusya’da Roblox'a erişim engellendi",
+      "summary": "Rusya, dijital oyun platformu Roblox’u, aşırılık yanlısı içeriklerin yer alması ve LGBT propagandası yapılması gerekçesiyle erişime engelledi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/dunya/rusyada-robloxa-erisim-engellendi-2367633",
+      "rss_categories": []
+    },
+    {
+      "title": "Gazzeli aileler çaresizce çocuklarını bekliyor",
+      "summary": "İsrail'in Gazze'deki katliamları bu kez CNN International tarafından belgelendi. Görgü tanıkları, kayıp yakınlarının sözleri ve uydu verilerinin analizleri sonucunda İsrail'in yardım noktalarına gelen Filistinlileri vurduğu ve daha sonra da onları buldozerlerle ezdiği ortaya çıktı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/dunya/gazzeli-aileler-caresizce-cocuklarini-bekliyor-2367631",
+      "rss_categories": []
+    },
+    {
       "title": "Dışişleri Bakanı Hakan Fidan, Kanada Dışişleri Bakanı Anand ile bir araya geldi",
       "summary": "Son dakika haberine göre; Dışişleri Bakanı Hakan Fidan, Kanada Dışişleri Bakanı Anita Anand ile görüştü.",
       "image": "",
@@ -702,20 +716,6 @@
       "summary": "ABD'nin Gazze'deki barış planı, Türkiye’nin katılımı konusunda İsrail ile yaşanan anlaşmazlık nedeniyle yavaş ilerliyor. Plana dahil olan diğer ülkeler ise Türkiye olmadan Gazze'ye asker göndermeye yanaşmıyor.",
       "image": "",
       "url": "https://www.cnnturk.com/video/dunya/gazze-baris-planinda-kriz-israil-turk-askerine-karsi-abd-israrci-2367499",
-      "rss_categories": []
-    },
-    {
-      "title": "Japonya'daki fuarda dikkatler ondaydı! Robot Luca'dan Türkiye'ye 'lokumlu' selam...",
-      "summary": "Japonya’da Tokyo Big Sight’ta düzenlenen Uluslararası Robot Fuarı'nda (IREX) ziyaretçilere son teknoloji robotlar tanıtıldı. İHA'nın mikrofon tuttuğu insansı robot Luca, Türkiye’ye “Gününüz Türk lokumu gibi neşe ve ilhamla dolu olsun” mesajıyla selam gönderdi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/dunya/japonyadaki-fuarda-dikkatler-ondaydi-robot-lucadan-turkiyeye-lokumlu-selam-2367539",
-      "rss_categories": []
-    },
-    {
-      "title": "Havacılık tarihinin en büyük gizemi! MH370'e ne oldu?",
-      "summary": "2014 yılında düştükten sonra sadece birkaç parçası bulunabilen Malezya Havayolları’na ait MH370 sefer sayılı uçak, havacılık tarihinin en büyük gizemi olmaya devam ediyor. Uçağın geri kalanını arama çalışmaları yıllar önce durdurulmuştu. Malezya Ulaştırma Bakanlığı, 30 Aralık’ta yeni bir yüksek olasılıklı hedeflenmiş bölgede derin deniz arama operasyonuna yeniden başlanacağını duyurdu.",
-      "image": "",
-      "url": "https://www.cnnturk.com/dunya/havacilik-tarihinin-en-buyuk-gizemi-mh370e-ne-oldu-2367519",
       "rss_categories": []
     },
     {
