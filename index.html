@@ -414,18 +414,131 @@
     let CURRENT_CATEGORY_FILTER = "all";
 
     const CATEGORY_LABELS = {
-      gundem: "Gündem",
-      dunya: "Dünya",
-      spor: "Spor",
-      teknoloji: "Teknoloji",
-      saglik: "Sağlık",
-      ekonomi: "Ekonomi",
-      magazin: "Magazin",
-      bilim: "Bilim",
-      savunma: "Savunma / Askeri",
-      oyun: "Oyun / Dijital",
-      otomobil: "Otomobil",
-      yasam: "Yaşam"
+      spor: [
+        " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
+        "transfer", "hakem", "derbi", "futbol", "basketbol",
+        "voleybol", "tenis"
+      ],
+      teknoloji: [
+        "teknoloji", "uygulama", "yazılım", "yazilim", "telefon",
+        "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ",
+        "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar",
+        "laptop", "apple", "samsung", "google", "microsoft",
+        "uzay", "roket", "uydu"
+      ],
+      saglik: [
+        "sağlık", "saglik", "hastane", "doktor", "virüs", "virus",
+        "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı",
+        "asi ", "covid", "koronavirüs", "koronavirus", "grip",
+        "diyet", "obezite"
+      ],
+      ekonomi: [
+        "ekonomi", "ekonomik", "dolar", "euro", "altın", "altin",
+        "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat",
+        "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce",
+        "vergi", "asgari ücret", "memur maaşı"
+      ],
+      magazin: [
+        "magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu",
+        "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk",
+        "ask ", "görüntülendi", "konser", "klip", "festival"
+      ],
+      bilim: [
+        "bilim", "araştırma", "arastirma", "deney", "bilim insanı",
+        "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya",
+        "biyoloji", "genetik", "astronomi", "nasa", "teleskop"
+      ],
+      savunma: [
+        "savunma", "savunma sanayii", "ordu", "asker", "tatbikat",
+        "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri",
+        "deniz kuvvetleri", "operasyon", "terör", "teror",
+        "saldırı", "saldiri", "nato", "güvenlik güçleri"
+      ],
+      oyun: [
+        "oyun", "video oyunu", "bilgisayar oyunu", "playstation",
+        "ps4", "ps5", "xbox", "nintendo", "switch", "steam",
+        "epic games", "battle.net", "mobil oyun", "battle royale",
+        "e-spor", "espor", "gamer", "gaming", "call of duty",
+        "pubg", "fortnite", "valorant", "cs2", "counter strike",
+        "league of legends", "dota", "gta", "fifa", "efootball"
+      ],
+      otomobil: [
+        "otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan",
+        "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai",
+        "trafik kazası", "trafik", "sürücü", "surucu", "otoyol",
+        "togg", "araç muayene", "lastik"
+      ],
+      yasam: [
+        "yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk",
+        "evlilik", "ilişki", "iliski", "alışveriş", "alisveris",
+        "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon",
+        "hobi", "ev hayatı", "gunluk hayat"
+      ]
+    };
+
+    const CATEGORY_KEYWORDS = {
+      spor: [
+        " spor", "maç", "mac ", "lig ", "şampiyona", "gol ",
+        "transfer", "hakem", "derbi", "futbol", "basketbol",
+        "voleybol", "tenis"
+      ],
+      teknoloji: [
+        "teknoloji", "uygulama", "yazılım", "yazilim", "telefon",
+        "akıllı", "akilli", "android", "ios", "yapay zeka", " ai ",
+        "robot", "çip", "cip ", "işlemci", "islemci", "bilgisayar",
+        "laptop", "apple", "samsung", "google", "microsoft",
+        "uzay", "roket", "uydu"
+      ],
+      saglik: [
+        "sağlık", "saglik", "hastane", "doktor", "virüs", "virus",
+        "enfeksiyon", "kanser", "tedavi", "ilaç", "ilac", "aşı",
+        "asi ", "covid", "koronavirüs", "koronavirus", "grip",
+        "diyet", "obezite"
+      ],
+      ekonomi: [
+        "ekonomi", "ekonomik", "dolar", "euro", "altın", "altin",
+        "borsa", "faiz", "enflasyon", "piyasa", "kriz", "ihracat",
+        "ithalat", "yatırım", "yatirim", "gelir", "bütçe", "butce",
+        "vergi", "asgari ücret", "memur maaşı"
+      ],
+      magazin: [
+        "magazin", "ünlü", "unlu", "şarkıcı", "sarkici", "oyuncu",
+        "dizi", "film", "evlilik", "boşanma", "bosanma", "aşk",
+        "ask ", "görüntülendi", "konser", "klip", "festival"
+      ],
+      bilim: [
+        "bilim", "araştırma", "arastirma", "deney", "bilim insanı",
+        "laboratuvar", "keşif", "kesif", "evren", "fizik", "kimya",
+        "biyoloji", "genetik", "astronomi", "nasa", "teleskop"
+      ],
+      savunma: [
+        "savunma", "savunma sanayii", "ordu", "asker", "tatbikat",
+        "füze", "fuze", "tank", "savaş uçağı", "hava kuvvetleri",
+        "deniz kuvvetleri", "operasyon", "terör", "teror",
+        "saldırı", "saldiri", "nato", "güvenlik güçleri"
+      ],
+      oyun: [
+        "oyun", "video oyunu", "bilgisayar oyunu", "playstation",
+        "ps4", "ps5", "xbox", "nintendo", "switch", "steam",
+        "epic games", "battle.net", "mobil oyun", "battle royale",
+        "e-spor", "espor", "gamer", "gaming", "call of duty",
+        "pubg", "fortnite", "valorant", "cs2", "counter strike",
+        "league of legends", "dota", "gta", "fifa", "efootball"
+      ],
+      otomobil: [
+        "otomobil", "araba", "araç ", "arac ", "otomotiv", "sedan",
+        "suv ", "tesla", "bmw", "mercedes", "renault", "hyundai",
+        "trafik kazası", "trafik", "sürücü", "surucu", "otoyol",
+        "togg", "araç muayene", "lastik"
+      ],
+      yasam: [
+        "yaşam", "yasam", "hayat", "aile", "çocuk", "cocuk",
+        "evlilik", "ilişki", "iliski", "alışveriş", "alisveris",
+        "tatil", "seyahat", "gezi", "yemek", "tarif", "dekorasyon",
+        "hobi", "ev hayatı", "gunluk hayat"
+      ]
+    };
+
     };
 
     function getDomain(url) {
@@ -447,11 +560,34 @@
       };
     }
 
-    function classifyCategory(article) {
+    function classifyCategory(article) {    function classifyCategory(article) {
       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
-      const has = (keywords) => keywords.some(k => text.includes(k));
+      let bestCat = null;
+      let bestScore = 0;
+
+      // Her kategori için kaç anahtar kelime tuttuğunu say
+      for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+        let score = 0;
+        for (const k of keywords) {
+          if (text.includes(k)) {
+            score++;
+          }
+        }
+        if (score > bestScore) {
+          bestScore = score;
+          bestCat = cat;
+        }
+      }
+
+      // Güçlü eşleşme yoksa: kaynağa göre Gündem / Dünya
+      if (!bestCat || bestScore === 0) {
+        return src.type === "intl" ? "dunya" : "gundem";
+      }
+
+      return bestCat;
+    }
 
       // Spor
       if (has(["spor","maç","mac ","futbol","basketbol","voleybol","lig ","şampiyona","gol ","transfer","hakem","tenis","nba","fifa","uefa","olimpiyat"])) {
