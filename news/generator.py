@@ -7,7 +7,6 @@ import urllib.parse
 from urllib.parse import urlparse
 
 import requests
-from zoneinfo import ZoneInfo
 
 # news klasörünü garanti altına al
 os.makedirs("news", exist_ok=True)
@@ -78,6 +77,7 @@ def is_foreign(url: str) -> bool:
     except Exception:
         return True
 
+# Çeviri ile ilgili ayarlar
 TRANSLATION_CALLS = 0
 TRANSLATION_LIMIT = 60  # tek çalışmada maksimum çeviri isteği
 
@@ -129,7 +129,7 @@ for src in RSS_SOURCES:
             if not title or not link:
                 continue
 
-            # Aynı link daha önce eklendiyse atla (tekrar haber oluşturma)
+            # Aynı link daha önce eklendiyse atla
             if link in seen_links:
                 continue
             seen_links.add(link)
@@ -159,28 +159,13 @@ for src in RSS_SOURCES:
 
 print("TOPLAM HABER:", len(articles))
 
-output = {
-    print("TOPLAM HABER:", len(articles))
-
-# Türkiye yerel saatine göre, sade tarih-saat formatı
-try:
-    now_tr = datetime.now(ZoneInfo("Europe/Istanbul"))
-except Exception:
-    # Her ihtimale karşı fallback (UTC + 3)
-    now_tr = datetime.utcnow() + timedelta(hours=3)
-
+# Türkiye yerel saati: UTC + 3, sade format
+now_tr = datetime.utcnow() + timedelta(hours=3)
 generated_str = now_tr.strftime("%Y-%m-%d %H.%M")
 
 output = {
     "generated_at": generated_str,
     "articles": articles
-}
-
-with open("news/latest.json", "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=2)
-
-print("news/latest.json yazıldı.")
-
 }
 
 with open("news/latest.json", "w", encoding="utf-8") as f:
