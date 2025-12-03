@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-03 13.50",
+  "generated_at": "2025-12-03 13.52",
   "articles": [
     {
       "title": "ICE, Minnesota operasyonunu planlarken Trump, Somalililerin ABD'de bulunmasını istemediğini söyledi",
@@ -23,13 +23,6 @@
       "rss_categories": []
     },
     {
-      "title": "ABD Savunma Bakanı, uyuşturucu teknesine saldırıyı takip etmeden önce hayatta kalanları görmediğini söyledi",
-      "summary": "Saldırı, ABD güçlerinin silahlı çatışmayı düzenleyen yasaları ihlal etmiş olabileceğine dair endişelere yol açtı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ab9/live/81a5b930-cfb4-11f0-8abe-5b21635a497c.jpg",
-      "url": "https://www.bbc.com/news/articles/ckglx77mplgo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Devam etmek için uzun süredir kayıp olan Malaysia Airlines MH370 uçuşunu arayın",
       "summary": "239 kişinin bulunduğu Boeing 777, 2014 yılında en büyük havacılık gizemlerinden birinde kayboldu.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb93/live/e61b1f80-d000-11f0-bde8-19abff4892c2.jpg",
@@ -37,10 +30,24 @@
       "rss_categories": []
     },
     {
+      "title": "Hindistan, devlet tarafından işletilen siber güvenlik uygulamasını akıllı telefonlara önceden yükleme emrini kaldırdı",
+      "summary": "Kaydı zorunlu hale getirme emri, birkaç siber uzmanın büyük tepkisine yol açmıştı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
+      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "19 bin $ Fabergé yumurtası yuttuğu iddiasıyla hırsızlıkla suçlanan adam",
       "summary": "60 beyaz elmas ve 15 mavi safirden oluşan yumurta kolyesi henüz kurtarılmadı.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f0d/live/fc514730-d00e-11f0-a89b-5f94ac0dbb76.png",
       "url": "https://www.bbc.com/news/articles/c7vm754r80vo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "ABD Savunma Bakanı, uyuşturucu teknesine saldırıyı takip etmeden önce hayatta kalanları görmediğini söyledi",
+      "summary": "Saldırı, ABD güçlerinin silahlı çatışmayı düzenleyen yasaları ihlal etmiş olabileceğine dair endişelere yol açtı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ab9/live/81a5b930-cfb4-11f0-8abe-5b21635a497c.jpg",
+      "url": "https://www.bbc.com/news/articles/ckglx77mplgo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -76,13 +83,6 @@
       "summary": "Hindistan, tüm akıllı telefon üreticilerinin devlete ait bir siber güvenlik uygulamasıyla yeni cihazları önceden kurmasını istiyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d2/live/51ed9140-cf37-11f0-a052-bdc1808acb03.jpg",
       "url": "https://www.bbc.com/news/articles/cedxyvx74p4o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Papa, Lübnan ziyaretinin son gününde Beyrut liman patlaması alanında dua etti",
-      "summary": "Papa XIV. Leo, üç günlük Lübnan ziyaretinin sonunda felaketin 200 'den fazla kurbanı için adalet talep etti.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/423b/live/406c44d0-cf86-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/cn41jge1990o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -139,13 +139,6 @@
       "summary": "Elizabeth Rizzini, 2025 'in son süper ayı olan Perşembe günkü dolunayı nasıl izleyeceğine dair tüm ayrıntılara sahip.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f21e/live/8780dda0-cb7f-11f0-958b-6f0ce5df685d.jpg",
       "url": "https://www.bbc.com/weather/articles/ce8qelngjlro?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Hindistan, devlet tarafından işletilen siber güvenlik uygulamasını akıllı telefonlara önceden yükleme emrini kaldırdı",
-      "summary": "Kaydı zorunlu hale getirme emri, birkaç siber uzmanın büyük tepkisine yol açmıştı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47e3/live/fa766250-d032-11f0-be7e-2de49272c144.jpg",
-      "url": "https://www.bbc.com/news/articles/clydg2re4d1o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -212,8 +205,8 @@
       "rss_categories": []
     },
     {
-      "title": "Nvidia plays down Google chip threat concerns",
-      "summary": "The world's most valuable company said it was still \"a generation ahead of the industry\".",
+      "title": "Nvidia, Google'ın çip tehdidi endişelerini hafife alıyor",
+      "summary": "Dünyanın en değerli şirketi hala “sektörün bir nesil önünde” olduğunu söyledi.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7f4/live/fd848bf0-cabc-11f0-8830-713b9084fff8.jpg",
       "url": "https://www.bbc.com/news/articles/c7vme6rrqz5o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
