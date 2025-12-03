@@ -511,14 +511,94 @@
       };
     }
 
-    function classifyCategory(article) {
+   function classifyCategory(article) {
+      const rssCats = (article.rss_categories || []).map(c => (c || "").toLowerCase());
       const text = ((article.title || "") + " " + (article.summary || "")).toLowerCase();
       const src = classifySource(article.url);
 
+      // 1) RSS kategorilerini öncelikli kullan
+      const mapFromRss = (c) => {
+        // Dünya / politika / uluslararası
+        if (
+          c.includes("world") ||
+          c.includes("us & canada") ||
+          c.includes("us and canada") ||
+          c.includes("americas") ||
+          c.includes("africa") ||
+          c.includes("asia") ||
+          c.includes("europe") ||
+          c.includes("middle east") ||
+          c.includes("international") ||
+          c.includes("global") ||
+          c.includes("politic")
+        ) {
+          return "dunya";
+        }
+
+        // Ekonomi / iş dünyası
+        if (
+          c.includes("business") ||
+          c.includes("economy") ||
+          c.includes("market") ||
+          c.includes("finance") ||
+          c.includes("money")
+        ) {
+          return "ekonomi";
+        }
+
+        // Spor
+        if (c.includes("sport") || c.includes("sports")) {
+          return "spor";
+        }
+
+        // Teknoloji / bilim
+        if (c.includes("technology") || c.includes("tech")) {
+          return "teknoloji";
+        }
+        if (c.includes("science") || c.includes("environment")) {
+          return "bilim";
+        }
+
+        // Sağlık
+        if (c.includes("health") || c.includes("medical") || c.includes("medicine")) {
+          return "saglik";
+        }
+
+        // Magazin / eğlence / kültür
+        if (
+          c.includes("entertainment") ||
+          c.includes("arts") ||
+          c.includes("culture") ||
+          c.includes("magazin")
+        ) {
+          return "magazin";
+        }
+
+        // Türkiye içi haberler (Türk kaynaklar için ek güvence)
+        if (
+          c.includes("turkiye") ||
+          c.includes("türkiye") ||
+          c.includes("gündem") ||
+          c.includes("gundem") ||
+          c.includes("yerel")
+        ) {
+          return "gundem";
+        }
+
+        return null;
+      };
+
+      for (const rc of rssCats) {
+        const mapped = mapFromRss(rc);
+        if (mapped) {
+          return mapped;
+        }
+      }
+
+      // 2) RSS ile belirlenemediyse, kelime tabanlı puanlama
       let bestCat = null;
       let bestScore = 0;
 
-      // Her kategori için kaç anahtar kelime tuttuğunu say
       for (const [cat, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
         let score = 0;
         for (const k of keywords) {
@@ -530,6 +610,16 @@
           bestScore = score;
           bestCat = cat;
         }
+      }
+
+      // 3) Hâlâ güçlü eşleşme yoksa kaynağa göre Gündem / Dünya
+      if (!bestCat || bestScore === 0) {
+        return src.type === "intl" ? "dunya" : "gundem";
+      }
+
+      return bestCat;
+    }
+
       }
 
       // Güçlü eşleşme yoksa: kaynağa göre Gündem / Dünya
