@@ -159,8 +159,16 @@ for src in RSS_SOURCES:
 print("TOPLAM HABER:", len(articles))
 
 output = {
-    "generated_at": datetime.utcnow().isoformat(),
-    "articles": articles
+    import os
+import json
+import re
+from datetime import datetime, timedelta
+import xml.etree.ElementTree as ET
+import urllib.parse
+from urllib.parse import urlparse
+
+import requests
+from zoneinfo import ZoneInfo
 }
 
 with open("news/latest.json", "w", encoding="utf-8") as f:
