@@ -1,6 +1,13 @@
 {
-  "generated_at": "2025-12-04 20.48",
+  "generated_at": "2025-12-04 21.59",
   "articles": [
+    {
+      "title": "Putin, Rusya'nın Donbas'ı zorla alacağını ya da Ukrayna birliklerinin geri çekileceğini söyledi",
+      "summary": "Rus liderin yorumları, ABD ve Ukraynalı müzakerecilerin yeni bir müzakere turu yapacakları sırada geldi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg",
+      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
     {
       "title": "Petrol, savunma ve jeopolitik: Putin neden Delhi'de Modi'yi ziyaret ediyor?",
       "summary": "BBC editörleri, Rusya Devlet Başkanı Vladimir Putin'in iki günlük Hindistan ziyaretine başlamasıyla nelerin tehlikede olduğunu açıklıyor.",
@@ -9,9 +16,16 @@
       "rss_categories": []
     },
     {
+      "title": "İrlanda, İsrail'in yarışmaya izin vermesinin ardından Eurovision'u boykot eden ülkeler arasında",
+      "summary": "Gazze'deki savaşın yürütülmesi nedeniyle İsrail'in dışlanması yönünde çağrılar yapılmıştı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cab/live/065c3500-d0f0-11f0-a892-01d657345866.jpg",
+      "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "\"El yazmaları için ilk yardım gibi \": Gazze'nin savaştan zarar gören miras alanlarında kurtarma çalışmaları başlıyor",
       "summary": "Filistinliler arkeolojik alanlardaki molozları temizlerken, İsrail'in inşaat malzemeleri üzerindeki kısıtlamaları restorasyonu engelliyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2827/live/262928d0-d117-11f0-a892-01d657345866.png",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0064/live/749ac0e0-d13b-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/news/articles/c157n1g977go?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
@@ -27,20 +41,6 @@
       "summary": "Eleştirmenler, Güney Kore'de taciz ve kadına yönelik şiddetin yaygınlığına dair endişelerini dile getirdi.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a846/live/6a9f6d90-d0d5-11f0-8d4b-67d350470ae2.jpg",
       "url": "https://www.bbc.com/news/articles/cp84y7jx2pzo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "İsrail, Filistinli grupların Gazze'de tutulan Taylandlı rehinenin cesedini iade ettiğini söyledi",
-      "summary": "Tarım işçisi Suthisak Rintalak'ın kalıntıları Gazze'nin kuzeyinde Hamas ve Filistinli İslami Cihad tarafından ele geçirildi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3f/live/daf7fe70-d0e1-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Beyaz Saray, Moskova görüşmelerinin ardından Ukrayna ve ABD'li müzakerecilerin Florida'da bir araya geleceğini söyledi",
-      "summary": "ABD özel elçisi Steve Witkoff, perşembe günü Miami'de üst düzey Ukraynalı müzakereci Rüstem Umerov'la görüşecek.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea5c/live/3d98a230-d0d5-11f0-a892-01d657345866.jpg",
-      "url": "https://www.bbc.com/news/articles/c7731n5z6d3o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -65,6 +65,13 @@
       "rss_categories": []
     },
     {
+      "title": "İsrail, Filistinli grupların Gazze'de tutulan Taylandlı rehinenin cesedini iade ettiğini söyledi",
+      "summary": "Tarım işçisi Suthisak Rintalak'ın kalıntıları Gazze'nin kuzeyinde Hamas ve Filistinli İslami Cihad tarafından ele geçirildi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac3f/live/daf7fe70-d0e1-11f0-8c06-f5d460985095.jpg",
+      "url": "https://www.bbc.com/news/articles/cd6x2j4g3z7o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Mahkeme, Kanye West'in işbirliğine itirazda Adidas'ın tarafını tuttu",
       "summary": "Yatırımcılar, rapçi ile ilişkisi çatlaklar gösterdiği için Adidas'ı onları yanıltmakla suçlamıştı.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b5/live/a706d300-d0ac-11f0-b487-79c943b69f96.jpg",
@@ -76,13 +83,6 @@
       "summary": "Singh, 2021 'de bir parlamento komitesine yalan söylemekten suçlu bulunan bir karara itiraz etmişti.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d44/live/88c81b50-d0bc-11f0-a717-71627960cd74.jpg",
       "url": "https://www.bbc.com/news/articles/c5y9843engko?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Hong Kong yangınından kurtulan kişi, \"Bana her kahraman denildiğinde kalbim kırılıyor\" dedi",
-      "summary": "Hayatta kalanlardan biri BBC'ye, apartmanındaki yangından daha fazla kişiyi kurtarmadığı için kendini suçlu hissettiğini söyledi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b6/live/888494c0-d0df-11f0-a892-01d657345866.jpg",
-      "url": "https://www.bbc.com/news/articles/cm2054rdv52o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -107,13 +107,6 @@
       "rss_categories": []
     },
     {
-      "title": "İsrail yarışmaya izin verdikten sonra Hollanda ve İspanya Eurovision'u boykot etti",
-      "summary": "Gazze'deki savaşın yürütülmesi nedeniyle İsrail'in dışlanması yönünde çağrılar yapılmıştı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cab/live/065c3500-d0f0-11f0-a892-01d657345866.jpg",
-      "url": "https://www.bbc.com/news/articles/cde6d8wyp79o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Volkanik patlama Avrupa'nın ölümcül Kara Ölüm vebasını tetiklemiş olabilir",
       "summary": "Volkanik bir patlama, Avrupa'nın en ölümcül pandemisine yol açan zincirleme bir reaksiyona yol açmış olabilir.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/943e/live/03d9cd10-d136-11f0-a892-01d657345866.jpg",
@@ -121,24 +114,24 @@
       "rss_categories": []
     },
     {
-      "title": "Putin, Rusya'nın ABD'nin Ukrayna savaşını sona erdirme planının bazı kısımlarına katılmadığını söyledi",
-      "summary": "Rus liderin yorumları, ABD ve Ukraynalı müzakerecilerin yeni bir müzakere turu yapacakları sırada geldi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b94/live/99846e30-d12a-11f0-9d18-614b3678ebf8.jpg",
-      "url": "https://www.bbc.com/news/articles/cgexgwr1wrro?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Sinagog saldırganını terör suçlarıyla suçlanan Birleşik Krallık savunma sahasına götürmekle suçlanan adam",
+      "title": "Manchester sinagogu saldırganını Birleşik Krallık savunma sahasına sürmekle suçlanan adam için terör suçlamaları",
       "summary": "Büyük Manchester Polisi, 31 yaşındaki zanlının Cihad Al - Shamie'nin ortağı olduğunu doğruladı.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4b4/live/32657ad0-d122-11f0-9d18-614b3678ebf8.jpg",
       "url": "https://www.bbc.com/news/articles/cn98jnr5jpzo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
-      "title": "Porno sitesi yaş kontrolünden 1 milyon £ fazla para cezasına çarptırıldı ve Ofcom'a hiçbir zaman yanıt vermedi",
-      "summary": "Düzenleyici kurum BBC'ye Temmuz'dan bu yana yanıt vermeden AVS Group Ltd'ye e - posta gönderdiğini söyledi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5424/live/feb844f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg",
-      "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
+      "title": "Farage, ırkçılık iddialarının ardından BBC'yi çifte standart uygulamakla suçladı",
+      "summary": "Reform BK lideri, genç ırkçılığı iddialarıyla ilgili başka sorularla karşı karşıya kalırken BBC'ye ateş açtı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f5/live/b4bf0110-d12f-11f0-a0cc-673bf7abfc30.jpg",
+      "url": "https://www.bbc.com/news/articles/cgexg4lz2q5o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Almanya Cumhurbaşkanı, Birleşik Krallık'ın Brexit sonrası ilişkilerini Oasis'le karşılaştırdı",
+      "summary": "Frank - Walter Steinmeier, her iki tarafın da grubun yeniden bir araya gelmesine atıfta bulunurken öfkeyle geriye bakmamaya karar verdiğini söyledi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8113/live/d6246f00-d131-11f0-a892-01d657345866.jpg",
+      "url": "https://www.bbc.com/news/articles/cq60930429po?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -149,17 +142,24 @@
       "rss_categories": []
     },
     {
-      "title": "İngiltere ve Norveç, Rus denizaltılarını avlamak için deniz ittifakı kurdu",
-      "summary": "Ortaklık, Batılı yetkililerin Moskova'nın artan tehdidiyle karşı karşıya olduğunu söylediği denizaltı kablolarını korumayı amaçlıyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/080d/live/47cadda0-d133-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/articles/c3v152ep9l0o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "\"Artık Ortalama Joe Yok \": Root'un anlaşılması zor yüzyılı, tüm zamanların en büyük statüsünü mühürledi",
       "summary": "Baş kriket muhabiri Stephan Shemilt, Joe Root'un nihayet Avustralya'daki zorlu Test yüzyılına girmesinin, tüm zamanların en iyi vurucularından biri olarak statüsünü kanıtladığını söylüyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/432e/live/86a327c0-d125-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/sport/cricket/articles/cpd640yvwp6o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Öksürük ilaçları mı yoksa limon ve bal mı – hangisi sizin için daha iyi?",
+      "summary": "Öksürük ile başa çıkmanın en iyi yolu nedir ve limon ve bal ilaç kadar etkili midir?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f21/live/a566bb50-d11f-11f0-8c06-f5d460985095.jpg",
+      "url": "https://www.bbc.com/news/articles/cnvevg77z6mo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Porno sitesi yaş kontrolünden 1 milyon £ fazla para cezasına çarptırıldı ve Ofcom'a hiçbir zaman yanıt vermedi",
+      "summary": "Düzenleyici kurum BBC'ye Temmuz'dan bu yana yanıt vermeden AVS Group Ltd'ye e - posta gönderdiğini söyledi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5424/live/feb844f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg",
+      "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -450,6 +450,15 @@
       "rss_categories": []
     },
     {
+      "title": "Karadeniz'deki saldırılara ilişkin Ukraynalı ve Rus diplomatik misyon temsilcileri Dışişleri Bakanlığına çağrıldı",
+      "summary": "Karadeniz'de uluslararası sularda seyreden gemilere düzenlenen saldırılarla ilgili olarak Ukrayna'nın Ankara Büyükelçisi Nariman Celal ve Rusya'nın Ankara Büyükelçiliği Maslahatgüzarı Aleksei Ivanov, Türk Dışişlerine çağrıldı.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6931c1e0600db024f7cee88b.jpg",
+      "url": "https://www.hurriyet.com.tr/gundem/karadenizdeki-saldirilara-iliskin-ukraynali-ve-rus-diplomatik-misyon-temsilcileri-disisleri-bakanligina-cagrildi-43043100",
+      "rss_categories": [
+        "gündem"
+      ]
+    },
+    {
       "title": "Bu gece başlıyor: Gök gürültülü kuvvetli sağanak geliyor | Meteoroloji'den sağanak, buzlanma ve don uyarısı: 43 ilde yağış bekleniyor",
       "summary": "Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre yurdun büyük bölümü yeni bir hava dalgası etkisi altına giriyor. Yurdun batısından iç bölgelere doğru sağanak yağışların ilerleyerek güçlenmesi bekleniyor. Yağışların dört gün boyunca sürmesi öngörülürken Meteoroloji Genel Müdürlüğü'nden kuvvetli yağış, buzlanma ve don uyarısı geldi. Öte yandan Ardahan, Ağrı, Kars, Bitlis, Muş, Erzurum ve Bayburt illerinde hafta sonu kar yağışının olacağı öngörülüyor.",
       "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693106b26f11556d06a266e2.jpg",
@@ -459,10 +468,10 @@
       ]
     },
     {
-      "title": "Galatasaray, Lookman için tarihi transfer teklifi yaptı! İşte bonservisi ve maaşı",
-      "summary": "Galatasaray'ın bir süredir transfer listesinde olan Ademola Lookman için sürpriz bir iddia ortaya atıldı. Galatasaray'ın Lookman için Atalanta'ya transfer teklifinde bulunduğu ve maaşının da belirlendiği ifade edildi. Lookman'ın transferi gerçekleşmesi halinde, Süper Lig'de Osimhen'den sonra ödenen en yüksek bonservis olacak.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69318723600db024f7cee73d.jpg",
-      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-lookman-icin-tarihi-transfer-teklifi-yapti-iste-bonservisi-ve-maasi-43042796",
+      "title": "Euroleague'de Olympiakos-Fenerbahçe maçına yağış engeli! Erteleme kararı...",
+      "summary": "Euroleague'in 14. haftasındaki Olympiakos-Fenerbahçe Beko maçı, müsabakanın oynanacağı salonun çatısının akması sebebiyle ertelendi.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6931c9326f11556d06a26b12.jpg",
+      "url": "https://www.hurriyet.com.tr/sporarena/euroleaguede-olympiakos-fenerbahce-macina-yagis-engeli-erteleme-karari-43043121",
       "rss_categories": [
         "spor arena"
       ]
@@ -549,13 +558,88 @@
       ]
     },
     {
-      "title": "ABD Başkanı’ndan Suriye liderine övgü... \"Ahmed sen harika bir lider olacaksın\"",
-      "summary": "İsrail’in Suriye’nin güneyindeki operasyonlarını arttırması ABD’de rahatsızlık yaratırken, ABD Başkanı Trump, Şam yönetimine yönelik üst üste gelen destek açıklamalarıyla Washington’ın Tel Aviv’e mesajını netleştiriyor.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69308b136f11556d06a26588.jpg",
-      "url": "https://www.hurriyet.com.tr/dunya/abd-baskanindan-suriye-liderine-ovgu-ahmed-sen-harika-bir-lider-olacaksin-43041816",
-      "rss_categories": [
-        "dünya"
-      ]
+      "title": "Lozan Barış Konferansı sırasında TBMM'nin hükümet görevini yürüten icra vekilleri heyetinin başvekili kimdir?",
+      "summary": "Milyoner yarışmasında 200 bin TL değerinde \"Lozan Barış Konferansı sırasında TBMM'nin hükümet görevini yürüten icra vekilleri heyetinin başvekili kimdir?\" sorusu soruldu. Peki Lozan Barış Konferansı sırasında TBMM'nin hükümet görevini yürüten icra vekilleri heyetinin başvekili kimdir?",
+      "image": "",
+      "url": "https://www.cnnturk.com/kultur-sanat/lozan-baris-konferansi-sirasinda-tbmmnin-hukumet-gorevini-yuruten-icra-vekilleri-heyetinin-basvekili-kimdir-2368092",
+      "rss_categories": []
+    },
+    {
+      "title": "SON DAKİKA HABERİ: Eurovision'da İsrail krizi! Bir ülke daha katılmama kararı aldı",
+      "summary": "Son dakika haberine göre; Slovenya, İsrail'in Eurovision şarkı yarışmasına katılımına onay verilmesinin ardından Eurovision 2026'ya katılmayacağını duyurdu.",
+      "image": "",
+      "url": "https://www.cnnturk.com/dunya/son-dakika-haberi-eurovisionda-israil-krizi-bir-ulke-daha-katilmama-karari-aldi-2368091",
+      "rss_categories": []
+    },
+    {
+      "title": "Türkiye'nin kara sınırı komşusu 8 taneyken BM'ye üye 193 ülke arasında 8'den fazla kara sınırı komşusu olan kaç ülke vardır?",
+      "summary": "Milyoner programında 100 bin TL değerinde, \"Türkiye'nin kara sınırı komşusu 8 taneyken BM'ye üye 193 ülke arasında 8'den fazla kara sınırı komşusu olan kaç ülke vardır?\" sorusu soruldu. Peki Türkiye'nin kara sınırı komşusu 8 taneyken BM'ye üye 193 ülke arasında 8'den fazla kara sınırı komşusu olan kaç ülke vardır?",
+      "image": "",
+      "url": "https://www.cnnturk.com/kultur-sanat/turkiyenin-kara-siniri-komsusu-8-taneyken-bmye-uye-193-ulke-arasinda-8den-fazla-kara-siniri-komsusu-olan-kac-ulke-vardir-2368090",
+      "rss_categories": []
+    },
+    {
+      "title": "Türkiye'de Michelin yıldızlı restoran sayısı 17'ye yükseldi",
+      "summary": "Prestijli restoran değerlendirme sistemlerinden Michelin Rehberi, 2026 İstanbul-İzmir-Muğla-Kapadokya seçkisi, düzenlenen törenle açıklandı. Türkiye'deki tavsiye edilen mekan sayısı toplamda 115 oldu.",
+      "image": "",
+      "url": "https://www.cnnturk.com/kesfet/turkiyede-michelin-yildizli-restoran-sayisi-17ye-yukseldi-2368088",
+      "rss_categories": []
+    },
+    {
+      "title": "KUYUMCULARDA GÜMÜŞ KALMADI | 11 ayda iki katını aştı",
+      "summary": "Gümüş, 11 ayda yatırımcısına yüzde 100'den fazla kazandırdı. 2 Ocak’ta 32 lira olan gümüş bugün 80 liraya kadar yükseldi. Vatandaş şu sıralar altından çok gümüş alıyor öyle ki kuyumcularda fiziki gümüş kalmadı bile.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/finans-haberler/kuyumcularda-gumus-kalmadi-11-ayda-iki-katini-asti-2368089",
+      "rss_categories": []
+    },
+    {
+      "title": "UEFA Şampiyonlar Ligi tarihinde en çok maç kazanan ve en çok gol atan takım Real Madrid iken en çok maç kaybeden ve en çok gol yiyen takım hangisidir?",
+      "summary": "ATV ekranlarında yayınlanan Kim Milyoner Olmak İster yarışmasında yarışmacıya 300 bin TL değerinde \"UEFA Şampiyonlar Ligi tarihinde en çok maç kazanan ve en çok gol atan takım Real Madrid iken en çok maç kaybeden ve en çok gol yiyen takım hangisidir?\" sorusu soruldu. Peki UEFA Şampiyonlar Ligi tarihinde en çok maç kazanan ve en çok gol atan takım Real Madrid iken en çok maç kaybeden ve en çok gol yiyen takım hangisidir?",
+      "image": "",
+      "url": "https://www.cnnturk.com/kultur-sanat/uefa-sampiyonlar-ligi-tarihinde-en-cok-mac-kazanan-ve-en-cok-gol-atan-takim-real-madrid-iken-en-cok-mac-kaybeden-ve-en-cok-gol-2368087",
+      "rss_categories": []
+    },
+    {
+      "title": "Dur! Yoksa annem ateş edecek\" filminin senaryosunu okuyup berbat bulmuş, kime filmi övüp onun oynamasına sebep olmuştur?",
+      "summary": "ATV ekranlarında yayınlanan Milyoner yarışmasında yarışmacıya 200 bin TL değerinde \"Arnold Schwarzenegger 'Dur! Yoksa annem ateş edecek\" filminin senaryosunu okuyup berbat bulmuş, kime filmi övüp onun oynamasına sebep olmuştur?\" sorusu soruldu. Peki Dur! Yoksa annem ateş edecek\" filminin senaryosunu okuyup berbat bulmuş, kime filmi övüp onun oynamasına sebep olmuştur?",
+      "image": "",
+      "url": "https://www.cnnturk.com/kultur-sanat/dur-yoksa-annem-ates-edecek-filminin-senaryosunu-okuyup-berbat-bulmus-kime-filmi-ovup-onun-oynamasina-sebep-olmustur-2368086",
+      "rss_categories": []
+    },
+    {
+      "title": "Çeyrek altın kaç gram ağırlığındadır?",
+      "summary": "Kim Milyoner Olmak İster yarışmasında 100 bin TL değerinde 'Çeyrek altın kaç gram ağırlığındadır?' sorusu soruldu. Peki Çeyrek altın kaç gram ağırlığındadır?",
+      "image": "",
+      "url": "https://www.cnnturk.com/kultur-sanat/ceyrek-altin-kac-gram-agirligindadir-2368084",
+      "rss_categories": []
+    },
+    {
+      "title": "Adalet Bakanlığı harekete geçti: Adli emanetlere yoğun inceleme",
+      "summary": "Adalet Bakanlığınca, Büyükçekmece ve Adalar adliyelerinde ortaya çıkan adli emanet bürolarındaki zimmet olayları dolayısıyla adli emanetlere yönelik sıkı denetim talimatı verildi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/adalet-bakanligi-harekete-gecti-adli-emanetlere-yogun-inceleme-2368083",
+      "rss_categories": []
+    },
+    {
+      "title": "Olympiakos – Fenerbahçe Beko maçı ertelendi",
+      "summary": "Olympiakos – Fenerbahçe Beko müsabakası, olumsuz hava koşulları nedeniyle ertelendi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/spor/basketbol/olympiakos-fenerbahce-beko-maci-ertelendi-2368081",
+      "rss_categories": []
+    },
+    {
+      "title": "Cumhurbaşkanı Erdoğan, çeşitli branşlardan başarılı sporcuları kabul etti",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, çeşitli branşlardan başarılı sporcuları Cumhurbaşkanlığı Külliyesi'nde kabul etti.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/cumhurbaskani-erdogan-cesitli-branslardan-basarili-sporculari-kabul-etti-2368082",
+      "rss_categories": []
+    },
+    {
+      "title": "Eşref Rüya, İstanbul Depremi, Türkiye İspanya maçı... İşte Türkiye'nin 2025'te en çok arattığı kelimeler",
+      "summary": "Dünyanın en büyük arama motoru Google, 2025 yılında Türkiye'de en fazla merak edilen başlıkları içeren kapsamlı trend raporunu yayımladı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/esref-ruya-istanbul-depremi-turkiye-ispanya-maci-iste-turkiyenin-2025te-en-cok-arattigi-kelimeler-2368080",
+      "rss_categories": []
     },
     {
       "title": "MSB'nin Atina’ya mesajının şifreleri ne?",
@@ -572,24 +656,10 @@
       "rss_categories": []
     },
     {
-      "title": "SURVİVOR ERKAN KİMDİR? Erkan Bilben kaç yaşında ve nereli? Ne iş yapıyor?",
-      "summary": "Survivor Ünlüler Gönüllüler yarışmasında Gönüllüler takımının erkek yarışmacıları açıklandı. Erkan Bilben de bunlardan biri oldu. Survivor izleyiciler, Erkan Bilben hakkında ayrıntıları araştırmaya başladı. Peki Survivor Erkan kimdir? Erkan Bilben kaç yaşında ve nereli? Ne iş yapıyor?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/survivor-erkan-kimdir-erkan-bilben-kac-yasinda-ve-nereli-ne-is-yapiyor-2368073",
-      "rss_categories": []
-    },
-    {
       "title": "Türkiye'nin konuştuğu olayda görüntüler ortaya çıktı! Kilolarca altın ve gümüş böyle çalınmış",
       "summary": "Büyükçekmece Adliyesi'ndeki emanet bürosundan iddiaya göre, adliyede görevli memur Erdal Timurtaş tarafından çalınan 25 kilogram altın ve 50 kilogram gümüşün çalındığı hırsızlık anlarının görüntüsü ortaya çıktı.",
       "image": "",
       "url": "https://www.cnnturk.com/turkiye/turkiyenin-konustugu-olayda-goruntuler-ortaya-cikti-kilolarca-altin-ve-gumus-boyle-calinmis-2368074",
-      "rss_categories": []
-    },
-    {
-      "title": "Türkiye'nin büyüme tahmini yükseldi",
-      "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch küresel ekonomiye ilişkin büyüme beklentilerini yukarı yönlü güncelledi. Raporda Türkiye'ye yönelik büyüme beklentilerinin arttığı da yer aldı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/finans-haberler/turkiyenin-buyume-tahmini-yukseldi-2368072",
       "rss_categories": []
     },
     {
@@ -600,38 +670,10 @@
       "rss_categories": []
     },
     {
-      "title": "SURVİVOR RAMAZAN KİMDİR? Ramazan Sarı kaç yaşında ve nereli? Ne iş yapıyor?",
-      "summary": "Ramazan Sarı Survivor 2026 Ünlüler Gönüllüler yarışmasında Gönüllüler kadrosunda yarışacak. Survivor izleyicileri Ramazan Sarı'nın kim olduğunu merak etmeye başladı. Peki Suvivor Ramazan kimdir? Ramazan Sarı kaç yaşında ve nereli? Ne iş yapıyor?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/survivor-ramazan-kimdir-ramazan-sari-kac-yasinda-ve-nereli-ne-is-yapiyor-2368070",
-      "rss_categories": []
-    },
-    {
-      "title": "SURVİVOR ENGİNCAN TURA KİMDİR? Engincan Tura kaç yaşında ve nereli?",
-      "summary": "Acun Ilıcalı Survivor Ünlüler Gönüllüler 2026 yarışmasındaki Gönüllüler kadrosunun erkek yarışmacılarını açıkladı. Bu isimler arasında Engincan Tura da yer aldı. Bu kapsamda Engincan Tura hakkında araştırmalar hız kazandı. Peki Survivor Engincan Tura kimdir? Engincan Tura kaç yaşında ve nereli?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/survivor-engincan-tura-kimdir-engincan-tura-kac-yasinda-ve-nereli-2368063",
-      "rss_categories": []
-    },
-    {
-      "title": "Netanyahu New York'a gidecek, Mamdani ne yapacak?",
-      "summary": "İsrail Başbakanı Netanyahu, Trump yeniden göreve geldikten sonra beşinci kez ABD'ye gidecek. Tarih de belli oldu. 28 ile 31 Aralık arası. Netanyahu verdiği bir röportajda, \"New York'a da gideceğim\" dedi. Dolayısıyla gözler New York'un seçilmiş Belediye Başkanı Mamdani'ye çevrildi. Çünkü Mamdani, \"Netanyahu, New York'a gelirse onu tutuklattıracağım\" demişti.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/dunya/netanyahu-new-yorka-gidecek-mamdani-ne-yapacak-2368056",
-      "rss_categories": []
-    },
-    {
       "title": "Son dakika haberi: TBMM Dışişleri Komisyonu 7 kanun teklifini kabul etti",
       "summary": "TBMM Dışişleri Komisyonu Başkanı Fuat Oktay, Karadeniz’de uluslararası sularda seyir halindeki gemilerin saldırılara uğramasına ilişkin, \"Savaşın özellikle Karadeniz'de sivil taşımacılığa sıçraması bir endişe kaynağıdır. Çatışmaların ülkemizin münhasır ekonomik bölgesine sıçraması asla kabul edilemez.\" dedi.",
       "image": "",
       "url": "https://www.cnnturk.com/turkiye/son-dakika-haberi-tbmm-disisleri-komisyonu-7-kanun-teklifini-kabul-etti-2368054",
-      "rss_categories": []
-    },
-    {
-      "title": "Faydaları saymakla bitmiyor: Parkinson, Diyabet ve Alzheimer riskini azaltıyor!",
-      "summary": "Kahve tüketmek günlük bir rutin haline geldi. Yorgunken, enerjikken, spor öncesi, veya gün içinde sıklıkla kahve tüketiyoruz. Öte yandan kahvenin yararları da saymakla bitmiyor. Kahve içmek uzun yıllardır kalp sağlığı açısından riskli kabul edilse de Beslenme ve Diyet Uzmanı Ayşegül Akkaya Erden güncel verilerin bu algıyı değiştirdiğine dikkat çekiyor. Bilimsel araştırmalar sonucunda elde edilen verilere göre kahve içmek Parkinson, diyabet, Alzheimer riskini azaltıyor.",
-      "image": "",
-      "url": "https://www.cnnturk.com/kesfet/faydalari-saymakla-bitmiyor-parkinson-diyabet-ve-alzheimer-riskini-azaltiyor-2368052",
       "rss_categories": []
     },
     {
@@ -663,24 +705,10 @@
       "rss_categories": []
     },
     {
-      "title": "Bakan Yerlikaya 'Gereği Yapıldı' diyerek paylaştı: Ambulansın geçişini engelleyen sürücü yakalandı",
-      "summary": "İçişleri Bakanı Ali Yerlikaya, İstanbul Esenyurt'ta ambulansın geçişini engelleyen aracın sürücüsünün yakalandığını açıkladı.",
+      "title": "Netanyahu New York'a gidecek, Mamdani ne yapacak?",
+      "summary": "İsrail Başbakanı Netanyahu, Trump yeniden göreve geldikten sonra beşinci kez ABD'ye gidecek. Tarih de belli oldu. 28 ile 31 Aralık arası. Netanyahu verdiği bir röportajda, \"New York'a da gideceğim\" dedi. Dolayısıyla gözler New York'un seçilmiş Belediye Başkanı Mamdani'ye çevrildi. Çünkü Mamdani, \"Netanyahu, New York'a gelirse onu tutuklattıracağım\" demişti.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/bakan-yerlikaya-geregi-yapildi-diyerek-paylasti-ambulansin-gecisini-engelleyen-surucu-yakalandi-2368044",
-      "rss_categories": []
-    },
-    {
-      "title": "Büyükçekmece Adliyesi'nde 147 milyonluk hırsızlık! Zimmet memuruna tutuklama talebi",
-      "summary": "Büyükçekmece Cumhuriyet Başsavcılığı Emanet Bürosundaki kasalardan yaklaşık 25 kilogram altın ve 50 kilogram gümüş çalınmasına ilişkin gözaltına alınan şüpheli K.D. tutuklama talebiyle sulh ceza hakimliğine sevk edildi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/buyukcekmece-adliyesinde-147-milyonluk-hirsizlik-zimmet-memuruna-tutuklama-talebi-2368042",
-      "rss_categories": []
-    },
-    {
-      "title": "GS-FB derbisi sonrası 'hakaret' davasında karar",
-      "summary": "Trendyol Süper Lig'in 37. haftasındaki Galatasaray-Fenerbahçe derbisinin ardından, o dönem Fenerbahçe Yönetim Kurulu Üyesi olan Selahattin Baki'nin, Galatasaray Spor Kulübü Yönetim Kurulu Üyesi Eray Yazgan'a küfür ettiği iddiasıyla yargılandığı dava karara bağlandı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/gs-fb-derbisi-sonrasi-hakaret-davasinda-karar-2368039",
+      "url": "https://www.cnnturk.com/video/dunya/netanyahu-new-yorka-gidecek-mamdani-ne-yapacak-2368056",
       "rss_categories": []
     },
     {
@@ -751,13 +779,6 @@
       "summary": "Birleşmiş Milletler Güvenlik Konseyi heyetinin, Suriye’nin başkenti Şam'a resmi ziyaret gerçekleştirdiği bildirildi.",
       "image": "",
       "url": "https://www.cnnturk.com/dunya/bmgk-heyeti-suriyede-2367945",
-      "rss_categories": []
-    },
-    {
-      "title": "Trump: Putin savaşı bitirmek istiyor",
-      "summary": "ABD Başkanı Donald Trump, Moskova’da yapılan Putin görüşmesini “çok iyi” olarak değerlendirdi. Heyetin olumlu izlenimle döndüğünü söyleyen Trump, Putin’in savaşın sona ermesini istediğini belirtti. Barış sürecinin kolay olmayacağını ancak karşılıklı adımlarla ilerleyeceğini vurgulayan Trump, kendisi başkan olsaydı savaşın hiç başlamayacağını da ifade etti.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/dunya/trump-putin-savasi-bitirmek-istiyor-2367904",
       "rss_categories": []
     },
     {
@@ -922,13 +943,6 @@
       "rss_categories": []
     },
     {
-      "title": "Beşiktaş’ta Rafa Silva krizi çözüldü: Özür diledi, işte takıma katılacağı tarih...",
-      "summary": "Beşiktaş’ta Rafa Silva ile yaşanan kriz, oyuncunun özrü ve ailevi sorunlarını aşmasıyla çözüldü. İşte detaylar...",
-      "image": "",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktasta-rafa-silva-krizi-cozuldu-ozur-diledi-iste-takima-katilacagi-tarih-2367750",
-      "rss_categories": []
-    },
-    {
       "title": "H3N2 Virüsü Nedir? H3N2 Virüsü (Influenza A) Belirtileri Nelerdir? H3N2 Virüsü (Influenza A) Nasıl Anlaşılır?",
       "summary": "H3N2 Virüsü, son dönemde dünya genelinde grip vakalarının artışında öne çıkan influenza A alt tipi olarak dikkat çekiyor. Uzmanlar, bu virüsün hızlı yayılma potansiyeli ve mutasyon kabiliyeti nedeniyle özellikle kış aylarında yakından takip edilmesi gerektiğini belirtiyor. Sağlık otoriteleri, H3N2’nin mevsimsel gripten daha ağır seyredebildiğini ve risk gruplarında ciddi komplikasyonlara yol açabileceğini vurguluyor. Bu nedenle, virüsle ilgili gelişmeler hem Türkiye’de hem de küresel ölçekte yakından izleniyor. Peki, H3N2 Virüsü nedir? H3N2 Virüsü (Influenza A) belirtileri neler? H3N2 Virüsü (Influenza A) nasıl anlaşılır?",
       "image": "",
@@ -1010,6 +1024,27 @@
       "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) verilerine göre, küresel nüfustaki hızlı artış, iklim krizinin etkileri, savaşlar ve ekonomilerdeki kırılganlıklar nedeniyle dünya genelinde yaklaşık 673 milyon insan açlıkla karşı karşıya. Dünya nüfusunun yüzde 8,2’sine denk gelen bu rakam, her geçen gün daha da kötüleşen bir tabloyu ortaya koyarken, uluslararası kuruluşlar hep birlikte harekete geçme çağrısı yapıyor.",
       "image": "",
       "url": "https://www.cnnturk.com/saglik/dunya-gida-gununde-gida-okuryazarligina-dikkat-cekildi-2348202",
+      "rss_categories": []
+    },
+    {
+      "title": "SURVİVOR ERKAN KİMDİR? Erkan Bilben kaç yaşında ve nereli? Ne iş yapıyor?",
+      "summary": "Survivor Ünlüler Gönüllüler yarışmasında Gönüllüler takımının erkek yarışmacıları açıklandı. Erkan Bilben de bunlardan biri oldu. Survivor izleyiciler, Erkan Bilben hakkında ayrıntıları araştırmaya başladı. Peki Survivor Erkan kimdir? Erkan Bilben kaç yaşında ve nereli? Ne iş yapıyor?",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/survivor-erkan-kimdir-erkan-bilben-kac-yasinda-ve-nereli-ne-is-yapiyor-2368073",
+      "rss_categories": []
+    },
+    {
+      "title": "SURVİVOR RAMAZAN KİMDİR? Ramazan Sarı kaç yaşında ve nereli? Ne iş yapıyor?",
+      "summary": "Ramazan Sarı Survivor 2026 Ünlüler Gönüllüler yarışmasında Gönüllüler kadrosunda yarışacak. Survivor izleyicileri Ramazan Sarı'nın kim olduğunu merak etmeye başladı. Peki Suvivor Ramazan kimdir? Ramazan Sarı kaç yaşında ve nereli? Ne iş yapıyor?",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/survivor-ramazan-kimdir-ramazan-sari-kac-yasinda-ve-nereli-ne-is-yapiyor-2368070",
+      "rss_categories": []
+    },
+    {
+      "title": "SURVİVOR ENGİNCAN TURA KİMDİR? Engincan Tura kaç yaşında ve nereli?",
+      "summary": "Acun Ilıcalı Survivor Ünlüler Gönüllüler 2026 yarışmasındaki Gönüllüler kadrosunun erkek yarışmacılarını açıkladı. Bu isimler arasında Engincan Tura da yer aldı. Bu kapsamda Engincan Tura hakkında araştırmalar hız kazandı. Peki Survivor Engincan Tura kimdir? Engincan Tura kaç yaşında ve nereli?",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/survivor-engincan-tura-kimdir-engincan-tura-kac-yasinda-ve-nereli-2368063",
       "rss_categories": []
     },
     {
