@@ -1,6 +1,13 @@
 {
-  "generated_at": "2025-12-04 10.39",
+  "generated_at": "2025-12-04 11.56",
   "articles": [
+    {
+      "title": "Epstein Adası'nın daha önce görülmemiş görüntüleri yayımlandı",
+      "summary": "Yeni görüntüler, ABD hükümetinin elindeki belgelerin daha geniş çapta yayımlanması için son tarih olarak geliyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d26/live/90ef1cb0-d086-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/articles/c4g5rrlve33o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
     {
       "title": "Beyaz Saray, Moskova görüşmelerinin ardından Ukrayna ve ABD'li müzakerecilerin Florida'da bir araya geleceğini söyledi",
       "summary": "ABD özel elçisi Steve Witkoff, perşembe günü Miami'de üst düzey Ukraynalı müzakereci Rüstem Umerov'la görüşecek.",
@@ -79,16 +86,9 @@
       "rss_categories": []
     },
     {
-      "title": "İsrail, Filistinlilerin Mısır üzerinden Gazze'yi terk etmesine izin vermek için Rafah sınır kapısının yakında açılacağını söyledi",
-      "summary": "Mısır, geçişin her iki yönde de olması gerektiğinde ısrar ederek sınırı yeniden açmanın İsrail'le koordinasyon içinde olduğunu reddediyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbd/live/5cc5fce0-d047-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/cpwk7xen544o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Hanehalkı faturalarını yükseltmek için enerji şebekesi yatırımı",
+      "title": "Hanehalkı faturalarını yükseltmek için 28 milyar £ tutarında enerji şebekesi yatırımı",
       "summary": "Ofgem, yatırımın ithal gaza bağımlılığı azaltmaya ve toptan enerjiyi daha ucuz hale getirmeye yardımcı olacağını söylüyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24c0/live/6a788b00-d0dd-11f0-9c6d-c599df6156ee.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6520/live/59e451c0-d0ec-11f0-b0cc-cf4d0e5d41e2.jpg",
       "url": "https://www.bbc.com/news/articles/cp84yymxpjno?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
@@ -107,6 +107,41 @@
       "rss_categories": []
     },
     {
+      "title": "Yüz tanıma, polis tarafından daha yaygın bir şekilde kullanılabilir",
+      "summary": "Yeni bir istişare, teknolojinin daha fazla polis gücü tarafından kullanımını genişleten yeni yasalara yol açmayı amaçlıyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2384/live/5bf15b70-d0ce-11f0-a892-01d657345866.jpg",
+      "url": "https://www.bbc.com/news/articles/c3r7pwpgeweo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Hıçkırık, boğaz ağrısı ve diğer niggle'larla acil servisi tıkayan hastalar",
+      "summary": "Ulusal Sağlık Hizmeti (NHS) patronları, bunun zorlu bir kış olabileceği endişesiyle halkı hastaneleri akıllıca kullanmaları konusunda uyarıyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/64fd13b0-d0e9-11f0-8c06-f5d460985095.png",
+      "url": "https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "İngiltere'nin dört bölgesinde yeni belediye başkanlığı seçimleri 2028 'e kadar ertelenecek",
+      "summary": "Büyük Essex, Norfolk ve Suffolk, Hampshire ve Solent, Sussex ve Brighton'daki yeni belediye başkanlıklarına 2028 'de itiraz edilecek.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ac/live/c262bfd0-d0cd-11f0-898c-8733c7a292af.jpg",
+      "url": "https://www.bbc.com/news/articles/c5yjg2r7z9zo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Deprem \"eve giren biri gibi hissettirdi\"",
+      "summary": "Lancashire sakinleri, 3.3 büyüklüğündeki sarsıntının \"bir yeraltı patlaması\" gibi hissettirdiğini söylese de hasar bildirilmedi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc53/live/80383510-d0e9-11f0-b0cc-cf4d0e5d41e2.jpg",
+      "url": "https://www.bbc.com/news/articles/cgjn8wg53q7o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Kraliyet mensupları, Almanya cumhurbaşkanı için ışıltılı bir devlet ziyafeti verdi",
+      "summary": "Almanya Cumhurbaşkanı, Birleşik Krallık'a (BK) yaptığı resmi ziyaretin ilk gününün ardından ışıltılı etkinlikte ağırlandı.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8d/live/4cc1dec0-d08f-11f0-8c06-f5d460985095.jpg",
+      "url": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Milletvekilleri, bütçe öncesi sızıntılarla ilgili soruşturmanın devam ettiğini söyledi",
       "summary": "Şansölye Rachel Reeves, Bütçeye öncülük eden güvenlik süreçlerinin gözden geçirilmesine \"tam destek\" verdi.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba48/live/54e3c280-d0c6-11f0-a892-01d657345866.jpg",
@@ -114,45 +149,24 @@
       "rss_categories": []
     },
     {
-      "title": "Kraliyet mensupları, ışıltılı eyalet ziyafetinde şenlikli bir karşılama düzenledi",
-      "summary": "Almanya Cumhurbaşkanı, Birleşik Krallık'a (BK) yaptığı resmi ziyaretin ilk gününün ardından ışıltılı etkinlikte ağırlandı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8d/live/4cc1dec0-d08f-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/c9d9jwvqyx8o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Eurovision, İsrail konusunda kritik bir kararla karşı karşıya",
+      "title": "Eurovision, İsrail'in katılımı konusunda kritik bir kararla karşı karşıya",
       "summary": "Şarkı yarışmasının organizatörleri, İsrail'in etkinlikteki rolünü tartışmak için perşembe günü Cenevre'de bir araya geldi.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4457/live/22d60c30-d0d5-11f0-a892-01d657345866.jpg",
       "url": "https://www.bbc.com/news/articles/cx2gq5q5p47o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
-      "title": "Hıçkırık, boğaz ağrısı ve diğer niggle'larla acil servisi tıkayan hastalar",
-      "summary": "Ulusal Sağlık Hizmeti (NHS) patronları, bunun zorlu bir kış olabileceği endişesiyle halkı hastaneleri akıllıca kullanmaları konusunda uyarıyor.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/af6f0f00-d069-11f0-8039-b97ff13472bc.jpg",
-      "url": "https://www.bbc.com/news/articles/c74xqn2zg1eo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Deprem İngiltere'nin kuzeybatısındaki evleri salladı",
-      "summary": "Lancashire sakinleri, 3.3 büyüklüğündeki sarsıntının \"bir yeraltı patlaması\" gibi hissettirdiğini söylese de hasar bildirilmedi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c68/live/4c67b230-d0ce-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/cgjn8wg53q7o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "İngiltere'nin dört bölgesinde yeni belediye başkanlığı seçimleri ertelenecek",
-      "summary": "Büyük Essex, Norfolk ve Suffolk, Hampshire ve Solent, Sussex ve Brighton'daki yeni belediye başkanlıklarına 2028 'de itiraz edilecek.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1ac/live/c262bfd0-d0cd-11f0-898c-8733c7a292af.jpg",
-      "url": "https://www.bbc.com/news/articles/c5yjg2r7z9zo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Hız yapan bir sürücü ailemi öldürdü - kültürel bir değişim olması gerekiyor",
-      "summary": "Claire Corkery, ebeveynleri aşırı hız yapan bir sürücü tarafından öldürüldükten sonra yol güvenliğinde kültürel değişim istiyor.",
+      "summary": "Claire Corkery, ebeveynleri aşırı hız yapan bir sürücü tarafından öldürüldükten sonra yol güvenliği konusundaki tutumlarının değişmesini istiyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3095/live/95e6b8a0-d067-11f0-8c06-f5d460985095.jpg",
       "url": "https://www.bbc.com/news/articles/c4g9ez9p4y7o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Porno şirketi, yetersiz yaş kontrolleri nedeniyle 1 milyon £ para cezasına çarptırıldı",
+      "summary": "AVS Group Ltd'ye verilen ceza, Çevrimiçi Güvenlik Yasası kapsamında şimdiye kadar verilen en büyük cezadır.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5424/live/feb844f0-d0e6-11f0-b0cc-cf4d0e5d41e2.jpg",
+      "url": "https://www.bbc.com/news/articles/c93nll07z3go?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -198,15 +212,15 @@
       "rss_categories": []
     },
     {
-      "title": "Moda evi Valentino, yapay zeka el çantası reklamlarını \"rahatsız ettiği\" için eleştirildi",
-      "summary": "Sosyal medya kullanıcıları, lüks İtalyan moda markasının yapay zeka yapımı reklamlarını \"ucuz\" ve \"tembel\" olarak nitelendirdi.",
+      "title": "Fashion house Valentino criticised over 'disturbing' AI handbag ads",
+      "summary": "Social media users have called the luxury Italian fashion brand's artificial intelligence-made adverts \"cheap\" and \"lazy\".",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e99/live/99bd24a0-cf6d-11f0-9128-0706b18c372a.jpg",
       "url": "https://www.bbc.com/news/articles/cwyvjyvn83go?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
-      "title": "Patlama travmasını incelemek için \"türünün ilk örneği\" tarayıcı",
-      "summary": "Bilim insanları, silah kullanımından sadece birkaç dakika sonra beyin fonksiyonlarındaki değişiklikleri izleyebileceğini söylüyor.",
+      "title": "'First of its kind' scanner to study blast trauma",
+      "summary": "It will be able to monitor changes in brain function just minutes after weapon use, scientists say.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b2/live/e9fa9ff0-cec9-11f0-8741-59a8e037abac.jpg",
       "url": "https://www.bbc.com/news/articles/c23e0k41kxeo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
@@ -230,13 +244,6 @@
       "summary": "Experts say the deal may put fans at risk as the Catalan club tries to relieve its financial woes.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c49/live/790d9da0-cc54-11f0-afd9-dfd0234147a3.jpg",
       "url": "https://www.bbc.com/news/articles/c20gkkl1546o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "OBR calls in cyber expert over botched release of Budget analysis",
-      "summary": "Rachel Reeves's statement was thrown into chaos after journalists were able to access the document early.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/422b6c00-cb8b-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/articles/cgmn991pz9jo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -317,6 +324,20 @@
       "rss_categories": []
     },
     {
+      "title": "Doctors failed to tell dad-of-seven he was dying",
+      "summary": "William Chapman only found out he had a terminal diagnosis when his GP mentioned it in passing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ded2/live/44bb06a0-d064-11f0-ba98-99994829269e.jpg",
+      "url": "https://www.bbc.com/news/articles/c7096ex92d3o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Parents face 12-month wait to learn how babies died",
+      "summary": "Shane Bevan and Laura Tongue say it is \"cruel\" for grieving families to be left waiting for answers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6691/live/b5f7fbb0-d07e-11f0-a892-01d657345866.png",
+      "url": "https://www.bbc.com/news/articles/c5ykwr0l1lro?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Supermarket loyalty discounts to be allowed on baby formula",
       "summary": "The government claims that parents who cannot or chose not to breastfeed could save £500 a year.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1e/live/067fd4c0-d04f-11f0-93e9-173097fe0286.jpg",
@@ -335,20 +356,6 @@
       "summary": "Placed incorrectly, cosmetic dermal fillers can damage nearby ateries, leading to to skin loss and even blindness, experts warn.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91c5/live/5824e410-cf63-11f0-902b-b378fe598ba1.jpg",
       "url": "https://www.bbc.com/news/articles/c773n331055o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Streeting brands doctors' union 'moaning minnies' over GP online booking",
-      "summary": "All NHS practices were required by the government to provide web bookings from October - but the union opposes the move.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0097/live/acaf6080-d06e-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/c4g47gvy7wjo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Mother wants change so child 'didn't die for nothing'",
-      "summary": "Sam Tucker says \"opportunities were missed\" when her daughter Holly, 6, was diagnosed with a tumour.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/847a/live/48f77090-cc6e-11f0-8c51-edb570175476.jpg",
-      "url": "https://www.bbc.com/news/articles/c39p1x93mzjo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -387,13 +394,6 @@
       "rss_categories": []
     },
     {
-      "title": "Russia bans Roblox over concerns about safety and extremist content",
-      "summary": "Its media agency flagged content linked to terrorism and LGBT issues, which are deemed extremist.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9861/live/0cc35ac0-d0b6-11f0-97e6-91b5a31ed616.jpg",
-      "url": "https://www.bbc.com/news/articles/cn41q11gy58o?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "How family firms can best plan for succession",
       "summary": "The Murdochs had a much-reported inheritance battle, but smoother transitions are possible.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/143f/live/c1f18330-c081-11f0-a100-35c69f09f734.jpg",
@@ -401,17 +401,24 @@
       "rss_categories": []
     },
     {
-      "title": "People admit to 'secret spending' without telling partners",
-      "summary": "People were spending without telling their partners on beauty products, gambling, and cryptocurrencies.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8943/live/649c6740-d053-11f0-8949-71025704e055.jpg",
-      "url": "https://www.bbc.com/news/articles/cewjdkj8z2go?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Trump administration to roll back fuel economy rules set under Biden",
       "summary": "Carmakers hailed the change as a victory for \"common sense\", while environmental groups criticised the plan.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac1/live/72675210-d06a-11f0-8039-b97ff13472bc.jpg",
       "url": "https://www.bbc.com/news/articles/cly13we8zxeo?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "Russia bans Roblox over concerns about safety and extremist content",
+      "summary": "Its media agency flagged content linked to terrorism and LGBT issues, which are deemed extremist.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9861/live/0cc35ac0-d0b6-11f0-97e6-91b5a31ed616.jpg",
+      "url": "https://www.bbc.com/news/articles/cn41q11gy58o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "People admit to 'secret spending' without telling partners",
+      "summary": "People were spending without telling their partners on beauty products, gambling, and cryptocurrencies.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8943/live/649c6740-d053-11f0-8949-71025704e055.jpg",
+      "url": "https://www.bbc.com/news/articles/cewjdkj8z2go?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -429,26 +436,19 @@
       "rss_categories": []
     },
     {
-      "title": "Italian fashion giant Prada buys Versace – at a discount",
-      "summary": "The $1.38bn (£1.04bn) deal between the two Italian fashion giants is well below the roughly $2bn Versace was sold for in 2018.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd17/live/acc200c0-d003-11f0-87b3-3f134c906f25.jpg",
-      "url": "https://www.bbc.com/news/articles/c3e05j9012vo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
+      "title": "Bu gece başlıyor: Gök gürültülü kuvvetli sağanak geliyor | Meteoroloji'den sağanak, buzlanma ve don uyarısı: 43 ilde yağış bekleniyor",
+      "summary": "Meteoroloji Genel Müdürlüğü’nün son tahminlerine göre yurdun büyük bölümü yeni bir hava dalgası etkisi altına giriyor. Yurdun batısından iç bölgelere doğru sağanak yağışların ilerleyerek güçlenmesi bekleniyor. Yağışların dört gün boyunca sürmesi öngörülürken Meteoroloji Genel Müdürlüğü'nden kuvvetli yağış, buzlanma ve don uyarısı geldi. Öte yandan Ardahan, Ağrı, Kars, Bitlis, Muş, Erzurum ve Bayburt illerinde hafta sonu kar yağışının olacağı öngörülüyor.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693106b26f11556d06a266e2.jpg",
+      "url": "https://www.hurriyet.com.tr/gundem/bu-gece-basliyor-gok-gurultulu-kuvvetli-saganak-geliyor-meteorolojiden-saganak-buzlanma-ve-don-uyarisi-43-ilde-yagis-bekleniyor-43041949",
+      "rss_categories": [
+        "gündem"
+      ]
     },
     {
       "title": "Barzani’nin dangalak karargâh sözcüsü",
       "summary": "BARZANİ’nin Cizre gezisinde bazı hoş olmayan görüntüler ortaya çıktı.",
       "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6930f8d06f11556d06a266b8.jpg",
       "url": "https://www.hurriyet.com.tr/yazarlar/ahmet-hakan/barzaninin-dangalak-karargah-sozcusu-43041909",
-      "rss_categories": [
-        "yazarlar"
-      ]
-    },
-    {
-      "title": "Emeklilerin 2026 maaş zammı netleşmeye başladı",
-      "summary": "KASIM ayı enflasyon rakamlarının açıklanmasıyla birlikte emeklilerin yeni yılda alacakları zam oranları da netleşmeye başladı. Açıklanan enflasyon rakamına göre memur emeklileri için enflasyon farkı oluşacağı kesinleşirken, SSK ve Bağ-Kur emeklilerinin de yeni yıl zamlarında son viraja girildi.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6930f9946f11556d06a266bb.jpg",
-      "url": "https://www.hurriyet.com.tr/yazarlar/noyan-dogan/emeklilerin-2026-maas-zammi-netlesmeye-basladi-43041887",
       "rss_categories": [
         "yazarlar"
       ]
@@ -472,30 +472,39 @@
       ]
     },
     {
-      "title": "Kütahya’da katliam gibi kazada 4 can kaybı",
-      "summary": "Kütahya-Tavşanlı karayolu Bölücek kavşağında yoğun siste meydana gelen feci kazada, kırmızı ışıkta bekleyen küspe yüklü tıra arkadan çarpan otomobildeki 4 kişi olay yerinde hayatını kaybetti.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693115089217d56cb45246eb.jpg",
-      "url": "https://www.hurriyet.com.tr/gundem/kutahyada-katliam-gibi-kazada-4-can-kaybi-43041962",
+      "title": "Yüreği sızlar mı bilinmez... Küs olduğu babası yoğun bakımda!",
+      "summary": "İngiliz kraliyet ailesinin olaylı gelini Meghan Markle son iki gündür her zamankinden farklı bir haberle gündemde... 2018'de Prens Harry ile evlendiği düğününe bile çağırmadığı babası Thomas Markle, yoğun bakıma kaldırıldı.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693142eefc453985e1450936.jpg",
+      "url": "https://www.hurriyet.com.tr/kelebek/stil/yuregi-sizlar-mi-bilinmez-babasi-yogun-bakimda-43042209",
+      "rss_categories": [
+        "kelebek"
+      ]
+    },
+    {
+      "title": "Ankara'da telebar operasyonu: 55 şüpheli tutuklandı",
+      "summary": "Ankara'da \"telebar\" olarak adlandırılan 9 eğlence mekanına yönelik \"fuhşa teşvik, aracılık veya zorlama\" suçundan yürütülen soruşturmada gözaltına alınan 55 şüpheli tutuklandı.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69313b6d9217d56cb4524867.jpg",
+      "url": "https://www.hurriyet.com.tr/gundem/ankarada-telebar-operasyonu-55-supheli-tutuklandi-43042155",
       "rss_categories": [
         "gündem"
       ]
     },
     {
-      "title": "Dünyadaki ilk insansız savaş uçağı olarak tarihe geçti: Sürmene'den Bayraktar'a büyük sürpriz | 'Biz de bu şekilde ona teşekkür ettik'",
-      "summary": "Türkiye'nin ilk insansız savaş uçağı Bayraktar KIZILELMA'nın geçtiğimiz günlerde gerçekleştirilen testte görüş ötesi hava-hava füzesi kullanarak jet motorlu bir hava hedefini vuran dünyadaki ilk insansız savaş uçağı olarak dünya havacılık tarihine geçmesi, Selçuk Bayraktar'ın Trabzon'un Sürmene ilçesindeki hemşehrilerini de sevindirdi. Müzik öğretmeni Zafer Demir'in Selçuk Bayraktar için bestelediği \"Vur İHA Vur SİHA\" şarkısı sosyal medyada büyük ilgi gördü.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693129b96f11556d06a267cb.jpg",
-      "url": "https://www.hurriyet.com.tr/gundem/dunyadaki-ilk-insansiz-savas-ucagi-olarak-tarihe-gecti-surmeneden-bayraktara-buyuk-surpriz-biz-de-bu-sekilde-ona-tesekkur-ettik-43042001",
+      "title": "Küçük kızını herkesten saklıyor… Doğduğundan beri yüzünü gören yok",
+      "summary": "Ünlü model yıllardır bir yandan harıl harıl çalışırken bir yandan da tek kızını kendi başına büyütüyor. Ve aslında tek dünyası olan kızını kıymetli bir mücevher gibi herkesten saklamayı tercih ediyor…",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69310bd1600db024f7cee0c7.jpg",
+      "url": "https://www.hurriyet.com.tr/galeri-kucuk-kizini-herkesten-sakliyor-dogdugundan-beri-yuzunu-goren-yok-43041952",
       "rss_categories": [
-        "gündem"
+        "kelebek"
       ]
     },
     {
-      "title": "Müziği gözleriyle dinleyecekler",
-      "summary": "Müzik öğretmeni Zeynep Eylül Üçer ve fizik öğretmeni Ceren Can, müzik notaları ve ışık arasındaki ilişkiyi matematiksel bir temele oturtarak seslerin renklere dönüştürülmesine imkân sağlayan bir model geliştirdi.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6930b65a9217d56cb4524624.jpg",
-      "url": "https://www.hurriyet.com.tr/gundem/muzigi-gozleriyle-dinleyecekler-43041913",
+      "title": "Mikrobiyota haritasında yeni bir sayfa açıldı, pankreas mikrobiyotası keşfedildi! Kanserle savaşta yeni umut olacak",
+      "summary": "Tıbbın uzun yıllar steril kabul ettiği pankreas, artık mikrobiyal bir evren olarak yeniden tanımlanıyor. Yeni araştırmalar, pankreasın da tıpkı bağırsak gibi kendine özgü bir mikrobiyotaya sahip olduğunu ortaya koydu. Bu keşif, özellikle pankreas kanserinin erken teşhisi ve tedavisinde devrim yaratabilecek potansiyele sahip.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69309d4b600db024f7cee096.jpg",
+      "url": "https://www.hurriyet.com.tr/aile/mikrobiyota-haritasinda-yeni-bir-sayfa-acildi-pankreas-mikrobiyotasi-kesfedildi-kanserle-savasta-yeni-umut-olacak-43039934",
       "rss_categories": [
-        "gündem"
+        "aile"
       ]
     },
     {
@@ -535,33 +544,143 @@
       ]
     },
     {
-      "title": "'Made in Italy' sorguda",
-      "summary": "İtalyan lüks tüketim markaları, işgücü sömürüsüne yönelik başlatılan soruşturmalarla zor günler geçiriyor. Hükümet, soruşturmaların ‘Made in Italy’ (İtalyan malı) markasına zarar verdiğini savunuyor.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6930a7746f11556d06a265d9.jpg",
-      "url": "https://www.hurriyet.com.tr/dunya/made-in-italy-sorguda-43041882",
-      "rss_categories": [
-        "dünya"
-      ]
-    },
-    {
-      "title": "NATO Genel Sekreteri Rutte, Putin'e seslendi: Hiçbir yere gitmiyoruz",
-      "summary": "NATO Genel Sekreteri Mark Rutte, Brüksel'deki karargahta dün yapılan Dışişleri Bakanları Toplantısı'nın ardından basına açıklamalarda bulundu. NATO'nun Rusya Devlet Başkanı Vladimir Putin'e ‘hiçbir yere gitmiyoruz’ mesajı verdiğini bildirdi.",
+      "title": "EŞREF RÜYA YENİ BÖLÜM FRAGMANI İZLE KANAL D | Çağatay Ulusoy ve Demet Özdemir'li Eşref Rüya 25. bölüm fragmanı izleme linki!",
+      "summary": "Eşref Rüya 25. bölüm fragmanını izlemek isteyenler arama motorlarında yaptıkları araştırmalara hız verdi. Çağatay Ulusoy ile Demet Özdemir'in oyunculuk performansı ve etkileyici senaryosuyla adından söz ettiren Eşref Rüya dizisinin 25. bölüm fragmanı Kanal D'de yayınlandı. Faruk’un tutuklanmasının ardından Hıdır, cezaevinde Kasap'ın ona musallat olmasından endişe duyar. Nisan, Eşref'in hediye ettiği kolyeyle kendinden şüphelenildiğini anlar ve ona, kendisine ihanet edeni öldürüp öldürmeyeceğini sorar. İşte Kanal D Eşref Rüya 25. bölüm fragmanı ekranı...",
       "image": "",
-      "url": "https://www.cnnturk.com/dunya/nato-genel-sekreteri-rutte-putine-seslendi-hicbir-yere-gitmiyoruz-2367774",
+      "url": "https://www.cnnturk.com/magazin/esref-ruya-25-bolum-fragmani-izle-kanal-d-cagatay-ulusoy-ve-demet-ozdemirli-esref-ruya-25-bolum-fragmani-izleme-linki-2367691",
       "rss_categories": []
     },
     {
-      "title": "TOGEMDER 20. yılında iyiliği büyütüyor",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın eşi Emine Erdoğan’ın öncülüğünde kurulan Toplumsal Gelişim Eğitim ve Sosyal Dayanışma Derneği (TOGEMDER), 20’nci yılında “Bir Alışveriş, Bin İyilik” sloganıyla Artsın Eksilmesin Dönüşüm Pazarı düzenliyor.",
+      "title": "EŞREF RÜYA 24. BÖLÜM İZLE FULL HD TEK PARÇA | Kanal D Çağatay Ulusoy ve Demet Özdemir’li Eşref Rüya 24. bölüm izle!",
+      "summary": "Eşref Rüya’nın 24. bölümü Kanal D izleyicisiyle buluştu. Çağatay Ulusoy ve Demet Özdemir'in başrollerini paylaştığı dizide Nisan’ın muhbir olabileceğine ilişkin şüpheye düşen Eşref, onu takip ettirme planı yapar. Nisan ise, Dinçer’in sırrını ortaya çıkarmakta kararlıdır. Eşref Rüya 24. bölüm izleme ekranı arama motorlarında araştırılıyor. Peki, dizinin ekrana gelen son bölümünde neler yaşandı? İşte Çağatay Ulusoy ve Demet Özdemir’in başrollerini paylaştığı Eşref Rüya’nın 24. bölüm izleme ekranı…",
       "image": "",
-      "url": "https://www.cnnturk.com/yasam/togemder-20-yilinda-iyiligi-buyutuyor-2367771",
+      "url": "https://www.cnnturk.com/magazin/esref-ruya-24-bolum-izle-full-hd-tek-parca-kanal-d-cagatay-ulusoy-ve-demet-ozdemirli-esref-ruya-24-bolum-izle-2367688",
       "rss_categories": []
     },
     {
-      "title": "Almanya’nın prestijli üniversitesine Türk rektör: Oylamada büyük farkla Fatma Deniz seçildi",
-      "summary": "Almanya’nın köklü yükseköğretim kurumlarından Berlin Teknik Üniversitesi (TU Berlin), yeni rektörünü seçti. Bursa Kız Lisesi mezunu bilgisayar bilimci Prof. Dr. Fatma Deniz, üniversitenin yeni rektörü oldu. Böylelikle TU Berlin'in başına ilk kez bir Türk rektör seçilmiş oldu. Yapay zeka alanında çalışmalarıyla tanınan Deniz, 1 Nisan 2026’da görevine başlayacak.",
+      "title": "MANCHESTER UNITED - WEST HAM UNITED MAÇI CANLI İZLE | Premier Lig Manchester United - West Ham United maçı ne zaman, saat kaçta, hangi kanalda?",
+      "summary": "Manchester United - West Ham United maçı için heyecan dorukta. İngiltere Premier Lig’in 14. haftasında oynanacak karşılaşma için nefesler tutuldu. İngiltere Premier Lig’de son haftalarda istikrarsız bir grafik çizen ev sahibi takım, Ruben Amorim yönetiminde tekrar iyi performans ortaya koymayı hedefliyor. Öte yandan sporseverler internette Manchester United - West Ham United maçı canlı izleme ekranını araştırıyor. Peki, Manchester United - West Ham United maçı ne zaman, saat kaçta, hangi kanalda?",
       "image": "",
-      "url": "https://www.cnnturk.com/dunya/almanyadaki-tek-turk-rektor-prestijli-universitedeki-goreve-fatma-deniz-secildi-2367766",
+      "url": "https://www.cnnturk.com/spor/futbol/manchester-united-west-ham-united-maci-canli-izle-premier-lig-manchester-united-west-ham-united-maci-ne-zaman-saat-kacta-2367854",
+      "rss_categories": []
+    },
+    {
+      "title": "SON DURUM MURAT CEMCİR: Murat Cemcir'in Sağlık Durumu Nasıl, Hastalığı Ne? Hastaneden Açıklama Geldi!",
+      "summary": "Murat Cemcir hastalığı ve yoğun bakıma kaldırılması sanal medyanın en çok konuşulan konularından biri haline geldi. Sevilen oyuncunun yaşadığı ani rahatsızlık sonrası hastaneye kaldırılması, hayranlarını endişelendirdi. Konuyla ilgili resmi açıklamalar sınırlı olsa da, gelişmeler yakından takip ediliyor. Cemcir’in sağlık süreciyle ilgili detaylar, hem basın hem de izleyiciler tarafından merakla bekleniyor. Peki, Murat Cemcir kimdir? Murat Cemcir'in hastalığı ne, sağlık durumu nasıl?",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/murat-cemcir-saglik-durumu-son-dakika-murat-cemcir-hastaligi-ne-yogun-bakimda-mi-unlu-oyuncunun-salik-durumu-nasil-2366609",
+      "rss_categories": []
+    },
+    {
+      "title": "İNCİ TANELERİ FİNAL Mİ YAPTI? İnci Taneleri bu akşam var mı yok mu? İnci Taneleri ne zaman başlayacak?",
+      "summary": "Kanal D ekranlarının sevilen dizisi İnci Taneleri, sezon finalinin ardından izleyicilerine kısa bir ara verdi. Her bölümüyle sanal medyada gündem olan yapım, yeni sezon hazırlıklarıyla yeniden merak konusu haline geldi. Dizinin senaryosunu kaleme alan Yılmaz Erdoğan’ın açıklamaları ve yayınlanan tanıtım videoları, yeni bölümlerde izleyicileri bekleyen sürprizlere dair güçlü ipuçları veriyor. Hikâyenin kaldığı yerden nasıl devam edeceği, karakterlerin yaşadığı dönüşümler ve yeni yüzlerin kadroya katılması gibi detaylar, dizinin takipçileri tarafından büyük bir heyecanla bekleniyor. Peki, İnci Taneleri final mi yaptı? Yılmaz Erdoğan, Hazar Ergüçlü, Selma Ergeç, Kubilay Aka ve Bekir Aksoy gibi isimleri kadrosunda bulunduran İnci Taneleri'nin yeni bölümü ne zaman yayınlanacak? İnci Taneleri bu akşam var mı yok mu?",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/inci-taneleri-final-mi-yapti-inci-taneleri-bu-aksam-var-mi-yok-mu-inci-taneleri-ne-zaman-baslayacak-2348136",
+      "rss_categories": []
+    },
+    {
+      "title": "Muğla'da bandrolsüz ve kaçak içki operasyonu",
+      "summary": "Muğla'da bandrolsüz ve kaçak içki operasyonu",
+      "image": "",
+      "url": "https://www.cnnturk.com/yerel-haberler/mugla/marmaris/muglada-bandrolsuz-ve-kacak-icki-operasyonu-2367863",
+      "rss_categories": []
+    },
+    {
+      "title": "AÖF SINAV GİRİŞ BELGESİ EKRANI | 2025 AÖF sınavları ne zaman, saat kaçta? Anadolu Üniversitesi Açıköğretim Fakültesi sınav yerleri!",
+      "summary": "AÖF sınav tarihleri ve yerleri aralık ayının gelmesinin ardından Anadolu Üniversitesi Açıköğretim Fakültesi öğrencilerinin gündeminde yer alıyor. AÖF sınav tarihleri ve yerleri hakkında bilgilenmek isteyenler arama motorlarında yaptıkları sorgulamalara hız verdi. Peki, Güz dönemi AÖF sınavları ne zaman, saat kaçta? İşte Anadolu Üniversitesi Açıköğretim Fakültesi sınav giriş belgesi ekranı…",
+      "image": "",
+      "url": "https://www.cnnturk.com/egitim/aof-sinav-giris-belgesi-ekrani-2025-aof-sinavlari-ne-zaman-saat-kacta-anadolu-universitesi-acikogretim-fakultesi-sinav-yerleri-2367081",
+      "rss_categories": []
+    },
+    {
+      "title": "Kaymakam Eroğlu'dan cezaeavi ziyareti",
+      "summary": "Kaymakam Eroğlu'dan cezaeavi ziyareti",
+      "image": "",
+      "url": "https://www.cnnturk.com/yerel-haberler/hatay/iskenderun/kaymakam-erogludan-cezaeavi-ziyareti-2367865",
+      "rss_categories": []
+    },
+    {
+      "title": "ŞANS TOPU SONUÇLARI 3 ARALIK 2025 | Şans Topu sonuçları nasıl öğrenilir? 8.260.194,7 TL büyük ikramiye sahibini buldu!",
+      "summary": "Şans Topu sonuçları ile ilgili son dakika açıklaması geçtiğimiz gün (3 Aralık 2025 Çarşamba) Milli Piyango Online’da canlı olarak yayınlanan çekilişte yapıldı. 8.260.194,7 TL büyük ikramiye sahibini buldu. Birçok kişi arama motorlarında, “Şans Topu sonuçları nasıl öğrenilir?” sorusuna yanıt arıyor. İşte 3 Aralık 2025 Şans Topu sonuçları…",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/sans-topu-sonuclari-3-aralik-2025-sans-topu-sonuclari-nasil-ogrenilir-8-260-194-7-tl-buyuk-ikramiye-sahibini-buldu-2367698",
+      "rss_categories": []
+    },
+    {
+      "title": "ÇILGIN SAYISAL LOTO SONUÇLARI 3 ARALIK 2025 | 409.317.502,92 TL büyük ikramiye devretti! Çılgın Sayısal Loto sonuçları nasıl öğrenilir?",
+      "summary": "Çılgın Sayısal Loto sonuçları ile ilgili son dakika açıklaması dün (3 Aralık 2025 Çarşamba) Milli Piyango Online’da canlı yayınlanan çekilişte yapıldı. Büyük ikramiye 409.317.502,92 TL devrederken çekilişe ilişkin detaylar merak konusu oldu. Peki, Çılgın Sayısal Loto sonuçları nasıl öğrenilir? Milli Piyango Online 3 Aralık 2025 Çılgın Sayısal Loto sonuçları ekranına haberimizden ulaşabilirsiniz.",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/cilgin-sayisal-loto-sonuclari-3-aralik-2025-409-317-502-92-tl-buyuk-ikramiye-devretti-cilgin-sayisal-loto-sonuclari-nasil-ogrenilir-2367695",
+      "rss_categories": []
+    },
+    {
+      "title": "Vezirköprü'de tayini çıkan savcı ve hakimler için veda yemeği düzenlendi",
+      "summary": "Vezirköprü'de tayini çıkan savcı ve hakimler için veda yemeği düzenlendi",
+      "image": "",
+      "url": "https://www.cnnturk.com/yerel-haberler/samsun/vezirkoprude-tayini-cikan-savci-ve-hakimler-icin-veda-yemegi-duzenlendi-2367864",
+      "rss_categories": []
+    },
+    {
+      "title": "AÖL sınavları ne zaman, saat kaçta? MEB Açık Öğretim Lisesi sınav giriş belgelerini yayımladı mı? 2025-2026 AÖL SINAV TARİHLERİ!",
+      "summary": "AÖL sınavlarının ne zaman yapılacağı merak konusu oldu. Açık Öğretim Lisesi öğrencileri hem tarih bilgisi için hem de AÖL sınav giriş belgelerinin yayımlanıp yayımlanmadığını öğrenmek için arama motorlarında yaptıkları sorgulamalara hız verdi. Peki, AÖL sınavları ne zaman, saat kaçta? Milli Eğitim Bakanlığı (MEB) AÖL sınav giriş belgelerini yayımladı mı?",
+      "image": "",
+      "url": "https://www.cnnturk.com/egitim/aol-sinav-tarihleri-2025-2026-aol-sinavlari-ne-zaman-saat-kacta-meb-acik-ogretim-lisesi-sinav-giris-belgelerini-yayimladi-mi-2367072",
+      "rss_categories": []
+    },
+    {
+      "title": "İSKİ 4 ARALIK 2025 İSTANBUL SU KESİNTİSİ: İstanbul'da Sular Ne Zaman Gelecek? İSKİ İstanbul Su Kesintisi Ne Zaman Bitecek?",
+      "summary": "İstanbul’da su kesintisi olan ilçeler 4 Aralık 2025 Perşembe günü vatandaşlar tarafından merak konusu oldu. İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü (İSKİ) planlı su kesintisine ilişkin güncel bilgileri yayımladı. Birçok kişi arama motorlarında “İstanbul'da sular ne zaman, saat kaçta gelecek?” gibi sorulara yanıt arıyor. İSKİ İstanbul su kesintisi sorgulama ekranına haberimizden ulaşabilirsiniz.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/iski-4-aralik-2025-istanbul-su-kesintisi-istanbulda-sular-ne-zaman-gelecek-iski-istanbul-su-kesintisi-ne-zaman-bitecek-2367742",
+      "rss_categories": []
+    },
+    {
+      "title": "TOKİ 500 BİN SOSYAL KONUT PROJESİ BAŞVURU SONUÇLARI TARİHİ 2026 | 1+1, 2+1 TOKİ başvuru sonuçları ne zaman açıklanacak, hangi tarihte?",
+      "summary": "TOKİ 500 Bin Sosyal Konut Projesi başvuru sonuçlarının ne zaman açıklanacağını öğrenmek isteyenler arama motorlarında sorgulama yapıyor. TOKİ 500 Bin Sosyal Konut Projesi başvuruları e-Devlet üzerinden gerçekleştirilebiliyor. İlk gün TC kimlik numarası 0’la, 2.gün 2’yle, 3. gün 4’le, 4. gün 6’yla, 5. gün ise 8’le bitenler işlem gerçekleştirmişti. 15 Kasım itibarıyla şartları sağlayan herkes başvuru yapabiliyor. Projede engelli vatandaşlara yüzde 5, şehit yakınları ve gazilere yüzde 5, emeklilere yüzde 20, 3 ve daha fazla çocuğu olan ailelere yüzde 10, 18-30 yaş arası gençlere yüzde 20 kontenjan ayrıldı. Başvuru süreci 19 Aralık 2025 tarihinde sona erecek. Peki, 1+1, 2+1 TOKİ başvuru sonuçları ne zaman açıklanacak, hangi tarihte? İşte TOKİ 500 Bin Sosyal Konut Projesi başvuru sonuçları tarihi…",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/toki-500-bin-sosyal-konut-projesi-basvuru-sonuclari-tarihi-2026-1-1-2-1-toki-basvuru-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-2365806",
+      "rss_categories": []
+    },
+    {
+      "title": "4 Aralık 2025 Perşembe gününün son dakika önemli gelişmeleri! (CNN TÜRK 11.30 bülteni)",
+      "summary": "4 Aralık 2025 Perşembe gününde Türkiye'de ve dünyada öne çıkan haberler... Yaşanan önemli gelişmeler sizler için derlediğimiz haberimizde.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/4-aralik-2025-persembe-gununun-son-dakika-onemli-gelismeleri-cnn-turk-11-30-bulteni-2367779",
+      "rss_categories": []
+    },
+    {
+      "title": "Adana’da komşu vahşeti: KOAH hastası babanın dişlerini kırdı, anne ile oğlunu bıçakladı",
+      "summary": "Adana'da Polat ailesi, 2 ay arayla tartıştıkları komşuları İ.S. tarafından darbedildi. İlk tartışmada baba Nafız Polat'ın (61) dişleri kırılırken, ikinci kavgada Nazmiye Polat (61) ile oğulları Furkan Polat (20) bıçakla yaralandı. Darp raporu alan aile, suç duyurusunda bulunurken; komşu İ.S. kendisinin de darbedildiğini belirterek şikayetçi oldu.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/adanada-komsu-vahseti-koah-hastasi-babanin-dislerini-kirdi-anne-ile-oglunu-bicakladi-2367819",
+      "rss_categories": []
+    },
+    {
+      "title": "Uzman isim anlattı: Hafta sonu kar mı geliyor?",
+      "summary": "Meteoroloji Uzmanı Prof. Dr. Orhan Şen, hafta boyunca hava durumunun dalgalı seyredeceğini söyledi. Cuma ve cumartesi günleri Kıyı Ege ile Antalya’nın batı ve doğu ilçelerinde çok kuvvetli yağış bekleniyor; su baskını ve dolu riski yüksek görünüyor. Sıcaklıklar mevsim normallerinin üzerinde; İstanbul’da hafta sonuna kadar 19 dereceye çıkacak. Pazar günü İstanbul’da yağış var. Doğu Anadolu’nun doğusunda kar görülebilir. Batı bölgelerinde ise aralık ayının 20-25’ine kadar kar beklenmiyor; İstanbul önümüzdeki hafta yeniden 11-12 dereceye dönecek.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/turkiye/uzman-isim-anlatti-hafta-sonu-kar-mi-geliyor-2367768",
+      "rss_categories": []
+    },
+    {
+      "title": "Türkiye'nin 6. derin deniz sondaj gemisi Mersin'e ulaştı",
+      "summary": "Türkiye'nin Karadeniz'de görev yapacak 6. derin deniz sondaj gemisi, Mersin'in Taşucu Limanı açıklarına demirledi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/turkiyenin-6-derin-deniz-sondaj-gemisi-mersine-ulasti-2367817",
+      "rss_categories": []
+    },
+    {
+      "title": "Ardahan’da termometreler eksi 17 dereceyi gördü",
+      "summary": "Ardahan'da kar yağışının ardından etkisini artıran dondurucu hava, gece saatlerinde sıcaklığın eksi 17 dereceye kadar düşmesine neden oldu. Kent genelinde araç camları buzla kaplanırken, ağaçlar ve çatılarda kırağı oluştu.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/ardahanda-termometreler-eksi-17-dereceyi-gordu-2367816",
+      "rss_categories": []
+    },
+    {
+      "title": "Suç örgütü propagandasına geçit yok: 30 kişiye gözaltı",
+      "summary": "İzmir'de sosyal medyada suç örgütlerinin propagandasını yaptıkları iddia edilen 30 şüpheli gözaltına alındı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/suc-orgutu-propagandasina-gecit-yok-30-kisiye-gozalti-2367786",
       "rss_categories": []
     },
     {
@@ -572,59 +691,10 @@
       "rss_categories": []
     },
     {
-      "title": "2026 ALES NE ZAMAN? 2026 ALES ne zaman yapılacak, sınav ve başvuru tarihleri belli oldu mu? İşte 2026 ÖSYM sınav takvimi...",
-      "summary": "2026 ALES için hazırlık süreci başladı. ÖSYM’nin yayımladığı sınav takvimiyle birlikte Akademik Personel ve Lisansüstü Eğitimi Giriş Sınavı (ALES) hakkında merak edilen detaylar netleşti. ALES, yüksek lisans ve doktora programlarına başvuracak adaylar için temel bir yeterlilik sınavı olmasının yanı sıra, üniversitelerde öğretim görevlisi, araştırma görevlisi, okutman ve uzman kadrolarına atanmak isteyenler için de kritik öneme sahip. 2026 yılında üç oturum hâlinde gerçekleştirilecek olan sınav, adaylara yıl içinde farklı dönemlerde sınava girme imkânı sunacak. Peki, 2026 ALES ne zaman yapılacak? ALES tarihi belli oldu mu? İşte ÖSYM 2026 sınav takvimi...",
-      "image": "",
-      "url": "https://www.cnnturk.com/egitim/2026-ales-ne-zaman-2026-ales-ne-zaman-yapilacak-sinav-ve-basvuru-tarihleri-belli-oldu-mu-iste-2026-osym-sinav-takvimi-2367760",
-      "rss_categories": []
-    },
-    {
-      "title": "SON DAKİKA | BIST 100 güne sınırlı düşüşle başladı! Destek ve direnç seviyeleri öne çıkıyor",
-      "summary": "Borsa İstanbul’da BIST 100 endeksi, haftanın son işlem gününe hafif düşüşle başladı. Endeks, açılışta önceki kapanışın 7,76 puan altında 11.029,06 puan seviyesine gerileyerek güne yüzde 0,07 düşüşle giriş yaptı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/finans-haberler/son-dakika-bist-100-gune-sinirli-dususle-basladi-destek-ve-direnc-seviyeleri-one-cikiyor-2367759",
-      "rss_categories": []
-    },
-    {
-      "title": "İşte memur ve emeklilerin 5 aylık zam oranı",
-      "summary": "Kasım ayında enflasyon beklentilerin altında kalarak %0,87, yıllık enflasyon ise %31,07 oldu. SGK ve BAĞ-KUR emeklilerinin 5 aylık zammı %11,21 olarak gerçekleşti; memur ve memur emeklilerinde toplu sözleşme ve enflasyon farkıyla birlikte güncel zam oranı %17,55’e ulaştı. Kira artış oranı %35,91 oldu; 30 bin liralık kira 40 bin 773 liraya çıkacak. Kasım’da en fazla düşüş taze sebzelerde görülürken, en çok artan ürün evcil hayvan ürünleri oldu.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/ekonomi/iste-memur-ve-emeklilerin-5-aylik-zam-orani-2367724",
-      "rss_categories": []
-    },
-    {
-      "title": "ABD’de eğitim tatbikatı esnasında 1 deniz piyadesi öldü",
-      "summary": "ABD'nin California eyaletindeki Camp Pendleton üssünde düzenlenen eğitim tatbikatı sırasında bir deniz piyadesi, taktik araç kazasında yaralanarak hayatını kaybetti",
-      "image": "",
-      "url": "https://www.cnnturk.com/dunya/abdde-egitim-tatbikati-esnasinda-1-deniz-piyadesi-oldu-2367757",
-      "rss_categories": []
-    },
-    {
       "title": "Senaryo gerçek sandı, rolüne fazlasıyla inandı! Tatbikatta vatandaş güçlükle kontrol altına alındı",
       "summary": "Eskişehir’de trafik kazası tatbikatı sırasında hasta yakını rolü verilen bir vatandaş, senaryoya kendini fazla kaptırınca ekipler tarafından güçlükle sakinleştirildi. Kısa süreli panik yaşanan olayın ardından tatbikat normal şekilde devam etti.",
       "image": "",
       "url": "https://www.cnnturk.com/video/turkiye/tatbikatta-hasta-yakini-rolune-kendini-fazla-kaptirdi-vatandas-guclukle-sakinlestirildi-2367745",
-      "rss_categories": []
-    },
-    {
-      "title": "EŞREF RÜYA YENİ BÖLÜM FRAGMANI İZLE KANAL D | Çağatay Ulusoy ve Demet Özdemir'li Eşref Rüya 25. bölüm fragmanı izleme linki!",
-      "summary": "Eşref Rüya 25. bölüm fragmanını izlemek isteyenler arama motorlarında yaptıkları araştırmalara hız verdi. Çağatay Ulusoy ile Demet Özdemir'in oyunculuk performansı ve etkileyici senaryosuyla adından söz ettiren Eşref Rüya dizisinin 25. bölüm fragmanı Kanal D'de yayınlandı. Faruk’un tutuklanmasının ardından Hıdır, cezaevinde Kasap'ın ona musallat olmasından endişe duyar. Nisan, Eşref'in hediye ettiği kolyeyle kendinden şüphelenildiğini anlar ve ona, kendisine ihanet edeni öldürüp öldürmeyeceğini sorar. İşte Kanal D Eşref Rüya 25. bölüm fragmanı ekranı...",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/esref-ruya-25-bolum-fragmani-izle-kanal-d-cagatay-ulusoy-ve-demet-ozdemirli-esref-ruya-25-bolum-fragmani-izleme-linki-2367691",
-      "rss_categories": []
-    },
-    {
-      "title": "Merkez Bankası Başkanı Fatih Karahan: Fiyat istikrarı sağlanana kadar sıkı duruş sürecek",
-      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, İstanbul’da yaptığı “Para Politikası ve Makroekonomik Görünüm” sunumunda, fiyat istikrarına ulaşana kadar sıkı para politikasının kesintisiz devam edeceğini vurguladı. Karahan, mevcut duruşun talep, kur ve beklenti kanallarından dezenflasyonu desteklediğini söyledi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/ekonomi/merkez-bankasi-baskani-fatih-karahan-fiyat-istikrari-saglanana-kadar-siki-durus-surecek-2367756",
-      "rss_categories": []
-    },
-    {
-      "title": "Beşiktaş’ta Rafa Silva krizi çözüldü: Özür diledi, işte takıma katılacağı tarih...",
-      "summary": "Beşiktaş’ta Rafa Silva ile yaşanan kriz, oyuncunun özrü ve ailevi sorunlarını aşmasıyla çözüldü. İşte detaylar...",
-      "image": "",
-      "url": "https://www.cnnturk.com/spor/futbol/besiktasta-rafa-silva-krizi-cozuldu-ozur-diledi-iste-takima-katilacagi-tarih-2367750",
       "rss_categories": []
     },
     {
@@ -642,59 +712,31 @@
       "rss_categories": []
     },
     {
-      "title": "TOKİ 500 BİN SOSYAL KONUT PROJESİ BAŞVURU SONUÇLARI TARİHİ 2026 | 1+1, 2+1 TOKİ başvuru sonuçları ne zaman açıklanacak, hangi tarihte?",
-      "summary": "TOKİ 500 Bin Sosyal Konut Projesi başvuru sonuçlarının ne zaman açıklanacağını öğrenmek isteyenler arama motorlarında sorgulama yapıyor. TOKİ 500 Bin Sosyal Konut Projesi başvuruları e-Devlet üzerinden gerçekleştirilebiliyor. İlk gün TC kimlik numarası 0’la, 2.gün 2’yle, 3. gün 4’le, 4. gün 6’yla, 5. gün ise 8’le bitenler işlem gerçekleştirmişti. 15 Kasım itibarıyla şartları sağlayan herkes başvuru yapabiliyor. Projede engelli vatandaşlara yüzde 5, şehit yakınları ve gazilere yüzde 5, emeklilere yüzde 20, 3 ve daha fazla çocuğu olan ailelere yüzde 10, 18-30 yaş arası gençlere yüzde 20 kontenjan ayrıldı. Başvuru süreci 19 Aralık 2025 tarihinde sona erecek. Peki, 1+1, 2+1 TOKİ başvuru sonuçları ne zaman açıklanacak, hangi tarihte? İşte TOKİ 500 Bin Sosyal Konut Projesi başvuru sonuçları tarihi…",
+      "title": "Trump Somalili göçmenleri ve Ilhan Omar'ı hedef aldı: Ülkemizden gitmeliler",
+      "summary": "ABD Başkanı Donald Trump, Minnesota’daki Somali kökenli göçmenleri ve Somali doğumlu Demokrat Temsilciler Meclisi üyesi Ilhan Omar’ı sert ifadelerle hedef aldı. Somali uyruklu göçmenlerin Minnesota eyaletini \"mahvettiğini\" savunan Trump, Somali doğumlu Demokrat Temsilciler Meclisi üyesi Omar hakkında ise \"Kongre üyesi olmamalı. Ülkemizden atılmalı.\" dedi.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/toki-500-bin-sosyal-konut-projesi-basvuru-sonuclari-tarihi-2026-1-1-2-1-toki-basvuru-sonuclari-ne-zaman-aciklanacak-hangi-tarihte-2365806",
+      "url": "https://www.cnnturk.com/dunya/trump-somalili-gocmenleri-ve-ilhan-omari-hedef-aldi-ulkemizden-gitmeliler-2367780",
       "rss_categories": []
     },
     {
-      "title": "İSKİ 4 ARALIK 2025 İSTANBUL SU KESİNTİSİ: İstanbul'da Sular Ne Zaman Gelecek? İSKİ İstanbul Su Kesintisi Ne Zaman Bitecek?",
-      "summary": "İstanbul’da su kesintisi olan ilçeler 4 Aralık 2025 Perşembe günü vatandaşlar tarafından merak konusu oldu. İstanbul Su ve Kanalizasyon İdaresi Genel Müdürlüğü (İSKİ) planlı su kesintisine ilişkin güncel bilgileri yayımladı. Birçok kişi arama motorlarında “İstanbul'da sular ne zaman, saat kaçta gelecek?” gibi sorulara yanıt arıyor. İSKİ İstanbul su kesintisi sorgulama ekranına haberimizden ulaşabilirsiniz.",
+      "title": "NATO Genel Sekreteri Rutte, Putin'e seslendi: Hiçbir yere gitmiyoruz",
+      "summary": "NATO Genel Sekreteri Mark Rutte, Brüksel'deki karargahta dün yapılan Dışişleri Bakanları Toplantısı'nın ardından basına açıklamalarda bulundu. NATO'nun Rusya Devlet Başkanı Vladimir Putin'e ‘hiçbir yere gitmiyoruz’ mesajı verdiğini bildirdi.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/iski-4-aralik-2025-istanbul-su-kesintisi-istanbulda-sular-ne-zaman-gelecek-iski-istanbul-su-kesintisi-ne-zaman-bitecek-2367742",
+      "url": "https://www.cnnturk.com/dunya/nato-genel-sekreteri-rutte-putine-seslendi-hicbir-yere-gitmiyoruz-2367774",
       "rss_categories": []
     },
     {
-      "title": "6 ilde silah kaçakçılığı operasyonu: 119 şüpheli yakalandı",
-      "summary": "Jandarma ekiplerince 6 ilde düzenlenen silah kaçakçılığı operasyonlarında 119 şüpheli yakalandı.",
+      "title": "Almanya’nın prestijli üniversitesine Türk rektör: Oylamada büyük farkla Fatma Deniz seçildi",
+      "summary": "Almanya'nın önde gelen teknik üniversitelerinden Berlin Teknik Üniversitesi (TU Berlin), yeni rektörünü seçti. Bursa Kız Lisesi mezunu bilgisayar bilimci Prof. Dr. Fatma Deniz, üniversitenin yeni rektörü oldu. Böylelikle TU Berlin'in başına ilk kez bir Türk rektör seçilmiş oldu. Yapay zeka alanında çalışmalar yürüten Deniz, 1 Nisan 2026’da görevine başlayacak.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/6-ilde-silah-kacakciligi-operasyonu-119-supheli-yakalandi-2367741",
+      "url": "https://www.cnnturk.com/dunya/almanyanin-prestijli-universitesine-turk-rektor-oylamada-buyuk-farkla-fatma-deniz-secildi-2367766",
       "rss_categories": []
     },
     {
-      "title": "Şehzadeler Belediye Başkanı Gülşah Durbay Son Durum: Gülşah Durbay'ın Sağlık Durumu Nasıl? Manisa Şehzadeler Belediye Başkanı Gülşah Durbay Kimdir, Kaç Yaşında, Nereli?",
-      "summary": "Manisa’nın Şehzadeler ilçesinde belediye başkanlığı görevini sürdüren Gülşah Durbay, son günlerde sağlık durumu nedeniyle kamuoyunun gündeminde. Belediye tarafından yapılan resmi açıklamalarda, Başkan Durbay’ın tedavi sürecinin kontrol altında olduğu ve genel durumunun iyi olduğu vurgulandı. Sanal medyada yer alan spekülasyonlara karşı yetkililer, yalnızca resmi bilgilendirmelere itibar edilmesi gerektiğini belirtiyor. Durbay, görev süresi boyunca sosyal projeler ve kadınların yerel yönetimlerdeki rolünü güçlendiren çalışmalarıyla dikkat çekmişti. Peki, Şehzadeler Belediye Başkanı Gülşah Durbay kimdir, kaç yaşında, nereli? Gülşah Durbay'ın sağlık durumu nasıl, hastalığı ne?",
+      "title": "ABD’de eğitim tatbikatı esnasında 1 deniz piyadesi öldü",
+      "summary": "ABD'nin California eyaletindeki Camp Pendleton üssünde düzenlenen eğitim tatbikatı sırasında bir deniz piyadesi, taktik araç kazasında yaralanarak hayatını kaybetti",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/sehzadeler-belediye-baskani-gulsah-durbay-son-durum-gulsah-durbayin-saglik-durumu-nasil-manisa-sehzadeler-belediye-baskani-gulsah-2367546",
-      "rss_categories": []
-    },
-    {
-      "title": "2026 RESMİ TATİLLER TAKVİMİ: 2026'da Özel ve Dini Kaç Resmi Tatil Var? Toplam Resmi Tatil Kaç Gün?",
-      "summary": "2026 yılı, hem özel hem de dini bayramlarla dolu bir takvim sunuyor. Yeni yılın ilk gününden itibaren başlayan resmi tatiller, çalışanlar için dinlenme fırsatı yaratırken, seyahat ve turizm sektöründe de hareketlilik sağlıyor. Resmi tatillerin çeşitliliği, yıl boyunca farklı kültürel ve dini değerleri kutlama imkânı sunarak toplumsal birlikteliği güçlendiriyor. Özellikle uzun tatil dönemleri, planlama yapanlar için büyük avantaj sağlıyor. Tatil takvimi, iş dünyasında stratejik planlamalar ve kişisel programlar açısından da kritik bir rol oynuyor. Peki, 2026 resmi tatiller kaç gün? 2026^da kaç dini ve özel kaç gün resmi tatil var? İşte sıralı, gün gün 2026 resmi tatiller takvimi...",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/2026-resmi-tatiller-takvimi-2026da-ozel-ve-dini-kac-resmi-tatil-var-toplam-resmi-tatil-kac-gun-2367483",
-      "rss_categories": []
-    },
-    {
-      "title": "Siyasette 'cellat' tartışması! \"Özgür Özel perdeyi yanlış yerden açtı\" Abdulkadir Selvi yazdı...",
-      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan AK Parti'nin  TBMM'deki grup toplantısında CHP Genel Başkanı Özgür Özel’e yanıt verdi. Özel’in, DEM Parti’nin sürece katkısını “Stockholm sendromu” olarak nitelendirmesine ilişkin Erdoğan, “Neymiş DEM Parti'nin sürece katkı vermesi Stockholm sendromuymuş. Sayın Özel, cesaretin varsa ve cellat görmek istiyorsan aynaya bak” dedi. Siyasette yaşanan bu gelişmelerle ilgili olarak Hürriyet Gazetesi'nden Abdulkadir Selvi bir yazı kaleme aldı...",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/siyasette-cellat-tartismasi-ozgur-ozel-perdeyi-yanlis-yerden-acti-abdulkadir-selvi-yazdi-2367713",
-      "rss_categories": []
-    },
-    {
-      "title": "81 ilde sahte ve kaçak içki operasyonu",
-      "summary": "81 ilde dün \"Alkollü İçki Kaçakçılığı ve Sahteciliğine” yönelik düzenlenen operasyonlarda 12 adet yasa dışı alkollü içki imalathanesi deşifre edildi, 169 şüpheli hakkında adli işlem yapıldı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/81-ilde-sahte-ve-kacak-icki-operasyonu-2367712",
-      "rss_categories": []
-    },
-    {
-      "title": "Afyonkarahisar'da akılalmaz kaza: 1 ölü, 3 yaralı",
-      "summary": "Afyonkarahisar'da, akılalmaz bir kaza yaşandı. Bir araç, çarptığı köprü korkuluklarına saplandı. Otomobilin hurda yığınına döndüğü kazada 1 kişi öldü, 3 kişi de yaralandı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/afyonkarahisarda-akilalmaz-kaza-1-olu-3-yarali-2367705",
+      "url": "https://www.cnnturk.com/dunya/abdde-egitim-tatbikati-esnasinda-1-deniz-piyadesi-oldu-2367757",
       "rss_categories": []
     },
     {
@@ -754,38 +796,38 @@
       "rss_categories": []
     },
     {
-      "title": "Gazzeli aileler çaresizce çocuklarını bekliyor",
-      "summary": "İsrail'in Gazze'deki katliamları bu kez CNN International tarafından belgelendi. Görgü tanıkları, kayıp yakınlarının sözleri ve uydu verilerinin analizleri sonucunda İsrail'in yardım noktalarına gelen Filistinlileri vurduğu ve daha sonra da onları buldozerlerle ezdiği ortaya çıktı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/dunya/gazzeli-aileler-caresizce-cocuklarini-bekliyor-2367631",
-      "rss_categories": []
-    },
-    {
-      "title": "NATO'dan Putin'e net yanıt: Hiçbir yere gitmiyoruz",
-      "summary": "NATO Genel Sekreteri Rutte, Rusya Devlet Başkanı Putin'e seslenerek, \"Putin bizden daha uzun süre dayanabileceğine inanıyor, ancak hiçbir yere gitmiyoruz. Bugün yanıldığının açık bir işaretini daha gördük\" dedi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/dunya/natodan-putine-net-yanit-hicbir-yere-gitmiyoruz-2367627",
-      "rss_categories": []
-    },
-    {
-      "title": "ŞANS TOPU SONUÇLARI 3 ARALIK 2025 | Şans Topu sonuçları nasıl öğrenilir? 8.260.194,7 TL büyük ikramiye sahibini buldu!",
-      "summary": "Şans Topu sonuçları ile ilgili son dakika açıklaması geçtiğimiz gün (3 Aralık 2025 Çarşamba) Milli Piyango Online’da canlı olarak yayınlanan çekilişte yapıldı. 8.260.194,7 TL büyük ikramiye sahibini buldu. Birçok kişi arama motorlarında, “Şans Topu sonuçları nasıl öğrenilir?” sorusuna yanıt arıyor. İşte 3 Aralık 2025 Şans Topu sonuçları…",
-      "image": "",
-      "url": "https://www.cnnturk.com/ekonomi/sans-topu-sonuclari-3-aralik-2025-sans-topu-sonuclari-nasil-ogrenilir-8-260-194-7-tl-buyuk-ikramiye-sahibini-buldu-2367698",
-      "rss_categories": []
-    },
-    {
-      "title": "ÇILGIN SAYISAL LOTO SONUÇLARI 3 ARALIK 2025 | 409.317.502,92 TL büyük ikramiye devretti! Çılgın Sayısal Loto sonuçları nasıl öğrenilir?",
-      "summary": "Çılgın Sayısal Loto sonuçları ile ilgili son dakika açıklaması dün (3 Aralık 2025 Çarşamba) Milli Piyango Online’da canlı yayınlanan çekilişte yapıldı. Büyük ikramiye 409.317.502,92 TL devrederken çekilişe ilişkin detaylar merak konusu oldu. Peki, Çılgın Sayısal Loto sonuçları nasıl öğrenilir? Milli Piyango Online 3 Aralık 2025 Çılgın Sayısal Loto sonuçları ekranına haberimizden ulaşabilirsiniz.",
-      "image": "",
-      "url": "https://www.cnnturk.com/ekonomi/cilgin-sayisal-loto-sonuclari-3-aralik-2025-409-317-502-92-tl-buyuk-ikramiye-devretti-cilgin-sayisal-loto-sonuclari-nasil-ogrenilir-2367695",
-      "rss_categories": []
-    },
-    {
       "title": "Merkez Bankası faiz kararı ne zaman açıklanacak? TCMB PPK toplantısı ne zaman? 2025 ARALIK AYI MERKEZ BANKASI FAİZ KARARI BEKLENTİSİ!",
       "summary": "Merkez Bankası faiz kararı ile ilgili açıklama Aralık ayında gerçekleştirilecek PPK toplantısı sonrası yapılacak.  Türkiye Cumhuriyeti Merkez Bankası (TCMB) ekimde politika faizini 100 baz puan düşürmüştü. Banka borçlanma ve borç verme oranlarında ise indirime gitmişti. Peki, 2025 Aralık ayı Merkez Bankası faiz kararı ne zaman açıklanacak? Merkez Bankası faiz kararı beklentisi ne yönde?",
       "image": "",
       "url": "https://www.cnnturk.com/ekonomi/2025-aralik-ayi-merkez-bankasi-faiz-karari-beklentisi-merkez-bankasi-faiz-karari-ne-zaman-aciklanacak-tcmb-ppk-toplantisi-ne-zaman-2367344",
+      "rss_categories": []
+    },
+    {
+      "title": "Ticaret Bakanı Bolat kasım ayı ihracat rakamlarını açıkladı",
+      "summary": "Ticaret Bakanı Ömer Bolat, \"Kasım ayında ihracatımız yüzde 2,2 artışla 22,7 milyar dolar oldu\" dedi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/ticaret-bakani-bolat-kasim-ayi-ihracat-rakamlarini-acikladi-2367820",
+      "rss_categories": []
+    },
+    {
+      "title": "Türkiye’de sağlık harcamaları 2024’te rekor seviyeye ulaştı",
+      "summary": "Türkiye’de sağlık alanına yapılan toplam harcama 2024 yılında rekor seviyeye ulaştı. Türkiye İstatistik Kurumu’nun (TÜİK) açıkladığı verilere göre, sağlık harcamaları bir önceki yıla kıyasla yüzde 89,6 artarak 2 trilyon 359 milyar 151 milyon liraya çıktı. Böylece hem kamu hem özel sektör kaynaklı harcamalarda güçlü bir yükseliş kaydedildi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/turkiyede-saglik-harcamalari-2024te-rekor-seviyeye-ulasti-2367784",
+      "rss_categories": []
+    },
+    {
+      "title": "İşte memur ve emeklilerin 5 aylık zam oranı",
+      "summary": "Kasım ayında enflasyon beklentilerin altında kalarak %0,87, yıllık enflasyon ise %31,07 oldu. SGK ve BAĞ-KUR emeklilerinin 5 aylık zammı %11,21 olarak gerçekleşti; memur ve memur emeklilerinde toplu sözleşme ve enflasyon farkıyla birlikte güncel zam oranı %17,55’e ulaştı. Kira artış oranı %35,91 oldu; 30 bin liralık kira 40 bin 773 liraya çıkacak. Kasım’da en fazla düşüş taze sebzelerde görülürken, en çok artan ürün evcil hayvan ürünleri oldu.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/ekonomi/iste-memur-ve-emeklilerin-5-aylik-zam-orani-2367724",
+      "rss_categories": []
+    },
+    {
+      "title": "Merkez Bankası Başkanı Fatih Karahan: Fiyat istikrarı sağlanana kadar sıkı duruş sürecek",
+      "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Başkanı Fatih Karahan, İstanbul’da yaptığı “Para Politikası ve Makroekonomik Görünüm” sunumunda, fiyat istikrarına ulaşana kadar sıkı para politikasının kesintisiz devam edeceğini vurguladı. Karahan, mevcut duruşun talep, kur ve beklenti kanallarından dezenflasyonu desteklediğini söyledi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/merkez-bankasi-baskani-fatih-karahan-fiyat-istikrari-saglanana-kadar-siki-durus-surecek-2367756",
       "rss_categories": []
     },
     {
@@ -824,17 +866,17 @@
       "rss_categories": []
     },
     {
-      "title": "Mehmet Nuri Ersoy: \"Papa'nın ziyareti olumlu geçti\"",
-      "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye'nin turizmde 64 milyar dolarlık yıl sonu hedefini tutturacağını söyledi. Türkiye Basın Federasyonu'nun Anadolu Sohbetleri'ne konuk olan Bakan Ersoy'un gündeminde Papa 14. Leo'nun Türkiye ziyareti de vardı.",
+      "title": "Fenerbahçe, kış transferi için iki yıldız isme odaklandı",
+      "summary": "Fenerbahçe'de yönetim, ara transfer döneminin yaklaşmasıyla çalışmalarını hızlandırdı. Hedefte El Chadaille Bitshiabu ve Quinten Timber var.",
       "image": "",
-      "url": "https://www.cnnturk.com/video/ekonomi/mehmet-nuri-ersoy-papanin-ziyareti-olumlu-gecti-2367582",
+      "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-transfer-harekati-hedef-bu-2-yildiz-2367772",
       "rss_categories": []
     },
     {
-      "title": "Engelli istihdamına yönelik teşvikler artıyor",
-      "summary": "Sosyal Güvenlik Kurumu (SGK), işverenlere sağlanan engelli istihdam teşviklerinin yılın ilk dokuz ayında 3 milyar 924 milyon 101 bin 265 liraya ulaştığını açıkladı. Kurum, 3 Aralık Dünya Engelliler Günü kapsamında engelli vatandaşlara yönelik verilen hizmetlere ilişkin detayları paylaştı.",
+      "title": "Beşiktaş’ta Rafa Silva krizi çözüldü: Özür diledi, işte takıma katılacağı tarih...",
+      "summary": "Beşiktaş’ta Rafa Silva ile yaşanan kriz, oyuncunun özrü ve ailevi sorunlarını aşmasıyla çözüldü. İşte detaylar...",
       "image": "",
-      "url": "https://www.cnnturk.com/ekonomi/engelli-istihdamina-yonelik-tesvikler-artiyor-2367579",
+      "url": "https://www.cnnturk.com/spor/futbol/besiktasta-rafa-silva-krizi-cozuldu-ozur-diledi-iste-takima-katilacagi-tarih-2367750",
       "rss_categories": []
     },
     {
@@ -905,13 +947,6 @@
       "summary": "Türkiye, FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri \"güç sıralamasında\" birinci basamağa yükseldi.",
       "image": "",
       "url": "https://www.cnnturk.com/spor/basketbol/fiba-turkiyeyi-guc-siralamasinda-ilk-siraya-yerlestirdi-2367537",
-      "rss_categories": []
-    },
-    {
-      "title": "Galatasaray, Samsunspor mesaisine başladı",
-      "summary": "Trendyol Süper Lig'in 15. haftasında 5 Aralık Cuma günü Samsunspor'u konuk edecek Galatasaray, hazırlıklarına başladı.",
-      "image": "",
-      "url": "https://www.cnnturk.com/spor/futbol/galatasaray-samsunspor-mesaisine-basladi-2367525",
       "rss_categories": []
     },
     {
@@ -999,10 +1034,10 @@
       "rss_categories": []
     },
     {
-      "title": "EŞREF RÜYA 24. BÖLÜM İZLE FULL HD TEK PARÇA | Kanal D Çağatay Ulusoy ve Demet Özdemir’li Eşref Rüya 24. bölüm izle!",
-      "summary": "Eşref Rüya’nın 24. bölümü Kanal D izleyicisiyle buluştu. Çağatay Ulusoy ve Demet Özdemir'in başrollerini paylaştığı dizide Nisan’ın muhbir olabileceğine ilişkin şüpheye düşen Eşref, onu takip ettirme planı yapar. Nisan ise, Dinçer’in sırrını ortaya çıkarmakta kararlıdır. Eşref Rüya 24. bölüm izleme ekranı arama motorlarında araştırılıyor. Peki, dizinin ekrana gelen son bölümünde neler yaşandı? İşte Çağatay Ulusoy ve Demet Özdemir’in başrollerini paylaştığı Eşref Rüya’nın 24. bölüm izleme ekranı…",
+      "title": "Kübra Ünlü yazdı! ‘EŞREF RÜYA’ DA BÜYÜK ‘PUSU’?",
+      "summary": "Kanal D’nin Çarşamba akşamlarının reyting rekortmeni dizisi ‘Eşref Rüya 24. bölümü ile bir kez daha izlenme rekorları kırdı. Tims&B’in, yapımcılığını Timur Savcı ve Burak Sağyaşar’ın üstlendiği, yönetmen koltuğunda Uluç Bayraktar’ın oturduğu ve senaryosu Ethem Özışık ve Lokman Maral tarafından kaleme alınan dizisi ‘Eşref Rüya’ 24. bölümü ile ekrana geldi.",
       "image": "",
-      "url": "https://www.cnnturk.com/magazin/esref-ruya-24-bolum-izle-full-hd-tek-parca-kanal-d-cagatay-ulusoy-ve-demet-ozdemirli-esref-ruya-24-bolum-izle-2367688",
+      "url": "https://www.cnnturk.com/magazin/kubra-unlu-yazdi-esref-ruya-da-buyuk-pusu-2367777",
       "rss_categories": []
     },
     {
@@ -1010,13 +1045,6 @@
       "summary": "Lezzetli spor hikâyeleri dinlemeye hazır mısınız? Gastronomiyle spor dünyasını tek bir masada buluşturan “Foodball” başlıyor. Zengin içerikli program, yeme-içme sektörü ve spor dünyasının tanınmış isimlerini bir araya getiriyor. Foodball, her çarşamba saat 20.00’de D-Smart’ta ekrana gelecek. 3 Aralık’ta başlayacak programın ilk konuğu, Fenerbahçeli ünlü şef Bedri Usta olacak. Bedri Usta hem mutfak hem de yeşil sahalarla ilgili merak edilenleri ve bilinmeyenleri izleyicilerle paylaşacak.",
       "image": "",
       "url": "https://www.cnnturk.com/magazin/lezzetli-spor-hikayeleri-basliyor-2367538",
-      "rss_categories": []
-    },
-    {
-      "title": "SON DURUM MURAT CEMCİR: Murat Cemcir'in Sağlık Durumu Nasıl, Hastalığı Ne? Hastaneden Açıklama Geldi!",
-      "summary": "Murat Cemcir hastalığı ve yoğun bakıma kaldırılması sanal medyanın en çok konuşulan konularından biri haline geldi. Sevilen oyuncunun yaşadığı ani rahatsızlık sonrası hastaneye kaldırılması, hayranlarını endişelendirdi. Konuyla ilgili resmi açıklamalar sınırlı olsa da, gelişmeler yakından takip ediliyor. Cemcir’in sağlık süreciyle ilgili detaylar, hem basın hem de izleyiciler tarafından merakla bekleniyor. Peki, Murat Cemcir kimdir? Murat Cemcir'in hastalığı ne, sağlık durumu nasıl?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/murat-cemcir-saglik-durumu-son-dakika-murat-cemcir-hastaligi-ne-yogun-bakimda-mi-unlu-oyuncunun-salik-durumu-nasil-2366609",
       "rss_categories": []
     },
     {
@@ -1059,20 +1087,6 @@
       "summary": "Devrim Yakut, ilk bölümüyle 2 Aralık 2025 Salı günü Show TV ekranlarında yayınlanan Rüya Gibi dizisinde Hayriye rolüne hayat veriyor. Bu kapsamda Devrim Yakut hakkında araştırmalar hız kazandı. Peki Rüya Gibi dizisinin Hayriye'si kimdir? Devrim Yakut kaç yaşında ve nereli? İşte ayrıntılar...",
       "image": "",
       "url": "https://www.cnnturk.com/magazin/ruya-gibi-dizisinin-hayriyesi-kimdir-devrim-yakut-kac-yasinda-ve-nereli-2367185",
-      "rss_categories": []
-    },
-    {
-      "title": "Rüya Gibi dizisinin Tarık'ı kimdir? Celil Nalkaçan kaç yaşında ve nereli?",
-      "summary": "Ekranların tanınan yüzlerinden biri olan Celil Nalkaçan 2 Aralık 2025 Salı günü Show TV ekranlarında ilk bölümüyle yayınlanan Rüya Gibi dizisinde Tarık rolüne hayat veriyor. Bu kapsamda Celil Nalkaçan hakkında araştırmalar hız kazandı. Peki Rüya Gibi dizisinin Tarık'ı kimdir? Celil Nalkaçan kaç yaşında ve nereli?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/ruya-gibi-dizisinin-tariki-kimdir-celil-nalkacan-kac-yasinda-ve-nereli-2367173",
-      "rss_categories": []
-    },
-    {
-      "title": "Rüya Gibi dizisinin Fiko'su kimdir? Şebnem Bozoklu kaç yaşında ve nereli?",
-      "summary": "Şebnem Bozoklu, Rüya Gibi dizisinde Fiko rolüne hayat veriyor. Bu kapsamda, ekranların tanınan yüzlerinden biri olan  Şebnem Bozoklu hakkında araştırmalar hız kazandı. Peki Rüya Gibi dizisinin Fiko'su kimdir? Şebnem Bozoklu kaç yaşında ve nereli?",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/ruya-gibi-dizisinin-fikosu-kimdir-sebnem-bozoklu-kac-yasinda-ve-nereli-2367165",
       "rss_categories": []
     },
     {
@@ -1157,6 +1171,13 @@
       "summary": "Elektrikli kompakt B-SUV BYD ATTO 2, Boost ve Comfort donanım seçenekleriyle 1.529.000 TL’den başlayan fiyatlarla satışa çıktı",
       "image": "",
       "url": "https://www.cnnturk.com/otomobil/bydnin-elektrikli-suvu-atto-2-turkiyede-2366503",
+      "rss_categories": []
+    },
+    {
+      "title": "TOGEMDER 20. yılında iyiliği büyütüyor",
+      "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan’ın eşi Emine Erdoğan’ın öncülüğünde kurulan Toplumsal Gelişim Eğitim ve Sosyal Dayanışma Derneği (TOGEMDER), 20’nci yılında “Bir Alışveriş, Bin İyilik” sloganıyla Artsın Eksilmesin Dönüşüm Pazarı düzenliyor.",
+      "image": "",
+      "url": "https://www.cnnturk.com/yasam/togemder-20-yilinda-iyiligi-buyutuyor-2367771",
       "rss_categories": []
     },
     {
