@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-06 07.42",
+  "generated_at": "2025-12-06 08.39",
   "articles": [
     {
       "title": "Putin, Rusya'nın Hindistan'a \"kesintisiz\" yakıt sağlamaya hazır olduğunu söyledi",
@@ -121,10 +121,10 @@
       "rss_categories": []
     },
     {
-      "title": "Doktor 38 hastaya cinsel saldırıyla suçlandı",
-      "summary": "Nathaniel Spencer'a yöneltilen suçlamalar, iki West Midlands hastanesinde çalıştığı zamanla ilgili.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2e/live/36049cb0-d1f5-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/articles/cdd5z3qdjv4o?at_medium=RSS&at_campaign=rss",
+      "title": "Pakistan ile Taliban arasında yeni çatışmalar çıktı",
+      "summary": "Her iki taraf da diğerini gece çatışmasını başlatmak ve ekimde kararlaştırılan kırılgan ateşkesi ihlal etmekle suçluyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c186/live/8b28ec90-d25a-11f0-a3ed-031197c916c2.jpg",
+      "url": "https://www.bbc.com/news/articles/cn09zp87pz8o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -135,6 +135,13 @@
       "rss_categories": []
     },
     {
+      "title": "Doktor 38 hastaya cinsel saldırıyla suçlandı",
+      "summary": "Nathaniel Spencer'a yöneltilen suçlamalar, iki West Midlands hastanesinde çalıştığı zamanla ilgili.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2e/live/36049cb0-d1f5-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/articles/cdd5z3qdjv4o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
       "title": "Catherine, Noel şarkısı konseri için yıldızlara ve hayırsever kahramanlara katıldı",
       "summary": "Kate Winslet ve Chiwetel Ejiofor, Westminster Abbey'deki 1600 konuk arasındaydı.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff4b/live/6481ae30-d212-11f0-9fb5-5f3a3703a365.jpg",
@@ -142,17 +149,10 @@
       "rss_categories": []
     },
     {
-      "title": "Otoyolda vurulan 18 yaşındaki adama ölümden önce şok verildi",
-      "summary": "18 yaşındaki Logan Smith, pazar akşamı M5 'te ambulanstan indikten sonra hayatını kaybetti.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea1/live/5293d6e0-ce88-11f0-863d-7b9c77ed56fe.jpg",
-      "url": "https://www.bbc.com/news/articles/cpvdjjy182go?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Annemin tecavüzcüyü görmek için 8 yıllık adalet mücadelesi hapsedildi",
-      "summary": "Allan Peyton, Batı Mercia bölgesindeki evinde bir kadına tecavüz ettiği için 5 yıl hapis cezasına çarptırıldı.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2617/live/ead1b640-d20f-11f0-8c06-f5d460985095.png",
-      "url": "https://www.bbc.com/news/articles/c39pzzlym4mo?at_medium=RSS&at_campaign=rss",
+      "title": "Eski ve yeni düşmanlar - İngiltere'nin Dünya Kupası grubuna bir bakış",
+      "summary": "BBC Sport, 2026 Dünya Kupası'nda İngiltere'nin L Grubu rakipleri Hırvatistan, Panama ve Gana'nın profilini çiziyor.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b153/live/af389d20-d213-11f0-8c06-f5d460985095.png",
+      "url": "https://www.bbc.com/sport/football/articles/c9d9g0610q9o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -487,6 +487,15 @@
       ]
     },
     {
+      "title": "Galatasaray-Samsunspor maçının hakem yönetimini Fırat Aydınus inceledi: 'Kırmızı kart ve penaltı vermeliydi ama iki pozisyonu da VAR'a bıraktı!'",
+      "summary": "Hürriyet yazarı Fırat Aydınus, Süper Lig'de dün oynanan ve sarı-kırmızılıların 3-2'lik galibiyetiyle sona eren Galatasaray-Samsunspor maçının hakemi Mehmet Türkmen'in kararlarını değerlendirdi.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/693360cffc453985e1451499.jpg",
+      "url": "https://www.hurriyet.com.tr/sporarena/galatasaray-samsunspor-macinin-hakem-yonetimini-firat-aydinus-inceledi-kirmizi-kart-ve-penalti-vermeliydi-ama-iki-pozisyonu-da-43044579",
+      "rss_categories": [
+        "spor arena"
+      ]
+    },
+    {
       "title": "Güzelavrat otu, ıspanak yapraklarının arasına karışıp zehirliyor! Kökleri yoksa almayın! Ciddi vakalarda nöbet ve koma gelişebilir",
       "summary": "Kış aylarında sofralarımızdan eksik etmememiz gereken bir lezzet ıspanak! Yemekten böreğe, çorbadan salataya her tabağa yakışan hem lezzetli hem de şifa dolu bu sebzenin demetlerinin arasına karışan zehirli güzelavrat otu maalesef yaşamı tehdit eden zehirlenme vakalarına neden olabiliyor. Uzmanlar, tüketicileri çok dikkatli olmaları konusunda uyarıyor.",
       "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69315a5e600db024f7cee4c2.jpg",
@@ -577,13 +586,67 @@
       ]
     },
     {
-      "title": "Havalimanında korku dolu anlar: Uçaktan alevler yükseldi",
-      "summary": "Brezilya'nın Sao Paulo şehrindeki Guarulhos Uluslararası Havalimanı'nda bir yolcu uçağının bagajını yüklemek için kullanılan araçtan yükselen alev ve yoğun duman nedeniyle yolcular tahliye edildi.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6932c8dcfc453985e14511be.jpg",
-      "url": "https://www.hurriyet.com.tr/dunya/havalimaninda-korku-dolu-anlar-ucaktan-alevler-yukseldi-43043926",
-      "rss_categories": [
-        "dünya"
-      ]
+      "title": "ANKARA SU KESİNTİSİ 6 ARALIK 2025: ASKİ Ankara Su Kesintisi Ne Zaman Bitecek, Sular Ne Zaman Gelecek? Altındağ, Mamak, Çankaya, Yenimahalle...",
+      "summary": "ASKİ Ankara su kesintisi listesi, 6 Aralık Cumartesi günü merak konusu oldu. ASKİ tarafından yayımlanan 'Ankara su kesintisi' listesine göre Altındağ, Mamak, Çankaya, Yenimahalle gibi pek çok ilçe de su kesintisi yaşanacak. Pek çok vatandaş “Ankara’da sular ne zaman gelecek?” sorusuna yanıt arıyor. Peki, Ankara’da su kesintisi ne zaman bitecek, sular ne zaman gelecek?",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/ankara-su-kesintisi-6-aralik-2025-aski-ankara-su-kesintisi-ne-zaman-bitecek-sular-ne-zaman-gelecek-altindag-mamak-cankaya-yenimahalle-2368668",
+      "rss_categories": []
+    },
+    {
+      "title": "Hava Durumu (06-12-2025)",
+      "summary": "Marmara Bölgesinde bulutlu ve yer yer yağışlı bir hava hakim. Bölgede gündüz sıcaklıkları genellikle 15 ile 20 derece arasında seyrediyor. Pazar günü yağışların bölge geneline yayılması bekleniyor.",
+      "image": "",
+      "url": "https://www.cnnturk.com/hava-durumu/cnn-turk-hava-durumu/hava-durumu-06-12-2025-2368669",
+      "rss_categories": []
+    },
+    {
+      "title": "Hava Durumu (06-12-2025)",
+      "summary": "Marmara Bölgesinde bulutlu ve yer yer yağışlı bir hava hakim. Bölgede gündüz sıcaklıkları genellikle 15 ile 20 derece arasında seyrediyor. Pazar günü yağışların bölge geneline yayılması bekleniyor.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-06-12-2025-2368670",
+      "rss_categories": []
+    },
+    {
+      "title": "Trump'ın desteği kriptoya yaramadı!",
+      "summary": "Kripto piyasasında bu yıl beklentiler zirvedeydi. Trump’ın göreve gelmesi, kriptoya verdiği açık destek ve hatta kendi coin’ini duyurması heyecan yaratmıştı. Ancak tablo bambaşka bir yere evrildi. 2025, milyonlarca kripto yatırımcısı için kayıp yıl oldu.\nSabiha Fındıkkıran ve Yusuf Ağbaba’nın haberi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/finans-haberler/trumpin-destegi-kriptoya-yaramadi-2368664",
+      "rss_categories": []
+    },
+    {
+      "title": "ON NUMARA SONUÇLARI 5 ARALIK 2025 | Milli Piyango Online ile On Numara sonuçları nasıl öğrenilir?",
+      "summary": "On Numara çekilişinin 5 Aralık 2025 Cuma günkü sonuçları sorgulanıyor. Haftanın belirli günlerinde gerçekleştirilen On Numara çekilişinin sonuçları Milli Piyango'nun internet sitesinde yer alıyor. Aynı zamanda sonuçlara haberimiz aracılığı ile de ulaşabilirsiniz. Sonuçlar 20.00'de belli oluyor. Peki Milli Piyango Online ile 5 Aralık 2025 On Numara sonuçları nasıl öğrenilir?",
+      "image": "",
+      "url": "https://www.cnnturk.com/ekonomi/on-numara-sonuclari-5-aralik-mpi-on-numara-sonuclari-canli-izle-2368570",
+      "rss_categories": []
+    },
+    {
+      "title": "ARKA SOKAKLAR 730. BÖLÜM İZLE KANAL D! Arka Sokaklar'da neler oldu? Arka Sokaklar 730. bölüm tek parça HD izle",
+      "summary": "Kanal D'nin zamansız dizisi Arka Sokaklar tam gaz devam ediyor. Seyirciler, Arka Sokaklar'ın 730. bölümünü internetten izlemenin yollarını arıyor. Dizinin 730. bölümü yine heyecan dolu geçti. Peki Arka Sokaklar'da neler oldu? İşte Arka Sokaklar 730. bölüm tek parça HD izleme linki...",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/arka-sokakalr-730-bolum-izleme-linki-arka-sokaklarda-neler-oldu-arka-sokaklar-730-bolum-tek-parca-hd-izle-2368635",
+      "rss_categories": []
+    },
+    {
+      "title": "AÖF sınavları saat kaçta başlıyor ve bitiyor? AÖF sınavları ne zaman? 2025 AÖF SINAV GİRİŞ BELGESİ EKRANI",
+      "summary": "AÖF sınavlarının saat kaçta başlayıp bittiği Anadolu Üniversitesi Açıköğretim Fakültesi öğrencileri tarafından merak konusu oldu. AÖF sınavları bugün gerçekleştirilecek.  Birçok kişi internette \"AÖF sınavları saat kaçta başlıyor ve bitiyor? AÖF sınavları ne zaman?\" gibi sorulara yanıt arıyor. İşte Anadolu Üniversitesi Açıköğretim Fakültesi sınav giriş belgesi ekranı…",
+      "image": "",
+      "url": "https://www.cnnturk.com/egitim/aof-sinavlari-saat-kacta-basliyor-ve-bitiyor-aof-sinavlari-ne-zaman-2025-aof-sinav-giris-belgesi-ekrani-2367081",
+      "rss_categories": []
+    },
+    {
+      "title": "MASTERCHEF'TE İKİNCİ FİNALİST BELLİ OLDU 5 ARALIK 2025 | MasterChef'te ikinci finalist kim oldu? İşte o isim...",
+      "summary": "MasterChef'te sonlara yaklaşılmasıyla heyecan doruğa çıktı. Danilo Zanna, Somer Sivrioğlu ve Mehmet Yalçınkaya'nın başarılı sunumuyla ekranlara gelen MasterChef'te 5 Aralık 2025 Cuma akşamında yayınlanan yeni bölüm sona erdi. Bilindiği üzere ilk finalist Özkan olmuştu. Hakan, Sezer ve Çağatay üçlüsü ikinci finalist olmak için tezgah başında ellerinden geleni yaptı. MasterChef'in son finalistini belirlemek için ince eleyip sık dokuyan şefler, verdikleri puan neticesinde son ismi resmen belirlemiş oldu. Peki 5 Aralık MasterChef'in son finalisti kim oldu? İşte merak edilen tüm detaylar...",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/masterchefte-ikinci-finalist-belli-oldu-5-aralik-masterchefte-ikinci-finalist-kim-oldu-2368648",
+      "rss_categories": []
+    },
+    {
+      "title": "Futbolda bahis soruşturmasında ikinci dalga: İşte gözaltı listesi! Kim neyle suçlanıyor",
+      "summary": "Aralarında futbolcular, kulüp başkanları, hakem ve yorumcuların da bulunduğu 46 kişi hakkında gözaltı kararı verildi. Şüphelilerden 38’i gözaltına alındı. Gözaltına alınan isimler arasında Fenerbahçeli Mert Hakan Yandaş, Galatasaraylı Metehan Baltacı, yorumcu Ahmet Çakar, üst klasman hakemi Zorbay Küçük gibi isimler var. Şüpheliler üç grupta toplanıyor: Kendi takımlarının maçlarına bahis oynayan futbolcular, şüpheli finansal işlemleri olan ve ikinci şahıslar üzerinden bahis oynayanlar, maç sonuçlarını etkilemeye çalışanlar.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/futbolda-bahis-sorusturmasinda-ikinci-dalga-iste-gozalti-listesi-kim-neyle-suclaniyor-2368662",
+      "rss_categories": []
     },
     {
       "title": "DOLAR İLE EURO ALIŞ - SATIŞ FİYATI CANLI VE ANLIK TAKİP 6 ARALIK 2025 | Dolar ne kadar, euro kaç TL? Döviz kurunda son durum!",
@@ -604,13 +667,6 @@
       "summary": "Edirne merkezli 5 ilde, Fetullahçı Terör Örgütü'nün (FETÖ) güncel öğrenci yapılanmasına yönelik soruşturma kapsamında gözaltına alınan 12 şüpheliden 6'sı tutuklandı.",
       "image": "",
       "url": "https://www.cnnturk.com/turkiye/fetonun-guncel-ogrenci-yapilanmasina-operasyon-6-tutuklama-2368649",
-      "rss_categories": []
-    },
-    {
-      "title": "MASTERCHEF'TE İKİNCİ FİNALİST BELLİ OLDU! 5 Aralık MasterChef'te ikinci finalist kim oldu?",
-      "summary": "MasterChef'te sonlara yaklaşılmasıyla heyecan doruğa çıktı. Danilo Zanna, Somer Sivrioğlu ve Mehmet Yalçınkaya'nın başarılı sunumuyla ekranlara gelen MasterChef'te 5 Aralık 2025 Cuma akşamında yayınlanan yeni bölüm sona erdi. Bilindiği üzere ilk finalist Özkan olmuştu. Hakan, Sezer ve Çağatay üçlüsü ikinci finalist olmak için tezgah başında ellerinden geleni yaptı. MasterChef'in son finalistini belirlemek için ince eleyip sık dokuyan şefler, verdikleri puan neticesinde son ismi resmen belirlemiş oldu. Peki 5 Aralık MasterChef'in son finalisti kim oldu? İşte merak edilen tüm detaylar...",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/masterchefte-ikinci-finalist-belli-oldu-5-aralik-masterchefte-ikinci-finalist-kim-oldu-2368648",
       "rss_categories": []
     },
     {
@@ -639,34 +695,6 @@
       "summary": "Hatay’ın Erzin ilçesinde Bekir S. (77), eşi Meliha S.'yi (61) baltayla öldürüp, evinin banyosuna gömdü. Olay, Meliha S.'den haber alamayan yakınlarının kayıp ihbarında bulunmasıyla ortaya çıktı.",
       "image": "",
       "url": "https://www.cnnturk.com/turkiye/kayip-ihbari-korkunc-vahseti-ortaya-cikardi-karisini-baltayla-oldurup-banyoya-gomdu-2368644",
-      "rss_categories": []
-    },
-    {
-      "title": "Şam'da devrimin 1. Yıl dönümü hazırlığı",
-      "summary": "Suriye’de Esad rejiminin sona ermesinin ve iç savaşın bitişinin üzerinden tam 1 yıl geçti. Başkent Şam’da devrimin yıldönümü olan 8 aralık için geri sayım sürerken, kentte hem bayram havası hem de İsrail tedirginliği hakim. CNN TÜRK ekibinden Serdar Er ve Halil Kahraman, Şam’ın kalbini görüntüledi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/video/dunya/samda-devrimin-1-yil-donumu-hazirligi-2368640",
-      "rss_categories": []
-    },
-    {
-      "title": "ARKA SOKAKLAR 730. BÖLÜM İZLEME LİNKİ! Arka Sokaklar'da neler oldu? Arka Sokaklar 730. bölüm tek parça HD izle",
-      "summary": "Kanal D'nin zamansız dizisi Arka Sokaklar tam gaz devam ediyor. Seyirciler, Arka Sokaklar'ın 730. bölümünü internetten izlemenin yollarını arıyor. Dizinin 730. bölümü yine heyecan dolu geçti. Peki Arka Sokaklar'da neler oldu? İşte Arka Sokaklar 730. bölüm tek parça HD izleme linki...",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/arka-sokakalr-730-bolum-izleme-linki-arka-sokaklarda-neler-oldu-arka-sokaklar-730-bolum-tek-parca-hd-izle-2368635",
-      "rss_categories": []
-    },
-    {
-      "title": "ARKA SOKAKLAR 731. BÖLÜM FRAGMANI! Arka Sokaklar 731. bölüm fragmanı yayınlandı",
-      "summary": "Arka Sokaklar'ın 730. bölümü 5 Aralık 2025 Cuma günü ekranlara geldi. Dizinin yeni bölümünü izleyen seyirciler 731. bölüm fragmanını araştırmaya başladı. Arka Sokaklar dizisinin 731. bölüm fragmanı yayınlandı! İşte Arka Sokaklar 731. bölüm fragmanı izleme linki...",
-      "image": "",
-      "url": "https://www.cnnturk.com/magazin/arka-sokaklar-731-bolum-fragmani-arka-sokaklar-731-bolum-fragmani-yayinlandi-2368639",
-      "rss_categories": []
-    },
-    {
-      "title": "Mutfakta ferahlık, ciltte peeling etkisi! Limon kabukları bakın ne işe yarıyormuş",
-      "summary": "Limon günlük hayatta sıklıkla kullanılsa da kabukları çoğunlukla çöpe gidiyor. Oysa limon kabuğu temizlikten cilt bakımına birçok farklı alanda değerlendirilebilir. Limon kabukları, doğru kullanıldığında hem ekonomik hem de pratik birçok fayda sağlıyor.",
-      "image": "",
-      "url": "https://www.cnnturk.com/kesfet/mutfakta-ferahlik-ciltte-peeling-etkisi-limon-kabuklari-bakin-ne-ise-yariyormus-2368622",
       "rss_categories": []
     },
     {
@@ -705,17 +733,10 @@
       "rss_categories": []
     },
     {
-      "title": "Akdeniz'de korkutan deprem!",
-      "summary": "AFAD duyurdu: Akdeniz'de saat 18.49 sularında 4.4 büyüklüğünde bir deprem meydana geldi. Deprem yerin 12 kilometre derinliğinde gerçekleşti.",
+      "title": "Şam'da devrimin 1. Yıl dönümü hazırlığı",
+      "summary": "Suriye’de Esad rejiminin sona ermesinin ve iç savaşın bitişinin üzerinden tam 1 yıl geçti. Başkent Şam’da devrimin yıldönümü olan 8 aralık için geri sayım sürerken, kentte hem bayram havası hem de İsrail tedirginliği hakim. CNN TÜRK ekibinden Serdar Er ve Halil Kahraman, Şam’ın kalbini görüntüledi.",
       "image": "",
-      "url": "https://www.cnnturk.com/turkiye/akdenizde-korkutan-deprem-2368580",
-      "rss_categories": []
-    },
-    {
-      "title": "Ferdi Zeyrek davasında tutuklu sanıklar tahliye edildi: Yeni bilirkişi raporu alınacak",
-      "summary": "Ferdi Zeyrek davasında mahkeme heyeti, tutuklu sanıkların tahliyesine hükmedip yeniden bilirkişi raporu alınmasına karar verdi. Sanıkların suçlamaları kabul etmediği duruşmada Ferdi Zeyrek'in eşi Nurcan Zeyrek, \"Avukat ve sanıkları dinliyorum. Çelişkili ifadeler veriyorlar. Ferdi'den geriye 3 tane çocuk ve ben kaldım\" dedi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/ferdi-zeyrek-davasinda-tutuklu-saniklar-tahliye-edildi-yeni-bilirkisi-raporu-alinacak-2368579",
+      "url": "https://www.cnnturk.com/video/dunya/samda-devrimin-1-yil-donumu-hazirligi-2368640",
       "rss_categories": []
     },
     {
@@ -793,13 +814,6 @@
       "summary": "Dünyanın en popüler lüks araba markalarından biri olan Porsche, bu kez inanılmaz bir şekilde gündem oldu. Rusya'da birçok Porsche araç sahibi, aynı dönemde araçlarını çalıştırmakta sorun yaşıyor.",
       "image": "",
       "url": "https://www.cnnturk.com/ekonomi/yuzlerce-porsche-sahibi-neye-ugradigini-sasirdi-uydu-ile-bloke-edildiler-ayni-anda-bozuldular-2368615",
-      "rss_categories": []
-    },
-    {
-      "title": "ON NUMARA SONUÇLARI 5 ARALIK! MPİ On Numara sonuçları canlı izle",
-      "summary": "On Numara çekilişinin 5 Aralık 2025 Cuma günkü sonuçları sorgulanıyor. Haftanın belirli günlerinde gerçekleştirilen On Numara çekilişinin sonuçları Milli Piyango'nun internet sitesinde yer alıyor. Aynı zamanda sonuçlara haberimiz aracılığı ile de ulaşabilirsiniz. Sonuçlar 20.00'de belli oluyor. Peki 5 Aralık On Numara sonuçları belli oldu mu? İşte MPİ On Numara sonuçları canlı izleme linki...",
-      "image": "",
-      "url": "https://www.cnnturk.com/ekonomi/on-numara-sonuclari-5-aralik-mpi-on-numara-sonuclari-canli-izle-2368570",
       "rss_categories": []
     },
     {
@@ -1038,6 +1052,13 @@
       "summary": "Birleşmiş Milletler Gıda ve Tarım Örgütü (FAO) verilerine göre, küresel nüfustaki hızlı artış, iklim krizinin etkileri, savaşlar ve ekonomilerdeki kırılganlıklar nedeniyle dünya genelinde yaklaşık 673 milyon insan açlıkla karşı karşıya. Dünya nüfusunun yüzde 8,2’sine denk gelen bu rakam, her geçen gün daha da kötüleşen bir tabloyu ortaya koyarken, uluslararası kuruluşlar hep birlikte harekete geçme çağrısı yapıyor.",
       "image": "",
       "url": "https://www.cnnturk.com/saglik/dunya-gida-gununde-gida-okuryazarligina-dikkat-cekildi-2348202",
+      "rss_categories": []
+    },
+    {
+      "title": "ARKA SOKAKLAR 731. BÖLÜM FRAGMANI! Arka Sokaklar 731. bölüm fragmanı yayınlandı",
+      "summary": "Arka Sokaklar'ın 730. bölümü 5 Aralık 2025 Cuma günü ekranlara geldi. Dizinin yeni bölümünü izleyen seyirciler 731. bölüm fragmanını araştırmaya başladı. Arka Sokaklar dizisinin 731. bölüm fragmanı yayınlandı! İşte Arka Sokaklar 731. bölüm fragmanı izleme linki...",
+      "image": "",
+      "url": "https://www.cnnturk.com/magazin/arka-sokaklar-731-bolum-fragmani-arka-sokaklar-731-bolum-fragmani-yayinlandi-2368639",
       "rss_categories": []
     },
     {
