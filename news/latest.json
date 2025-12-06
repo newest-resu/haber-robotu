@@ -1,11 +1,18 @@
 {
-  "generated_at": "2025-12-06 19.44",
+  "generated_at": "2025-12-06 20.32",
   "articles": [
     {
       "title": "ABD Kiev'le görüşmelerinde ilerleme kaydettiğini bildirirken Rusya Ukrayna'yı vurdu",
       "summary": "Fransa Cumhurbaşkanı saldırıyı kınadı ve pazartesi günü Londra'da Ukraynalı, Britanyalı ve Alman liderlerle görüştüğünü duyurdu.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11fb/live/f776d7c0-d2c0-11f0-9a50-7beb4a0b24cf.jpg",
       "url": "https://www.bbc.com/news/articles/clydxj7my84o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "\"Her şeyimizi kaybettik \": Avustralya'daki orman yangını evleri yerle bir etti",
+      "summary": "Sidney'in kuzeyindeki bir kıyı bölgesini kasıp kavuran orman yangını sonrasında çok sayıda ev hasar gördü.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce1/live/c49e04e0-d2b1-11f0-9fb5-5f3a3703a365.jpg",
+      "url": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -37,17 +44,17 @@
       "rss_categories": []
     },
     {
-      "title": "ABD Yüksek Mahkemesi, doğuştan vatandaşlığa meydan okuyan davayı dinlemeyi kabul etti",
-      "summary": "Donald Trump'ın doğuştan vatandaşlığı sona erdirmeye yönelik tartışmalı kararnamesi alt mahkemeler tarafından reddedilmişti.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
-      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
       "title": "Kuzey Amerikalı liderler ilk kez birlikte sahne aldı",
       "summary": "Dünya Kupası çekilişi, Meksika Devlet Başkanı Claudia Sheinbaum'un Trump'la ilk karşılaşmasını ve üçlünün ticareti kısaca tartışmasını işaret etti.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ead/live/4d713270-d20c-11f0-936b-f537e2f59ee5.jpg",
       "url": "https://www.bbc.com/news/articles/cz7nlp8l4j0o?at_medium=RSS&at_campaign=rss",
+      "rss_categories": []
+    },
+    {
+      "title": "ABD Yüksek Mahkemesi, doğuştan vatandaşlığa meydan okuyan davayı dinlemeyi kabul etti",
+      "summary": "Donald Trump'ın doğuştan vatandaşlığı sona erdirmeye yönelik tartışmalı kararnamesi alt mahkemeler tarafından reddedilmişti.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12a7/live/f7be8d50-c937-11f0-8c06-f5d460985095.jpg",
+      "url": "https://www.bbc.com/news/articles/c208j0wrzrvo?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -76,13 +83,6 @@
       "summary": "Benzer bir talep bu yıl reddedilse de geçen ay Kongre tarafından kabul edilen bir yasa bunu geçersiz kılıyor.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66e9/live/f42e0d10-d20a-11f0-a892-01d657345866.jpg",
       "url": "https://www.bbc.com/news/articles/c4ge8p0n0zko?at_medium=RSS&at_campaign=rss",
-      "rss_categories": []
-    },
-    {
-      "title": "Twitch yıldızı QTCinderella, yayına hiç başlamamayı dilediğini söyledi",
-      "summary": "Streamer Ödülleri organizatörü, çevrimiçi rolünün olumsuzluklarının işten zevk almayı zorlaştırdığını söyledi.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/58caa050-d1dc-11f0-9267-ab26a8fe8cc2.jpg",
-      "url": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -149,10 +149,10 @@
       "rss_categories": []
     },
     {
-      "title": "İzleyin: Avustralya'daki orman yangını evleri yerle bir ediyor",
-      "summary": "Sidney'in kuzeyindeki bir kıyı bölgesini kasıp kavuran orman yangını sonrasında çok sayıda ev hasar gördü.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ce1/live/c49e04e0-d2b1-11f0-9fb5-5f3a3703a365.jpg",
-      "url": "https://www.bbc.com/news/videos/cr4de0x2xqvo?at_medium=RSS&at_campaign=rss",
+      "title": "Twitch yıldızı QTCinderella, yayına hiç başlamamayı dilediğini söyledi",
+      "summary": "Streamer Ödülleri organizatörü, çevrimiçi rolünün olumsuzluklarının işten zevk almayı zorlaştırdığını söyledi.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61bd/live/58caa050-d1dc-11f0-9267-ab26a8fe8cc2.jpg",
+      "url": "https://www.bbc.com/news/articles/c3v1dd01x65o?at_medium=RSS&at_campaign=rss",
       "rss_categories": []
     },
     {
@@ -464,10 +464,10 @@
       "rss_categories": []
     },
     {
-      "title": "ABD'nin F-35 açıklaması Yunanistan ve İsrail'de yankılandı: Trump ile Erdoğan'ın dostluğu çok güçlü... 'Kötü haberler peş peşe geliyor'",
-      "summary": "ABD'nin Ankara Büyükelçisi Tom Barrack, Türkiye'nin ABD yapımı F-35 savaş uçaklarını satın almaya çok yaklaştığını açıkladı. Yunanistan ve İsrail basınında geniş yankı uyandıran Barrack'ın açıklaması, Atina ve Tel Aviv'de endişe yarattı.",
-      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/6933ef0a9217d56cb452526f.jpg",
-      "url": "https://www.hurriyet.com.tr/dunya/abdnin-f-35-aciklamasi-yunanistan-ve-israilde-yankilandi-trump-ile-erdoganin-dostlugu-cok-guclu-kotu-haberler-pes-pese-geliyor-43044815",
+      "title": "Dışişleri Bakanı Hakan Fidan'dan SDG açıklaması: Suriyeli olmayan unsurların çıkarılmasını istiyoruz",
+      "summary": "Dışişleri Bakanı Hakan Fidan, Suriye'de SDG adını kullanan terör örgütü PKK/YPG'nin Suriye ordusuna entegrasyonuna ilişkin, \"PKK söz konusu olduğunda SDG içerisinde bazı unsurların bulunduğunu biliyoruz ve tek hedeflerinin Türkiye'ye karşı mücadele yürütmek olduğunu biliyoruz. Dolayısıyla Suriyeli olmayan unsurların SDG'den çıkarılmasını istiyoruz. Türkiye'nin çıkarlarının ve güvenliğinin aksi yönünde konuşlandırılmış bütün unsurların çıkarılması gerekiyor.\" dedi.",
+      "image": "https://image.hurimg.com/i/hurriyet/90/620x350/69345f126f11556d06a27646.jpg",
+      "url": "https://www.hurriyet.com.tr/dunya/disisleri-bakani-hakan-fidandan-sdg-aciklamasi-suriyeli-olmayan-unsurlarin-cikarilmasini-istiyoruz-43045378",
       "rss_categories": [
         "dünya"
       ]
@@ -572,6 +572,48 @@
       ]
     },
     {
+      "title": "İl Milli Eğitim Müdürlüğünden İstanbul Erkek Lisesi'ndeki kavgaya ilişkin açıklama",
+      "summary": "İstanbul İl Milli Eğitim Müdürlüğü, 25 Kasım'da İstanbul Erkek Lisesi'nin erkek pansiyonunda öğrenciler arasında çıkan kavgaya ilişkin idari soruşturmanın Valilik tarafından görevlendirilen İl Milli Eğitim müfettişlerince yürütüldüğünü bildirdi.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/il-milli-egitim-mudurlugunden-istanbul-erkek-lisesindeki-kavgaya-iliskin-aciklama-2368922",
+      "rss_categories": []
+    },
+    {
+      "title": "Konyaspor ile Çaykur Rizespor’un mücadelesinde kazanan çıkmadı",
+      "summary": "TÜMOSAN Konyaspor ile Çaykur Rizespor, Süper Lig’de puanları paylaştı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/spor/futbol/konyaspor-ile-caykur-rizesporun-mucadelesinde-kazanan-cikmadi-2368921",
+      "rss_categories": []
+    },
+    {
+      "title": "Başakşehir - Fenerbahçe Bein Sports 1 Canlı İzle | Kritik maç",
+      "summary": "Fenerbahçe, Trendyol Süper Lig'in 15. haftasında RAMS Başakşehir ile deplasmanda karşılaşıyor. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanaN bu müsabakanın canlı anlatımı burada.",
+      "image": "",
+      "url": "https://www.cnnturk.com/spor/futbol/live-basaksehir-fenerbahce-bein-sports-1-canli-izle-basaksehir-fenerbahce-bein-sports-bedava-izle-basaksehir-fenerbahce-bein-2368750",
+      "rss_categories": []
+    },
+    {
+      "title": "Avrupalı liderlerin görüşmesi sızdı: \"ABD, Ukrayna'ya ihanet edebilir\"",
+      "summary": "Alman basını çok konuşulacak bir iddiayı gündeme taşıdı. Almanya Başbakanı Merz ile Fransa Cumhurbaşkanı Macron'un ABD'nin Ukrayna fikirleriyle ilgili gizli telefon görüşmesine ulaştıklarını öne sürdü. Alman basını, o telefon görüşmesinde ABD'nin Ukrayna'ya \"ihanet edebileceği\" endişesinin konuşulduğunu iddia etti.",
+      "image": "",
+      "url": "https://www.cnnturk.com/video/dunya/avrupali-liderlerin-gorusmesi-sizdi-abd-ukraynaya-ihanet-edebilir-2368919",
+      "rss_categories": []
+    },
+    {
+      "title": "Kayıp ihbarıyla vahşet ortaya çıkmıştı! Eşini baltayla öldürüp evin banyosuna gömen şüpheli tutuklandı",
+      "summary": "Hatay'ın Erzin ilçesinde eşi Meliha Sarıkaya’yı (61) baltayla öldürüp evin banyosuna gömen Bekir Sarıkaya(77), çıkarıldığı mahkemece tutuklandı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/kayip-ihbariyla-vahset-ortaya-cikmisti-esini-baltayla-oldurup-evin-banyosuna-gomen-supheli-tutuklandi-2368920",
+      "rss_categories": []
+    },
+    {
+      "title": "Sivas'ta cezaevi nakil aracı devrildi: 2'si ağır, 9 yaralı!",
+      "summary": "Sivas'ın Zara ilçesinde cezaevi nakil aracının devrilmesi sonucu 7'si jandarma personeli 9 kişi yaralandı.",
+      "image": "",
+      "url": "https://www.cnnturk.com/turkiye/sivasta-cezaevi-nakil-araci-devrildi-2si-agir-9-yarali-2368918",
+      "rss_categories": []
+    },
+    {
       "title": "Lösemi haberleri CNN TÜRK Muhabiri Gökçe Tümer'e ödül getirdi",
       "summary": "LÖSEV, dünya gönüllüler gününde teşekkür buluşmaları düzenledi. Engelli hakları ve lösemili çocukların ihtiyaçlarını ekrana taşıyan CNN TÜRK Muhabiri Gökçe Tümer, Yılın Basın Gönüllüsü ödülünü kazandı.",
       "image": "",
@@ -597,13 +639,6 @@
       "summary": "Suriye Cumhurbaşkanı Ahmed Şara, Suriye’nin 4 yıl içinde seçime gideceğini söyledi.",
       "image": "",
       "url": "https://www.cnnturk.com/dunya/suriyenin-yeni-yol-haritasi-sara-secim-takvimini-acikladi-2368911",
-      "rss_categories": []
-    },
-    {
-      "title": "Başakşehir - Fenerbahçe Bein Sports 1 Canlı İzle | Kritik maç",
-      "summary": "Fenerbahçe, Trendyol Süper Lig'in 15. haftasında RAMS Başakşehir ile deplasmanda karşılaşıyor. beIN Sports 1, beIN Connect ve TOD ekranlarından naklen yayınlanacak bu müsabakanın canlı anlatımı burada.",
-      "image": "",
-      "url": "https://www.cnnturk.com/spor/futbol/live-basaksehir-fenerbahce-bein-sports-1-canli-izle-basaksehir-fenerbahce-bein-sports-bedava-izle-basaksehir-fenerbahce-bein-2368750",
       "rss_categories": []
     },
     {
@@ -642,13 +677,6 @@
       "rss_categories": []
     },
     {
-      "title": "TRT Uluslararası Çocuk Medyası Zirvesi başladı",
-      "summary": "- TRT Genel Müdürü Mehmet Zahid Sobacı:\n- \"Sözüm ona 'özgürlük' şemsiyesi altında yapay kimlikler ve cinsiyetler üretilmeye çalışılmaktadır. Bu küresel dalgaya karşı evlatlarımızı korumak, çocuk medyasını aile ekseninde ve değerler temelinde inşa etmek artık bir tercih değil bir zorunluluktur\"",
-      "image": "",
-      "url": "https://www.cnnturk.com/yerel-haberler/istanbul/trt-uluslararasi-cocuk-medyasi-zirvesi-basladi-2368904",
-      "rss_categories": []
-    },
-    {
       "title": "\"Yüzyılın Konut Projesi\"ne başvuru sayısı 5 milyonu aştı",
       "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Yüzyılın Konut Projesi'ne ilişkin, \"10 Kasım'da başlayan başvurularımızda şu anda 5 milyon 440 bin sayısına ulaştık, ilk kuraları inşallah 29 Aralık'ta çekeceğiz.\" dedi.",
       "image": "",
@@ -660,27 +688,6 @@
       "summary": "Cevizlibağ Metrobüs durağında metrobüs bekleyen 14 yaşındaki bir kız, metrobüsün durağa yaklaştığı sırada bayılarak yola düştü. Çarpan metrobüs nedeniyle ağır yaralanan çocuk hastanede yaşam mücadelesi verirken, sürücü gözaltına alındı.",
       "image": "",
       "url": "https://www.cnnturk.com/turkiye/istanbul-cevizlibagda-bayginlik-gecirerek-dusen-14-yasindaki-kiza-metrobus-carpti-2368857",
-      "rss_categories": []
-    },
-    {
-      "title": "Hatay'da kuvvetli rüzgar çatıları uçurdu",
-      "summary": "Hatay'ın İskenderun ilçesinde etkili olan kuvvetli rüzgar nedeniyle bazı binaların çatıları uçtu.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/hatayda-kuvvetli-ruzgar-catilari-ucurdu-2368856",
-      "rss_categories": []
-    },
-    {
-      "title": "Genelkurmay Başkanı Orgeneral Bayraktaroğlu, Suriye’ye resmi ziyarette bulundu",
-      "summary": "Genelkurmay Başkanı Orgeneral Selçuk Bayraktaroğlu, Şam’da Suriye Savunma Bakanı Tümgeneral Murhaf Ebu Kasra ve Genelkurmay Başkanı Tümgeneral Ali Nurettin Nasan ile görüştü.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/genelkurmay-baskani-orgeneral-bayraktaroglu-suriyeye-resmi-ziyarette-bulundu-2368853",
-      "rss_categories": []
-    },
-    {
-      "title": "Burdur'da temizlenmeyen bacadaki yangın paniğe neden oldu",
-      "summary": "Burdur'da bir restoranın temizlenmeyen bacasında çıkan yangın korkuttu.",
-      "image": "",
-      "url": "https://www.cnnturk.com/turkiye/burdurda-temizlenmeyen-bacadaki-yangin-panige-neden-oldu-2368852",
       "rss_categories": []
     },
     {
@@ -751,13 +758,6 @@
       "summary": "ABD’nin Ankara Büyükelçisi ve Suriye Özel Temsilcisi Tom Barrack, yaptığı kritik açıklamada Türkiye ile ABD arasındaki F-35 savaş uçağı konusunun önümüzdeki birkaç ay içinde çözüme kavuşabileceğini ima etti. Ankara’nın F-35’lere yeniden sahip olma ihtimali Atina ve Tel Aviv’de alarm zillerini çaldırdı.",
       "image": "",
       "url": "https://www.cnnturk.com/video/dunya/israil-ve-yunanistanda-f-35-panigi-turkiyeye-karsi-hazirlikli-olmaliyiz-2368736",
-      "rss_categories": []
-    },
-    {
-      "title": "Maduro’dan sert çıkış: Çeteleri bitirdik, ABD’ye tehdit hiç olmadık",
-      "summary": "Venezuela Devlet Başkanı Nicolas Maduro, ABD’nin terör listesine aldığı Tren de Aragua'nın da aralarında bulunduğu tüm organize suç çetelerinin güvenlik güçleri tarafından etkisiz hale getirildiğini açıkladı. Caracas'ta açılışı yapılan Bolivarcı Ulusal Polis Servisi Akademisi’nin yeni merkezinde konuşan Maduro, ülkesinin suç örgütlerine karşı kararlı mücadelesinin sürdüğünü söyledi.",
-      "image": "",
-      "url": "https://www.cnnturk.com/dunya/madurodan-sert-cikis-ceteleri-bitirdik-abdye-tehdit-hic-olmadik-2368725",
       "rss_categories": []
     },
     {
@@ -905,13 +905,6 @@
       "summary": "Fenerbahçe’de Ocak transfer dönemine hızla yaklaşırken Fenerbahçe’de flaş bir gelişme yaşandı. Sarı-lacivertlilerde bu sezon beklentilerin altında kalan Sebastian Szymanski’nin takımdan ayrılmak istediği ve menajerinin kulübe iki somut teklif sunduğu iddia edildi.",
       "image": "",
       "url": "https://www.cnnturk.com/spor/futbol/fenerbahcede-ayrilik-kapida-szymanski-yonetimle-gorustu-2368778",
-      "rss_categories": []
-    },
-    {
-      "title": "Trabzonspor, Göztepe deplasmanında zirve takibini sürdürme hedefinde",
-      "summary": "Trabzonspor, Göztepe'yle Süper Lig’in 15’inci haftasında yarın yapacakları maçla 31’inci kez karşı karşıya gelecek.",
-      "image": "",
-      "url": "https://www.cnnturk.com/spor/futbol/trabzonspor-goztepe-deplasmaninda-zirve-takibini-surdurme-hedefinde-2368759",
       "rss_categories": []
     },
     {
